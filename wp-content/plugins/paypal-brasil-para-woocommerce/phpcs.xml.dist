@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<ruleset name="WooCommerce Coding Standards">
+	<description>WooCommerce PayPal Payments ruleset.</description>
+
+	<!-- Configs -->
+	<config name="minimum_supported_wp_version" value="5.3" />
+	<config name="testVersion" value="7.1-" />
+
+	<!-- Rules -->
+	<rule ref="WooCommerce-Core" />
+
+	<rule ref="WordPress.WP.I18n">
+		<properties>
+			<property name="text_domain" type="array" value="woocommerce-paypal-payments" />
+		</properties>
+	</rule>
+
+	<rule ref="PHPCompatibility">
+		<exclude-pattern>tests/</exclude-pattern>
+	</rule>
+
+	<rule ref="WordPress">
+		<exclude name="WordPress.Files.FileName.NotHyphenatedLowercase" />
+		<exclude name="WordPress.Files.FileName.InvalidClassFileName" />
+		<exclude name="WordPress.PHP.DisallowShortTernary" />
+	</rule>
+
+	<rule ref="Squiz.Commenting.FunctionComment">
+		<properties>
+			<property name="skipIfInheritdoc" value="true" />
+		</properties>
+	</rule>
+
+	<arg name="extensions" value="php"/>
+	<file>includes</file>
+	<file>class-paypal-brasil.php</file>
+	<file>paypal-brasil-para-woocommerce.php</file>
+
+	<exclude-pattern>*/node_modules/*</exclude-pattern>
+	<exclude-pattern>*/vendor/*</exclude-pattern>
+</ruleset>

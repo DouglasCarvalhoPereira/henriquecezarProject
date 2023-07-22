@@ -1,0 +1,1137 @@
+# Copyright (C) 2023 PayPal
+# This file is distributed under the same license as the PayPal Brasil para WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Brasil para WooCommerce 1.4.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/paypal-brasil-para-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-22T17:38:20-03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: paypal-brasil-para-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "PayPal Brasil para WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adicione facilmente opções de pagamento do PayPal à sua loja do WooCommerce."
+msgstr ""
+
+#. Author of the plugin
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:176
+msgid "PayPal"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://paypal.com.br"
+msgstr ""
+
+#: class-paypal-brasil.php:153
+msgid "Settings"
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:140
+msgid "Unable to get access token."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:179
+msgid "Unable to create payment."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:216
+msgid "Unable to obtain payment details."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:259
+msgid "Unable to execute payment."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:295
+msgid "Unable to update payment."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:343
+msgid "Could not create billing authorization token."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:371
+msgid "Unable to create billing authorization."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:409
+msgid "Unable to get installment options."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:443
+msgid "Unable to verify PayPal signature."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:475
+msgid "Unable to get the webhooks."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:522
+msgid "Could not create webhook."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-api.php:570
+msgid "It was not possible to make a refund."
+msgstr ""
+
+#: includes/api/class-paypal-brasil-connection-exception.php:23
+msgid "There was an error connecting to PayPal."
+msgstr ""
+
+#: includes/handlers/abstratct-class-paypal-brasil-api-handler.php:115
+msgid "PayPal payment method not found"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-billing-agreement-token.php:30
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:30
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-cart-handler.php:30
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-mini-cart-handler.php:30
+msgid "nonce"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-billing-agreement-token.php:54
+msgid "Some fields are missing to create payment authorization token."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-billing-agreement-token.php:87
+msgid "Successfully created token."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-billing-agreement-token.php:102
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:295
+#: includes/handlers/api/class-paypal-brasil-api-save-billing-agreement.php:112
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-cart-handler.php:159
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-mini-cart-handler.php:156
+msgid "The %s is invalid."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-billing-agreement-token.php:107
+msgid "You must be logged in to proceed with this type of payment."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:36
+msgid "name"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:42
+msgid "surname"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:48
+msgid "city"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:54
+msgid "country"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:60
+msgid "zip code"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:66
+msgid "state"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:72
+msgid "address"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:78
+msgid "number"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:84
+msgid "complement"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:89
+msgid "neighborhood"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:94
+msgid "phone"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:132
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-cart-handler.php:69
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-mini-cart-handler.php:67
+msgid "You cannot pay for an empty order."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:154
+msgid "Store Order %s"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:249
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-cart-handler.php:146
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-mini-cart-handler.php:143
+msgid "Payment created successfully."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:262
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:278
+#: includes/handlers/api/class-paypal-brasil-api-save-billing-agreement.php:120
+msgid "The field <strong>%s</strong> is required."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-checkout-handler.php:280
+msgid "The field <strong>%s</strong> is invalid."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-save-billing-agreement.php:30
+msgid "Billing Agreement"
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-save-billing-agreement.php:83
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:576
+msgid "There was a problem verifying the payment settlement token session."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-save-billing-agreement.php:99
+msgid "Payment agreement successfully saved."
+msgstr ""
+
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-cart-handler.php:91
+#: includes/handlers/api/class-paypal-brasil-api-shortcut-mini-cart-handler.php:89
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:971
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1360
+msgid "Store order %s"
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:100
+msgid "PayPal: Paid transaction."
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:122
+msgid "PayPal: The transaction was rejected by the card company or for fraud."
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:153
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:161
+msgid "PayPal: The transaction was partially refunded."
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:155
+msgid "PayPal: The transaction has been refunded in full."
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:161
+msgid "PayPal: transaction refunded in full."
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:168
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:210
+msgid "There was an error trying to make a refund: %s"
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:175
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:218
+msgid "This order has already been refunded."
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:198
+msgid "PayPal: The transaction has been rolled back."
+msgstr ""
+
+#: includes/handlers/class-paypal-brasil-webhooks-handler.php:202
+msgid "PayPal: reversed transaction."
+msgstr ""
+
+#: includes/helpers.php:212
+msgid "WooCommerce settings have been changed successfully."
+msgstr ""
+
+#: includes/helpers.php:213
+msgid "WooCommerce settings have not changed."
+msgstr ""
+
+#: includes/payment-methods/abstract-class-paypal-brasil-gateway.php:110
+msgid "Webhook successfully treated."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:37
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:37
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:46
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:47
+msgid "PayPal Brasil"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:38
+msgid "Add PayPal Transparent Checkout to Your WooCommerce Store."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:50
+msgid "PayPal Brasil - Transparent Checkout"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:136
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:190
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:247
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:253
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:259
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:66
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:70
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:59
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:63
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:300
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:138
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:181
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:192
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:226
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:236
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:249
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:255
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:261
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:80
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:291
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:73
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:278
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:286
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:308
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:415
+msgid "Enable"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:142
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:196
+msgid "Display name (add-on)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:146
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:200
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:103
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:107
+msgid "Mode"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:149
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:203
+msgid "Live"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:150
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:204
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:128
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:114
+msgid "Sandbox"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:152
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:116
+msgid "Use this option to toggle between Sandbox and Production modes. Sandbox is used for testing and Production for actual purchases."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:179
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:279
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:283
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:403
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:407
+msgid "Debug mode"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:182
+msgid "Enable this mode to debug the application in case of approval or errors."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:183
+msgid "Logs will be saved to the path: %s."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:186
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:234
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:238
+msgid "Form height"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:189
+msgid "px"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:190
+msgid "Use this option to define a maximum height of the credit card form (a value in pixels will be considered). A value in pixels between 400 - 550 will be accepted."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:208
+msgid "Status do Sistema &gt; Logs"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:229
+msgid "Credit card details are not valid. Please try again."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:232
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:252
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:453
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:459
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:462
+msgid "Payment not approved. Please try again."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:235
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:441
+msgid "Internal error."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:244
+msgid "An unexpected error occurred, please try again. If the error persists, contact. (#23)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:249
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:456
+msgid "Try another card."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:255
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:465
+msgid "Session expired. Please try again."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:258
+msgid "Please review the entered credit card information."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:275
+msgid "You are not allowed to do that."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:279
+msgid "A payment attempt was made without filling in the card details."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:295
+msgid "We were unable to identify the payment ID. Please refresh the page and try again."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:300
+msgid "There was an internal error processing the payment. The payment ID was not identified."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:310
+msgid "We were unable to complete the payment via PayPal, please try again. If the error persists, please contact us."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:324
+msgid "An unexpected error occurred, please try again. If the error persists, please contact us. (#67)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:341
+msgid "There was an error validating the request. Please refresh the page and try again."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:346
+msgid "There was an attempt to pay a cart other than approval."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:370
+msgid "Credit card (%dx de %s) - PayPal"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:371
+msgid "Debit card (in cash) - PayPal"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:380
+msgid "Payment in %d installments of %s on PayPal."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:381
+msgid "Cash payment on PayPal."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:396
+msgid "Payment processed by PayPal. Transaction ID: <a href=\"%s\" target=\"_blank\" rel=\"noopener\">%s</a>."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:406
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:867
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1021
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1087
+msgid "Payment is under review by PayPal."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:447
+msgid "An unexpected error occurred, please try again. If the error persists, please contact us."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:450
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1140
+msgid "A payment already exists for this order."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:468
+msgid "Check the entered data"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:471
+msgid "Payment not approved. Please try again or select another payment method."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:487
+msgid "There was an unknown error when trying to process the payment through PayPal. Please contact support."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:537
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1160
+msgid "The refund cannot be less than %s."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:554
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1182
+msgid "There was an error trying to make a refund."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:557
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1185
+msgid "It looks like you don't have a request for a refund."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:583
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:588
+msgid "Order #%s performed in the store %s"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:704
+msgid "PayPal Plus payment method is not selected."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:868
+msgid "An unexpected error occurred, please try again. If the error persists, please contact us. (#56)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:997
+msgid "An unexpected error occurred, please try again. If the error persists, contact. (#56)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1017
+#: includes/views/checkout/html-paypal-iframe-br.php:25
+#: includes/views/checkout/shortcut-checkout-fields.php:87
+#: includes/views/checkout/shortcut-checkout-fields.php:92
+msgid "Name"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1022
+#: includes/views/checkout/html-paypal-iframe-br.php:30
+msgid "Last name"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1027
+msgid "Phone"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1032
+#: includes/views/checkout/shortcut-checkout-fields.php:99
+msgid "Address"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1037
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1042
+#: includes/views/checkout/shortcut-checkout-fields.php:111
+msgid "Country"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1047
+#: includes/views/checkout/shortcut-checkout-fields.php:107
+msgid "State"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1052
+#: includes/views/checkout/shortcut-checkout-fields.php:115
+msgid "Zip code"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1057
+msgid "Email"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1065
+msgid "Number"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1069
+msgid "Person type"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1073
+msgid "CPF"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1077
+msgid "CNPJ"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1118
+msgid "Check the entered data."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1160
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1246
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1214
+msgid "PayPal - Transparent Checkout"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1214
+msgid "Transparent checkout"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1217
+msgid "Credit card"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-plus-gateway.php:1217
+msgid "Credit Card"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:39
+msgid "Add PayPal Digital Wallet Solutions to Your WooCommerce Store."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:52
+msgid "PayPal Brasil - Digital Wallet"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:171
+msgid "PayPal - Digital Wallet"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:172
+msgid "Digital Wallet"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:208
+msgid "Client (live)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:212
+msgid "Client (sandbox)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:216
+msgid "Secret (live)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:220
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:209
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:213
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:192
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:196
+msgid "Secret (sandbox)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:224
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:218
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:222
+msgid "Format"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:228
+msgid "Rectangle"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:229
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:229
+msgid "Rounded"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:234
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:239
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:243
+msgid "Color"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:238
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:249
+msgid "Blue"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:239
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:250
+msgid "Gold"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:240
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:251
+msgid "Silver"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:241
+msgid "White"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:242
+msgid "Black"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:265
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:384
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:388
+msgid "Prefix in the order number"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:268
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:270
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:394
+msgid "Add a prefix to the order number, this is useful for identifying you when you have more than one store processing through PayPal."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:596
+msgid "There was an error creating the payment authorization."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:620
+msgid "Payment Review"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:921
+msgid "There was a problem verifying the fraudnet token."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:980
+msgid "Order payment #%s at %s shop"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1004
+msgid "PayPal discount (%d%%)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1123
+msgid "The payment method was not correctly detected. Please try again."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1132
+msgid "An unexpected error occurred, please try again. If the error persists, please contact us. (#01)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1136
+msgid "An unexpected error occurred, please try again. If the error persists, please contact us. (#12)"
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1144
+msgid "Your payment was not approved, please try again."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1195
+msgid "Ready! Your PayPal account is already enabled for this payment. Review your order information and complete your purchase."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1528
+msgid "You canceled the creation of the payment term."
+msgstr ""
+
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1551
+#: includes/payment-methods/class-paypal-brasil-spb-gateway.php:1578
+msgid "You canceled the payment."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:7
+msgid ""
+"<p>Dear customer, <strong>PayPal Transparent Checkout</strong> only works in production upon\n"
+"                commercial release, if you have already received approval, please ignore this message. Otherwise,\n"
+"                call our sales center (0800 047 4482) and request it right now.</p>\n"
+"            <p>If you are seeing the \"prohibited\" sign during checkout, your account is not cleared for\n"
+"                usage.</p>"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:24
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:9
+msgid "Your credentials are not valid. Please check the information provided."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:32
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:16
+msgid "It was not possible to activate the \"Save Digital Wallet\" functionality because we verified that your PayPal account does not have permission to use this product. Contact PayPal at 0800 721 6959 and request its release."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:41
+msgid "Unable to create webhook configurations. Try to save again."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:53
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:54
+msgid "PayPal Brazil"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:102
+msgid "Example: Installments up to 12x"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:103
+msgid "Will be displayed at checkout: Credit Card "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:127
+msgid "Production"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:130
+msgid ""
+"Use this option to toggle between Sandbox and Production modes. Sandbox is\n"
+"                        used for testing and production for actual purchases."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:140
+msgid ""
+"Client ID\n"
+"                    (production)"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:145
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:129
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:151
+msgid "Client ID"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:151
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:175
+msgid "To generate the Client ID go to"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:153
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:199
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:222
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:182
+msgid "here"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:154
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:178
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:200
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:223
+msgid "and get it from the “REST API APPS” section."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:163
+msgid ""
+" Client ID\n"
+"                    (sandbox)"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:168
+msgid " Client ID"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:177
+msgid " here "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:187
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:170
+msgid "Secret (production)"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:191
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:174
+msgid "Secret"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:197
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:220
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:180
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:203
+msgid "To generate the Secret go to "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:228
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:378
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:247
+msgid ""
+"Use this option to set a maximum height of the greeting card form.\n"
+"                        credit (will be considered a value in pixels). A value in pixels between 400 -\n"
+"                        550."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:258
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:263
+msgid ""
+"Prefix in number\n"
+"                    order"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:292
+msgid "The logs will be saved in the path:"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-plus/admin-options-plus-template.php:294
+msgid ""
+"Status\n"
+"                                                                                   of the system &gt; Logs"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:26
+msgid "It was not possible to activate the \"Save Digital Wallet\" functionality because the mandatory settings were not applied."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:36
+msgid "Could not create webhook configurations. Try to save again."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:82
+msgid "Display name (complement)"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:86
+msgid "Display name"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:92
+msgid "Example: (up to 12 installments)"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:93
+msgid "Will show at checkout: PayPal "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:113
+msgid "Production "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:125
+msgid "Client ID (production)"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:135
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:158
+msgid "To generate the Client ID go to "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:137
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:160
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:205
+msgid "here "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:138
+msgid "and look for the “REST API apps” section."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:147
+msgid "Client ID (sandbox) "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:161
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:183
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:206
+msgid " and look for the “REST API apps” section."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:212
+msgid "Button Settings"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:228
+msgid "Rectangular"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:261
+msgid "Button preview"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:274
+msgid "PayPal in Cart"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:287
+msgid "The PayPal digital wallet will also be offered in the shopping cart."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:296
+msgid "Save Digital Wallet"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:309
+msgid "The convenience of saving your customer's PayPal digital wallet in your store. So he no longer needs to authenticate to his PayPal account, ensuring a faster and safer purchase. <b>This feature requires PayPal approval. Contact us at 0800 721 6959 and request its release."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:312
+msgid ""
+"To guarantee the integrity of your client's digital wallet, it is necessary\n"
+"that the following options are configured in "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:314
+msgid "WooCommerce > Settings > Accounts & Privacy"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:326
+msgid "Allow your customers to place orders without an account"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:339
+msgid "Allow your customers to log in to an existing account during checkout"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:352
+msgid "Allow your customers to create an account during checkout"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:358
+msgid "Enable settings for me"
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:373
+msgid "Only enable this feature if you have PayPal approval and if the above settings have been applied."
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:416
+msgid "The logs will be saved in the path: "
+msgstr ""
+
+#: includes/views/admin-options/admin-options-spb/admin-options-spb-template.php:417
+msgid "System status &gt; Logs "
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:16
+msgid "Card number"
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:21
+msgid "Name of card holder"
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:37
+msgid "Validity"
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:48
+msgid "Security code (CVV)"
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:50
+msgid "3 digits"
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:57
+msgid "Select installments for this purchase"
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:61
+msgid "Your information will be collected in accordance with the "
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:61
+msgid "PayPal Privacy Policy"
+msgstr ""
+
+#: includes/views/checkout/html-paypal-iframe-br.php:65
+msgid "I want to receive important information, special offers and discounts from PayPal."
+msgstr ""
+
+#: includes/views/checkout/plus-html-fields.php:51
+msgid "Please correctly fill in the information from the previous steps:"
+msgstr ""
+
+#: includes/views/checkout/plus-html-fields.php:52
+msgid "If you have already filled it out, <a href=\"#\" data-action=\"update-checkout\">click here</a>."
+msgstr ""
+
+#: includes/views/checkout/plus-html-fields.php:53
+msgid "Please contact us. There is invalid information in the order:"
+msgstr ""
+
+#: includes/views/checkout/plus-html-fields.php:54
+msgid "Please fill correctly the previously asked information."
+msgstr ""
+
+#: includes/views/checkout/plus-html-fields.php:55
+msgid "If they are already filled,  <a href=\"#\" data-action=\"update-checkout\">click here</a>."
+msgstr ""
+
+#: includes/views/checkout/plus-html-fields.php:56
+msgid "Please contact us. There are invalid information on order:"
+msgstr ""
+
+#: includes/views/checkout/reference-transaction-html-fields.php:37
+msgid "Linked PayPal account: %s"
+msgstr ""
+
+#: includes/views/checkout/reference-transaction-html-fields.php:45
+msgid " - Discount of %s %%(-%s)"
+msgstr ""
+
+#: includes/views/checkout/reference-transaction-html-fields.php:59
+msgid "We found an error in your PayPal acceptance form, please create a new one."
+msgstr ""
+
+#: includes/views/checkout/reference-transaction-html-fields.php:87
+msgid "Change PayPal account or credit card"
+msgstr ""
+
+#: includes/views/checkout/reference-transaction-html-fields.php:89
+msgid "Add PayPal Account"
+msgstr ""
+
+#: includes/views/checkout/shortcut-checkout-fields.php:80
+msgid "Please check the data obtained through your PayPal payment before finalizing your purchase."
+msgstr ""
+
+#: includes/views/checkout/shortcut-checkout-fields.php:81
+msgid "This is not my address."
+msgstr ""
+
+#: includes/views/checkout/shortcut-checkout-fields.php:103
+msgid "City"
+msgstr ""
+
+#: includes/views/checkout/shortcut-checkout-fields.php:124
+msgid "There was an unexpected error getting payment details. Try again."
+msgstr ""
+
+#: includes/views/checkout/spb-checkout-fields.php:25
+msgid "There was an error creating the payment token. Please try again."
+msgstr ""
+
+#: includes/views/notices/html-notice-missing-ecfb.php:17
+#: includes/views/notices/html-notice-missing-woocommerce.php:17
+#: includes/views/notices/html-notice-wrong-version-woocommerce.php:14
+msgid "PayPal Brazil for WooCommerce"
+msgstr ""
+
+#: includes/views/notices/html-notice-missing-ecfb.php:17
+msgid "it depends on the latest version of Brazilian Market on WooCommerce to work!"
+msgstr ""
+
+#: includes/views/notices/html-notice-missing-ecfb.php:23
+msgid "Activate Brazilian Market on WooCommerce"
+msgstr ""
+
+#: includes/views/notices/html-notice-missing-ecfb.php:33
+msgid "Install Brazilian Market on WooCommerce"
+msgstr ""
+
+#: includes/views/notices/html-notice-missing-woocommerce.php:17
+msgid "depends on the latest version of WooCommerce to work!"
+msgstr ""
+
+#: includes/views/notices/html-notice-missing-woocommerce.php:23
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: includes/views/notices/html-notice-missing-woocommerce.php:33
+msgid "Install WooCommerce"
+msgstr ""
+
+#: includes/views/notices/html-notice-woocommerce-unavailable-currency.php:14
+msgid "<strong>PayPal Brazil for WooCommerce</strong> only compatible with coins %s. check your settings <a href=\"%s\">aqui</a>."
+msgstr ""
+
+#: includes/views/notices/html-notice-wrong-version-woocommerce.php:14
+msgid "depends on WooCommerce version 3.6 or higher to work! You are using version %s. Please update."
+msgstr ""

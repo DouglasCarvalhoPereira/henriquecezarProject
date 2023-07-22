@@ -1,0 +1,5851 @@
+# Translation of Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-13 18:45:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release)\n"
+
+#: templates/single/assignment/content.php:282
+msgctxt "Assignment attachment"
+msgid " file)"
+msgstr " archivo)"
+
+#: templates/single/assignment/content.php:281
+msgctxt "Assignment attachment"
+msgid "Attach assignment files (Max: "
+msgstr "Adjuntar los archivos de la tarea (Max: "
+
+#: includes/translate-text.php:208 includes/translate-text.php:244
+msgctxt "Month name"
+msgid "December"
+msgstr "Diciembre"
+
+#: includes/translate-text.php:205 includes/translate-text.php:241
+msgctxt "Month name"
+msgid "November"
+msgstr "Noviembre"
+
+#: includes/translate-text.php:202 includes/translate-text.php:238
+msgctxt "Month name"
+msgid "October"
+msgstr "Octubre"
+
+#: includes/translate-text.php:199 includes/translate-text.php:235
+msgctxt "Month name"
+msgid "September"
+msgstr "Septiembre"
+
+#: includes/translate-text.php:196 includes/translate-text.php:232
+msgctxt "Month name"
+msgid "August"
+msgstr "Agosto"
+
+#: includes/translate-text.php:193 includes/translate-text.php:229
+msgctxt "Month name"
+msgid "July"
+msgstr "Julio"
+
+#: includes/translate-text.php:190 includes/translate-text.php:226
+msgctxt "Month name"
+msgid "June"
+msgstr "Junio"
+
+#: includes/translate-text.php:187 includes/translate-text.php:223
+msgctxt "Month name"
+msgid "May"
+msgstr "Mayo"
+
+#: includes/translate-text.php:184 includes/translate-text.php:220
+msgctxt "Month name"
+msgid "April"
+msgstr "Abril"
+
+#: includes/translate-text.php:181 includes/translate-text.php:217
+msgctxt "Month name"
+msgid "March"
+msgstr "Marzo"
+
+#: includes/translate-text.php:178 includes/translate-text.php:214
+msgctxt "Month name"
+msgid "February"
+msgstr "Febrero"
+
+#: includes/translate-text.php:175 includes/translate-text.php:211
+msgctxt "Month name"
+msgid "January"
+msgstr "Enero"
+
+#: includes/translate-text.php:170
+msgctxt "Week name"
+msgid "Sunday"
+msgstr "Domingo"
+
+#: includes/translate-text.php:167
+msgctxt "Week name"
+msgid "Saturday"
+msgstr "Sábado"
+
+#: includes/translate-text.php:164
+msgctxt "Week name"
+msgid "Friday"
+msgstr "Viernes"
+
+#: includes/translate-text.php:161
+msgctxt "Week name"
+msgid "Thursday"
+msgstr "Jueves  "
+
+#: includes/translate-text.php:158
+msgctxt "Week name"
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: includes/translate-text.php:155
+msgctxt "Week name"
+msgid "Tuesday"
+msgstr "Martes"
+
+#: includes/translate-text.php:152
+msgctxt "Week name"
+msgid "Monday"
+msgstr "Lunes"
+
+#: views/maintenance.php:77
+msgid "Sorry for the inconvenience."
+msgstr "Lamentamos los inconvenientes"
+
+#: views/maintenance.php:76
+msgid "Under Maintenance"
+msgstr "En mantenimiento"
+
+#: includes/tutor-general-functions.php:404
+#: includes/tutor-general-functions.php:411
+msgid "file not exists"
+msgstr "archivo no existe"
+
+#: views/qna/qna-single.php:127
+msgid "ago"
+msgstr "hace"
+
+#: views/pages/instructors.php:292
+msgid "Enter Your Email"
+msgstr "Introduce tu correo electrónico"
+
+#: views/pages/instructors.php:281
+msgid "Enter Phone Number"
+msgstr "Introduce el número de teléfono"
+
+#: views/quiz/attempt-details.php:234
+msgid "min-width:180px"
+msgstr "min-width:180px"
+
+#: classes/Quiz.php:1040 classes/Quiz.php:1061
+msgid "Invalid quiz question ID"
+msgstr "ID de pregunta de cuestionario no válido"
+
+#: classes/Post_types.php:440
+msgid "Course scheduled for:"
+msgstr "Curso programado para:"
+
+#: views/quiz/attempt-table.php:205
+msgid "Would you like to delete Quiz Attempt permanently? We suggest you proceed with caution."
+msgstr "¿Quieres borrar Quiz Attempt definitivamente? Te sugerimos que procedas con cautela."
+
+#: views/pages/addons.php:60
+msgctxt "addon-last-checked"
+msgid "from now"
+msgstr "desde ahora"
+
+#: views/pages/addons.php:56
+msgctxt "addon-last-checked"
+msgid "Last checked"
+msgstr "Última comprobación"
+
+#: templates/single/course/reviews.php:109
+msgid "%s Rating"
+msgid_plural "%s Ratings"
+msgstr[0] "%s valoración"
+msgstr[1] "%s valoraciones"
+
+#: templates/dashboard/withdraw.php:66
+msgid "Current Balance is %s"
+msgstr "El saldo actual es %s"
+
+#: templates/dashboard/purchase_history.php:191
+msgid "Pay"
+msgstr "Pagar"
+
+#: templates/dashboard/my-courses.php:259
+msgid "Cancel Submission"
+msgstr "Cancelar envío"
+
+#: templates/dashboard/my-courses.php:240
+msgid "Move to Draft"
+msgstr "Mover a borrador"
+
+#: templates/dashboard/my-courses.php:221
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: classes/Quiz.php:1653
+msgid "Attempt deleted successfully!"
+msgstr "¡Informes borrados correctamente!"
+
+#: classes/Course.php:1631
+msgid "Invalid course ID"
+msgstr "ID de curso no válido."
+
+#: classes/Course.php:1628
+msgid "Enrollment failed, please try again!"
+msgstr "Ha ocurrido un problema con el pago. Por favor, inténtalo de nuevo."
+
+#: classes/Course.php:222
+msgid "One product can not be added to multiple course!"
+msgstr "Un producto no puede añadirse a varios cursos."
+
+#: classes/Addons.php:111
+msgid "Connect Tutor LMS with Google Meet to host live online classes. Students can attend live classes right from the lesson page."
+msgstr "Conecta Tutor LMS con Zoom para organizar clases en línea en vivo. Los estudiantes pueden asistir a clases en vivo directamente desde la página de la lección."
+
+#: classes/Addons.php:110
+msgid "Tutor Google Meet Integration"
+msgstr "Integración Tutor Google Meet"
+
+#: templates/course-embed.php:124
+msgid "View Details"
+msgstr "Ver detalles"
+
+#: views/elements/bulk-confirm-popup.php:24
+msgid "Before You Proceed!"
+msgstr "¡Antes de continuar!"
+
+#: templates/single/course/reviews.php:57
+msgid "Student Ratings & Reviews"
+msgstr "Valoraciones y reseñas de estudiantes"
+
+#: includes/translate-text.php:37
+msgid "Archived"
+msgstr "Archivado"
+
+#: includes/translate-text.php:31
+msgid "Unread"
+msgstr "Sin leer"
+
+#: includes/translate-text.php:28
+msgid "Read"
+msgstr "Leído"
+
+#. translators: %s: number of quiz pass required
+#. translators: %s: number of assignment pass required
+#: classes/Course.php:1477 classes/Course.php:1481
+msgid "You have to pass %1$s %2$s to complete this course."
+msgstr "Tienes que aprobar %1$s %2$s para completar este curso."
+
+#: views/metabox/product-selection.php:74
+msgid "Sale Price (Discounted Price)"
+msgstr "Precio en oferta (Precio rebajado)"
+
+#: views/metabox/product-selection.php:64
+msgid "Regular Price"
+msgstr "Precio normal"
+
+#: views/metabox/course-add-product-metabox.php:22
+msgid "on WooCommerce"
+msgstr "en Woocommerce"
+
+#: classes/Course.php:1473
+msgid "assignment"
+msgid_plural "assignments"
+msgstr[0] "tarea"
+msgstr[1] "tareas"
+
+#: classes/Course.php:1472
+msgid "quiz"
+msgid_plural "quizzes"
+msgstr[0] "cuestionario"
+msgstr[1] "cuestionarios"
+
+#: templates/dashboard/dashboard.php:123
+msgid "Click Here"
+msgstr "Haz clic aquí"
+
+#: templates/dashboard.php:102
+msgid "Hello"
+msgstr "Hola"
+
+#: classes/Reviews.php:112
+msgid "Only admin can change review status"
+msgstr "Sólo el administrador puede cambiar el estado de la revisión"
+
+#: classes/Options_V2.php:698
+msgid "Publish Course Review on Admin's Approval"
+msgstr "Publicar revisión del curso con la aprobación del administrador"
+
+#: views/qna/qna-new.php:18
+msgid "Do you have any questions?"
+msgstr "¿Tienes alguna pregunta?"
+
+#: templates/single/lesson/comment.php:84
+#: templates/single/lesson/comments-loop.php:82
+msgid "Write your comment here…"
+msgstr "Escribe tu comentario aquí..."
+
+#: templates/single/course/instructors.php:21
+msgid "A course by"
+msgstr "Un curso de"
+
+#: templates/single/course/course-topics.php:38
+#: templates/single/lesson/lesson_sidebar.php:41
+msgid "Course Content"
+msgstr "Contenido del curso"
+
+#: classes/Options_V2.php:837
+msgid "Automatically Complete WooCommerce Orders"
+msgstr "Completar pedidos de WooCommerce automáticamente"
+
+#: classes/Options_V2.php:766
+msgid "The highest number of attempts allowed for students to participate a quiz. 0 means unlimited. This will work as the default Quiz Attempt limit in case of Quiz Retry Mode."
+msgstr "El número máximo de intentos permitidos para que los estudiantes participen en un cuestionario. 0 significa ilimitado. Esto funcionará como el límite de intentos por defecto en el caso del modo de reintentos."
+
+#: classes/Options_V2.php:764
+msgid "Default Quiz Attempt limit (when Retry Mode is enabled)"
+msgstr "Límite de intentos por defecto (cuando el modo reintento está activado)"
+
+#: classes/Options_V2.php:562
+msgid "Terms and Conditions Page"
+msgstr "Página de términos y condiciones"
+
+#: classes/Options_V2.php:647
+msgid "Content Summary"
+msgstr "Resumen del contenido"
+
+#: templates/login-form.php:101
+msgid "Register Now"
+msgstr "Regístrate ahora"
+
+#: views/qna/qna-single.php:192
+msgid "Do You Want to Delete This Question?"
+msgstr "¿Quieres borrar esta pregunta?"
+
+#: views/pages/uninstall.php:20
+msgid "Deactivate"
+msgstr "Desactivar "
+
+#: views/options/field-types/upload_half.php:35
+msgid "Image size ratio: 4:1"
+msgstr "Ratio de imagen: 4:1"
+
+#: views/options/field-types/upload_half.php:33
+msgid "jpg, .jpeg, .png"
+msgstr ".jpg, .jpeg, .png"
+
+#: views/metabox/course-additional-data.php:20
+msgid "Invalid post type"
+msgstr "Tipo de publicación no válido"
+
+#: views/elements/common-confirm-popup.php:31
+msgid "Are you sure you want to delete this permanently from the site? Please confirm your choice."
+msgstr "¿Estas seguro que quieres borrarlo permanentemente del sitio? Por favor, confírmalo."
+
+#: views/elements/common-confirm-popup.php:30
+msgid "Do You Want to Delete This?"
+msgstr "¿Quieres borrar esto?"
+
+#: templates/single/quiz/top.php:134
+msgid "Do You Want to Skip This Quiz?"
+msgstr "¿Quieres saltar este cuestionario?"
+
+#: templates/single/lesson/complete_form.php:29
+msgid "Mark as Complete"
+msgstr "Marcar como completo"
+
+#: templates/single/course/lead-info.php:78
+msgid "Categories:"
+msgstr "Categorías:"
+
+#: templates/modal/alert.php:37
+msgid "Ok"
+msgstr "Ok"
+
+#: templates/instructor/cover.php:16
+msgid "Instructor Cover Photo"
+msgstr "Foto de portada del instructor"
+
+#: templates/dashboard/reviews/given-reviews.php:137
+msgid "Do You Want to Delete This Review?"
+msgstr "¿Quieres borrar esta valoración?"
+
+#: templates/dashboard/dashboard.php:63
+msgid "Thanks for completing your profile"
+msgstr "Gracias por completar tu perfil"
+
+#: templates/dashboard/dashboard.php:61
+msgid "You are almost done"
+msgstr "¡Ya casi estás listo!"
+
+#: templates/dashboard/dashboard.php:59
+msgid "Please complete profile"
+msgstr "Por favor completa el perfil"
+
+#: templates/dashboard/assignments/review.php:141
+msgid "Evaluate mark can not be greater than total mark"
+msgstr "La nota de evaluación no puede ser mayor que la nota total"
+
+#: includes/translate-text.php:123
+msgctxt "true/false question options"
+msgid "False"
+msgstr "Falso"
+
+#: includes/translate-text.php:120
+msgctxt "true/false question options"
+msgid "True"
+msgstr "Verdadero"
+
+#: classes/Options_V2.php:1440
+msgid "Gray"
+msgstr "Gris"
+
+#: classes/Ajax.php:639
+msgid "Something Went Wrong!"
+msgstr "¡Algo ha ido mal!"
+
+#: views/options/template/tutor_pages.php:22
+msgid "All Pages"
+msgstr "Todas las páginas"
+
+#: templates/single/lesson/sidebar_question_and_answer.php:48
+msgid "Describe what you're trying to achieve and where you're getting stuck"
+msgstr "Describe qué estás intentando lograr y dónde estás estancado"
+
+#: templates/single/course/course-benefits.php:23
+msgid "What Will You Learn?"
+msgstr "¿Qué aprenderás?"
+
+#: templates/dashboard/assignments.php:34 views/metabox/course-contents.php:140
+#: views/metabox/course-topics.php:135
+msgid "Assignment"
+msgstr "Tarea"
+
+#: classes/Tutor_Setup.php:441
+msgid "Allow users to have a instructor profile to showcase awards and completed courses."
+msgstr "Permite que los usuarios tengan un perfil de instructor para mostrar premios y cursos completados."
+
+#: views/quiz/header-context/course-single-previous-attempts.php:49
+msgid "Passing Marks"
+msgstr "Marcas de aprobación"
+
+#: views/quiz/attempt-details.php:29
+msgid "Attempt not found or access permission denied"
+msgstr "Intento no encontrado o permiso de acceso denegado"
+
+#: views/qna/qna-table.php:144
+msgid "Mark as read"
+msgstr "Marcar como leído"
+
+#: views/qna/qna-table.php:141 views/qna/qna-table.php:144
+msgid "Mark as Unread"
+msgstr "Marcar como no leído"
+
+#: views/qna/qna-table.php:141
+msgid "Mark as Read"
+msgstr "Marcar como leído"
+
+#: views/qna/qna-table.php:132 views/qna/qna-table.php:135
+msgid "Un-archive"
+msgstr "No archivar"
+
+#: views/qna/qna-table.php:116
+msgid "Unresolved Yet"
+msgstr "Aun sin resolver"
+
+#: views/qna/qna-table.php:67
+msgid "Mark this conversation as important"
+msgstr "Marcar conversación como importante"
+
+#: views/qna/qna-table.php:67
+msgid "This conversation is important"
+msgstr "Esta conversación es importante"
+
+#: views/qna/qna-single.php:171
+msgid "Write here..."
+msgstr "Escribe aquí..."
+
+#: views/qna/qna-single.php:74 views/qna/qna-single.php:76
+msgid "Un-Archive"
+msgstr "No archivar"
+
+#: includes/translate-text.php:34 views/qna/qna-single.php:71
+msgid "Important"
+msgstr "Importante"
+
+#: views/qna/qna-single.php:66 views/qna/qna-table.php:116
+msgid "Solved"
+msgstr "Resuelto"
+
+#: views/qna/qna-new.php:49
+msgid "Ask Question"
+msgstr "Pregunta"
+
+#: views/qna/contexts.php:19
+msgid "Waiting Since"
+msgstr "Esperando desde"
+
+#: views/pages/withdraw_requests.php:422 views/pages/withdraw_requests.php:423
+msgid "Other"
+msgstr "Otro"
+
+#: views/pages/withdraw_requests.php:419 views/pages/withdraw_requests.php:420
+msgid "Invalid Request"
+msgstr "Solicitud no válida"
+
+#: views/pages/withdraw_requests.php:416 views/pages/withdraw_requests.php:417
+msgid "Invalid Payment Details"
+msgstr "Detalles de pago no válidos"
+
+#: views/pages/withdraw_requests.php:309
+msgid "No request found"
+msgstr "No se ha encontrado ninguna solicitud"
+
+#: views/pages/withdraw_requests.php:218
+msgid "BIC/SWIFT:"
+msgstr "BIC/SWIFT:"
+
+#: views/pages/withdraw_requests.php:199
+msgid "IBAN:"
+msgstr "IBAN:"
+
+#: views/pages/withdraw_requests.php:191
+msgid "Bank Name:"
+msgstr "Nombre del banco:"
+
+#: views/pages/withdraw_requests.php:184 views/pages/withdraw_requests.php:211
+msgid "Copy"
+msgstr "Copiar"
+
+#: views/pages/withdraw_requests.php:172
+msgid "A/C Number:"
+msgstr "Número A/C:"
+
+#: views/pages/withdraw_requests.php:164
+msgid "Name:"
+msgstr "Nombre: "
+
+#: views/pages/withdraw_requests.php:85
+msgid "Request Date"
+msgstr "Fecha de solicitud"
+
+#: views/pages/tutor-pro-addons.php:59
+msgid "Search…"
+msgstr "Buscar…"
+
+#: views/pages/tutor-pro-addons.php:46
+msgid "Buy Pro"
+msgstr "Comprar la versión Pro"
+
+#: views/pages/tutor-pro-addons.php:41
+msgid "Advanced customization options for each add-on"
+msgstr "Opciones de personalización avanzadas para cada extensión"
+
+#: views/pages/tutor-pro-addons.php:36
+msgid "Easy enable options for the features you need"
+msgstr "Opciones fáciles de activar para las características que necesita"
+
+#: views/pages/tutor-pro-addons.php:31
+msgid "Enjoy all popular add-ons under a single price"
+msgstr "Disfruta de todas las extensiones populares a un precio único"
+
+#: views/pages/instructors.php:443
+msgid "Invalid instructor"
+msgstr "Instructor no válido"
+
+#: views/pages/instructors.php:432
+msgid "Attempted invalid action"
+msgstr "Intento de acción no válida"
+
+#: views/pages/instructors.php:416 views/pages/instructors.php:420
+msgid "Reject the Application"
+msgstr "Rechazar la solicitud"
+
+#: views/pages/instructors.php:413 views/pages/instructors.php:424
+msgid "Approve the Instructor"
+msgstr "Aprobar el instructor"
+
+#: views/pages/instructors.php:402
+msgid "Email:"
+msgstr "Email:"
+
+#: views/pages/instructors.php:395
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: views/pages/instructors.php:373
+msgid "A New Instructor Just Signed Up"
+msgstr "Un nuevo instructor acaba de registrarse"
+
+#: views/pages/instructors.php:342
+msgid "Add Instructor"
+msgstr "Añadir instructor"
+
+#: views/pages/instructors.php:329
+msgid "Write Your Bio..."
+msgstr "Escribe tu biografía..."
+
+#: views/pages/instructors.php:325
+msgid "(Optional)"
+msgstr "(Opcional)"
+
+#: views/pages/instructors.php:309
+msgid "Retype Password"
+msgstr "Volver a escribir la contraseña"
+
+#: views/pages/instructors.php:281
+msgid "Only number is allowed"
+msgstr "Solo se permiten números"
+
+#: views/pages/instructors.php:273
+msgid "Only alphanumeric and underscore are allowed"
+msgstr "Solo se permiten caracteres alfanuméricos y guiones bajos"
+
+#: views/pages/instructors.php:255 views/pages/instructors.php:263
+msgid "Only alphanumeric & space are allowed"
+msgstr "Solo se permiten caracteres alfanuméricos y espacios"
+
+#: views/pages/course-list.php:319
+msgid "Update course status"
+msgstr "Actualizar el estado del curso"
+
+#: views/pages/course-list.php:237
+msgid "Lesson:"
+msgstr "Lección:"
+
+#: views/pages/course-list.php:230
+msgid "Topic:"
+msgstr "Tema:"
+
+#: views/options/template/import_export.php:141
+msgid "Reset All Settings"
+msgstr "Restablecer todos los ajustes"
+
+#: views/options/template/import_export.php:141
+msgid "Reset All Settings?"
+msgstr "¿Restablecer todos los ajustes?"
+
+#: views/options/template/import_export.php:141
+msgid "Yes, Reset Settings"
+msgstr "Sí, restablecer ajustes"
+
+#: views/options/template/import_export.php:130
+msgid "Reset Settings"
+msgstr "Restablecer ajustes"
+
+#: views/options/template/import_export.php:121
+msgid "No settings data found."
+msgstr "No se han encontrado datos de ajustes."
+
+#: views/options/template/import_export.php:108
+msgid "Delete This Settings?"
+msgstr "¿Borrar estos ajustes?"
+
+#: views/options/template/import_export.php:108
+msgid "Yes, Delete Settings"
+msgstr "Sí, borrar ajustes"
+
+#: views/options/template/import_export.php:104
+msgid "Download"
+msgstr "Descargar"
+
+#: views/options/template/import_export.php:95
+msgid "Restore Previous Settings?"
+msgstr "¿Restaurar ajustes anteriores?"
+
+#: views/options/template/import_export.php:95
+msgid "Yes, Restore Settings"
+msgstr "Sí, restaurar ajustes"
+
+#: views/options/template/import_export.php:74
+msgid "Settings History"
+msgstr "Historial de ajustes"
+
+#: views/options/template/import_export.php:66
+msgid "Update Settings"
+msgstr "Actualizar los ajustes"
+
+#: views/options/template/import_export.php:66
+msgid "Import from Previous Settings?"
+msgstr "¿Importar desde los ajustes anteriores?"
+
+#: views/options/template/import_export.php:66
+msgid "Yes, Import Settings"
+msgstr "Sí, importar ajustes"
+
+#: views/options/template/import_export.php:57
+msgid "Or"
+msgstr "O"
+
+#: views/options/template/import_export.php:48
+msgid "Import Settings"
+msgstr "Importar ajustes"
+
+#: views/options/template/import_export.php:34
+msgid "Current Settings"
+msgstr "Ajustes actuales"
+
+#: views/options/template/import_export.php:28
+msgid "Export"
+msgstr "Exportar"
+
+#: views/options/settings.php:31
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: views/options/settings.php:24
+msgid "Search ...⌃⌥ + S or Alt+S for shortcut"
+msgstr "Buscar ...⌃⌥ + S o Alt+S para atajo"
+
+#: views/modal/question_form.php:41
+msgid "Select your question type"
+msgstr "Selecciona tu tipo de pregunta"
+
+#: templates/login-form.php:99
+msgid "Don't have an account?"
+msgstr "¿No tienes una cuenta?"
+
+#: templates/login-form.php:86
+msgid "Sign In"
+msgstr "Acceder"
+
+#: templates/login-form.php:80
+msgid "Forgot?"
+msgstr "¿Contraseña olvidada?"
+
+#: templates/login-form.php:76
+msgid "Keep me signed in"
+msgstr "Mantenerme conectado"
+
+#: templates/login.php:34 views/modal/login.php:24
+msgid "Hi, Welcome back!"
+msgstr "¡Hola, bienvenido de nuevo!"
+
+#: views/modal/edit_quiz.php:204
+msgid "Advance Settings"
+msgstr "Ajustes avanzados"
+
+#: views/modal/edit_quiz.php:15
+msgid "Quiz Title"
+msgstr "Título del cuestionario"
+
+#: views/modal/edit-lesson.php:40
+msgid "WP Editor"
+msgstr "Editor de WP"
+
+#: views/modal/edit-lesson.php:27
+msgid "Lesson titles are displayed publicly wherever required."
+msgstr "Los títulos de las lecciones se muestran públicamente donde sea necesario."
+
+#: views/modal/edit-lesson.php:23
+msgid "Lesson Name"
+msgstr "Nombre de la lección"
+
+#: views/metabox/video-metabox.php:187
+msgid "Paste Vimeo Video URL"
+msgstr "Pega una URL de vídeo de Vimeo"
+
+#: views/metabox/video-metabox.php:183
+msgid "Paste YouTube Video URL"
+msgstr "Pegar la URL del vídeo de YouTube"
+
+#: views/metabox/video-metabox.php:179
+msgid "Paste Shortcode"
+msgstr "Pegar Shortcode"
+
+#: views/metabox/video-metabox.php:175
+msgid "Paste External Video URL"
+msgstr "Pegar la URL exrterna del vídeo"
+
+#: views/metabox/video-metabox.php:160
+msgid "Upload Video Poster"
+msgstr "Subir carátula del vídeo"
+
+#: views/metabox/video-metabox.php:129
+msgid "or"
+msgstr "o"
+
+#: views/metabox/video-metabox.php:127
+msgid "Drag & Drop Your Video"
+msgstr "Arrastra y suelta tu vídeo"
+
+#: views/metabox/video-metabox.php:36
+msgid "No video source selected from settings!"
+msgstr "¡No se seleccionó ninguna fuente de video en los ajustes!"
+
+#: views/metabox/course-topics.php:149
+msgid "Update Assignment"
+msgstr "Tarea actualizada"
+
+#: views/metabox/course-topics.php:93
+msgid "Add to Questions"
+msgstr "Añadir a preguntas"
+
+#: views/metabox/course-topics.php:90
+msgid "Save & Next"
+msgstr "Guardar y siguiente"
+
+#: views/metabox/course-contents.php:51
+msgid "Un-assigned Topic Contents"
+msgstr "Contenidos de debates no asignados"
+
+#: views/metabox/course-add-product-metabox.php:15
+msgid "Sell your product, process by WooCommerce"
+msgstr "Vende tu producto, procesa por WooCommerce"
+
+#: views/options/field-types/upload_half.php:32
+msgid "File Support"
+msgstr "Archivo compatible"
+
+#: views/fragments/announcement-list.php:337
+msgid "Edit Announcement"
+msgstr "Editar anuncio"
+
+#: views/qna/contexts.php:21
+msgid "Action"
+msgstr "Acción"
+
+#: views/fragments/announcement-list.php:213
+msgid "Delete This Announcement?"
+msgstr "¿Borrar este anuncio?"
+
+#: views/fragments/announcement-list.php:153
+msgid "Published Date"
+msgstr "Fecha de publicación"
+
+#: views/elements/filters.php:126
+msgid "No record found"
+msgstr "No se han encontrado registros"
+
+#: views/elements/filters.php:118
+msgid "All Category"
+msgstr "Todas las categorías"
+
+#: views/elements/filters.php:79
+msgid "Reset"
+msgstr "Restablecer"
+
+#: views/elements/bulk-confirm-popup.php:36
+#: views/elements/common-confirm-popup.php:68
+msgid "Yes, I'am Sure"
+msgstr "Sí, estoy seguro"
+
+#: views/course-share.php:45
+msgid "Share On Social Media"
+msgstr "Compartir en los medios sociales"
+
+#: views/course-share.php:35
+msgid "Share Course"
+msgstr "Compartir el curso"
+
+#: templates/single/quiz/top.php:137
+msgid "Yes, Skip This"
+msgstr "Sí, saltar esto"
+
+#: templates/single/quiz/top.php:125
+msgid "Skip Quiz"
+msgstr "Saltar cuestionario"
+
+#: templates/single/quiz/parts/meta.php:33 templates/single/quiz/top.php:91
+msgid "Total Attempted"
+msgstr "Total de intentos"
+
+#: templates/single/quiz/top.php:77
+msgid "Week"
+msgstr "Semana"
+
+#: includes/translate-text.php:129 templates/single/quiz/top.php:76
+msgid "Day"
+msgstr "Día"
+
+#: includes/translate-text.php:135 templates/single/quiz/top.php:75
+#: views/metabox/course-additional-data.php:55
+#: views/metabox/video-metabox.php:206
+msgid "Hour"
+msgstr "Hora"
+
+#: includes/translate-text.php:141 templates/single/quiz/top.php:74
+#: views/metabox/course-additional-data.php:59
+#: views/metabox/video-metabox.php:210
+msgid "Minute"
+msgstr "Minuto"
+
+#: includes/translate-text.php:147 templates/single/quiz/top.php:73
+#: views/metabox/video-metabox.php:214
+msgid "Second"
+msgstr "Segundo"
+
+#: templates/single/quiz/parts/question.php:194
+msgid "Skip Question"
+msgstr "Saltar pregunta"
+
+#: templates/single/quiz/parts/question.php:190
+msgid "Submit &amp; Next"
+msgstr "Guardar y siguiente"
+
+#: templates/single/quiz/parts/meta.php:22
+msgid "Questions No"
+msgstr "Sin preguntas"
+
+#: templates/single/quiz/parts/image-matching.php:59
+#: templates/single/quiz/parts/matching.php:85
+msgid "Drag your answer"
+msgstr "Arrastra tu respuesta"
+
+#: templates/single/lesson/content.php:140
+msgid "About Lesson"
+msgstr "Acerca de las clases"
+
+#: templates/single/lesson/content.php:127
+msgid "Comments"
+msgstr "Comentarios"
+
+#: templates/single/lesson/content.php:114
+#: templates/single/lesson/content.php:156
+msgid "Exercise Files"
+msgstr "Archivos de ejercicios"
+
+#: templates/single/lesson/comment.php:73
+msgid "Join the conversation"
+msgstr "Participa en la conversación"
+
+#: templates/single/course/enrolled/question_and_answer.php:67
+#: templates/single/course/reviews.php:147
+#: templates/single/lesson/comment.php:39
+msgid "Load More"
+msgstr "Cargar más"
+
+#: templates/single/course/reviews.php:82
+msgid " Rating"
+msgid_plural " Ratings"
+msgstr[0] "Valoración"
+msgstr[1] "Valoraciones"
+
+#: templates/single/course/reviews.php:80
+msgid "Total "
+msgstr "Total"
+
+#: templates/single/course/reviews.php:63
+msgid "No Review Yet"
+msgstr "Aún no hay reseñas."
+
+#: templates/single/course/lead-info.php:92
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+#: templates/dashboard/enrolled-courses.php:69
+#: templates/dashboard/settings/nav-bar.php:54
+#: templates/single/course/enrolled/nav.php:34 views/elements/navbar.php:65
+#: views/options/template/tab.php:42
+msgid "More"
+msgstr "Más"
+
+#: templates/single/course/course-target-audience.php:24
+msgid "Audience"
+msgstr "Audiencia"
+
+#: templates/single/course/course-entry-box.php:227
+msgid "Free access this course"
+msgstr "Accede gratis a este curso"
+
+#: templates/single/course/course-entry-box.php:195
+msgid "This course is full right now. We limit the number of students to create an optimized and productive group dynamic."
+msgstr "Este curso está lleno en este momento. Limitamos el número de alumnos para crear una dinámica de grupo optimizada y productiva."
+
+#: templates/single/course/course-entry-box.php:161
+msgid "You enrolled in this course on"
+msgstr "Te inscribiste en este curso el"
+
+#: templates/single/course/course-entry-box.php:81
+msgid "Course Progress"
+msgstr "Progreso del curso"
+
+#: templates/single/course/course-entry-box.php:41
+#: templates/single/course/course-entry-box.php:42
+msgid "Last Updated"
+msgstr "Última actualización"
+
+#: templates/single/assignment/content.php:601
+msgid "Continue Lesson"
+msgstr "Continuar con la lección"
+
+#: templates/single/assignment/content.php:515
+msgid "Your Assignment"
+msgstr "Tu tarea"
+
+#: templates/single/assignment/content.php:388
+#: templates/single/assignment/content.php:619
+msgid "Skip To Next"
+msgstr "Saltar al siguiente"
+
+#: templates/single/assignment/content.php:311
+msgid "MB"
+msgstr "MB"
+
+#: templates/single/assignment/content.php:308
+msgid "Total File Size: Max"
+msgstr "Tamaño total de archivo: máximo"
+
+#: templates/single/assignment/content.php:304
+msgid "Any standard Image, Document, Presentation, Sheet, PDF or Text file is allowed"
+msgstr "Se permite cualquier imagen, documento, presentación, hoja, PDF o archivo de texto estándar"
+
+#: templates/single/assignment/content.php:302
+#: views/fragments/thumbnail-uploader.php:47
+#: views/fragments/thumbnail-uploader.php:52
+msgid "File Support: "
+msgstr "Archivo compatible:"
+
+#: templates/single/assignment/content.php:293
+msgid "Choose file"
+msgstr "Selecciona un archivo"
+
+#: templates/single/assignment/content.php:252
+msgid "Assignment Submission"
+msgstr "Enviar tarea"
+
+#: templates/single/assignment/content.php:225
+#: views/fragments/thumbnail-uploader.php:35
+#: views/fragments/thumbnail-uploader.php:40
+msgid "Size: "
+msgstr "Tamaño:"
+
+#: templates/single/assignment/content.php:160
+msgid "Passing Mark:"
+msgstr "Marcas de aprobación:"
+
+#: templates/single/assignment/content.php:148
+msgid "N\\A"
+msgstr "N/D"
+
+#: templates/single/assignment/content.php:138
+msgid "Deadline:"
+msgstr "Fecha límite:"
+
+#: templates/single/common/header.php:58
+msgid "of "
+msgstr " de "
+
+#: templates/single/common/header.php:53
+msgid "Your Progress:"
+msgstr "Tu progreso"
+
+#: templates/shortcode/instructor-filter.php:114
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: templates/shortcode/instructor-filter.php:78
+#: templates/single/assignment/content.php:379
+#: templates/single/assignment/content.php:590
+#: templates/single/course/course-content.php:41
+#: views/options/template/color_picker.php:106
+msgid "Show More"
+msgstr "Mostrar más"
+
+#: templates/shortcode/instructor-filter.php:51
+msgid "Clear"
+msgstr "Vaciar"
+
+#: templates/shortcode/instructor-filter.php:45
+msgid "Filters"
+msgstr "Filtros"
+
+#: templates/shortcode/instructor-filter.php:20
+msgid "Popular"
+msgstr "Popular"
+
+#: templates/shortcode/instructor-filter.php:19
+msgid "New"
+msgstr "Nuevo"
+
+#: templates/shortcode/instructor-filter.php:18
+msgid "Relevant"
+msgstr "Relevante"
+
+#: templates/loop/course-continue.php:35
+#: templates/single/course/course-entry-box.php:125
+msgid "Continue Learning"
+msgstr "Continuar aprendiendo"
+
+#: templates/course-embed.php:95 templates/loop/course-author.php:32
+#: templates/loop/meta.php:53
+#: templates/single/course/enrolled/announcements.php:34
+#: templates/single/course/lead-info.php:72
+msgid "By"
+msgstr "por"
+
+#: templates/global/attachments.php:45
+msgid "No Attachment Found"
+msgstr "No se encontraron adjuntos"
+
+#: templates/dashboard/settings/social-profile.php:21
+msgid "Social Profile Link"
+msgstr "Enlaces a perfiles sociales"
+
+#: templates/dashboard/settings/reset-password.php:66
+msgid "Re-type New Password"
+msgstr "Vuelva a escribir la nueva contraseña"
+
+#: templates/dashboard/settings/profile.php:156
+msgid "UX Designer"
+msgstr "Diseñador de interfaces y experiencias de usuario"
+
+#: templates/dashboard/settings/nav-bar.php:35
+msgid "Social Profile"
+msgstr "Perfiles sociales"
+
+#: templates/dashboard/purchase_history.php:54
+msgid "Yearly"
+msgstr "Anualmente"
+
+#: templates/dashboard/purchase_history.php:49
+msgid "Monthly"
+msgstr "Mensualmente"
+
+#: templates/dashboard/my-profile.php:34
+#: templates/dashboard/settings/profile.php:154
+msgid "Skill/Occupation"
+msgstr "Habilidad/Ocupación"
+
+#: templates/dashboard/my-profile.php:30
+msgid "-"
+msgstr "-"
+
+#: templates/dashboard/instructor/logged-in.php:42
+msgid "Instructor Application Received"
+msgstr "Solicitud de instructor recibida"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:41
+msgid "Apply Now"
+msgstr "Solicitar ahora"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:35
+msgid "Tell us your qualifications, show us your passion, and begin teaching with us!"
+msgstr "¡Cuéntanos tus calificaciones, muéstranos tu pasión y comienza a enseñar con nosotros!"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:29
+msgid "Do you want to start your career as an instructor?"
+msgstr "¿Quieres comenzar tu carrera como instructor?"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:22
+msgid "Instructor Application"
+msgstr "Solicitud de instructor"
+
+#: templates/dashboard/elements/pagination.php:53
+#: views/elements/pagination.php:16
+msgid "Page"
+msgstr "Página"
+
+#: templates/dashboard/dashboard.php:340
+msgid "View All"
+msgstr "Ver todo"
+
+#: templates/dashboard/dashboard.php:299
+msgid "lesson"
+msgid_plural "lessons"
+msgstr[0] "lección"
+msgstr[1] "lecciones"
+
+#: templates/dashboard/dashboard.php:295
+#: templates/dashboard/elements/pagination.php:57
+#: views/elements/pagination.php:20
+msgid "of"
+msgstr "de"
+
+#: templates/dashboard/dashboard.php:256
+msgid "In Progress Courses"
+msgstr "Cursos en curso"
+
+#: templates/dashboard/assignments/review.php:110
+#: templates/global/attachments.php:30
+#: templates/single/assignment/content.php:552
+#: views/fragments/attachments.php:30
+msgid "Size"
+msgstr "Tamaño"
+
+#: templates/dashboard/assignments.php:77
+msgid "Assignment Name"
+msgstr "Nombre de la asignación"
+
+#: templates/dashboard.php:60
+msgid "Menu"
+msgstr "Menú"
+
+#: templates/course-filter/filters.php:123
+msgid "Clear All Filters"
+msgstr "Vaciar todos los filtros"
+
+#: includes/tutor-template-functions.php:1226
+msgid "second"
+msgstr "segundo"
+
+#: includes/tutor-template-functions.php:1226
+msgid "s"
+msgstr "s"
+
+#: includes/tutor-template-functions.php:1225
+msgid "minute"
+msgstr "minuto"
+
+#: includes/tutor-template-functions.php:1225
+msgid "m"
+msgstr "m"
+
+#: includes/tutor-template-functions.php:1224
+msgid "hour"
+msgstr "hora"
+
+#: includes/tutor-template-functions.php:1224
+msgid "h"
+msgstr "h"
+
+#: classes/Utils.php:8679 templates/dashboard/purchase_history.php:83
+msgid "Order History"
+msgstr "Historial de pedidos"
+
+#: classes/Utils.php:8591
+#: templates/single/lesson/sidebar_question_and_answer.php:43
+msgid "No Data Available in this Section"
+msgstr "No hay datos disponibles en esta sección"
+
+#: classes/Utils.php:8253
+msgid "Custom"
+msgstr "Personalizado"
+
+#: classes/Utils.php:8252
+msgid "Last 365 Days"
+msgstr "Últimos 365 días"
+
+#: classes/Utils.php:8251
+msgid "Last 90 Days"
+msgstr "Últimos 90 días"
+
+#: classes/Utils.php:8250
+msgid "Last 30 Days"
+msgstr "Últimos 30 días"
+
+#: classes/Utils.php:8249 templates/dashboard/purchase_history.php:44
+msgid "Today"
+msgstr "Hoy"
+
+#: includes/translate-text.php:117 views/pages/course-list.php:134
+msgid "Private"
+msgstr "Privado"
+
+#: includes/translate-text.php:77 includes/translate-text.php:81
+#: includes/translate-text.php:89 templates/dashboard/purchase_history.php:135
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: includes/translate-text.php:57
+msgid "Wrong"
+msgstr "Incorrecto"
+
+#: classes/Utils.php:5450
+msgid "Github"
+msgstr "GitHub"
+
+#: classes/Utils.php:5445
+msgid "Website"
+msgstr "Web"
+
+#: classes/Utils.php:5412 classes/Utils.php:5440
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: classes/Utils.php:5406 classes/Utils.php:5435
+msgid "Twitter"
+msgstr "Twitter"
+
+#: classes/Utils.php:5400 classes/Utils.php:5430
+msgid "Facebook"
+msgstr "Facebook"
+
+#: classes/Utils.php:4679
+msgid "Open Ended"
+msgstr "En abierto"
+
+#: classes/Utils.php:3500 templates/dashboard/dashboard.php:356
+msgid "Rating"
+msgstr "Valoración"
+
+#: classes/Utils.php:3500 templates/shortcode/instructor-filter.php:86
+msgid "Ratings"
+msgstr "Valoraciones"
+
+#: classes/Tutor_Setup.php:837
+msgid "Let’s go to the next step."
+msgstr "Vayamos al siguiente paso."
+
+#: classes/Tutor_Setup.php:835
+msgid "Not sure?"
+msgstr "¿No estás seguro?"
+
+#: classes/Tutor_Setup.php:703
+msgid "Thank You for Choosing Us"
+msgstr "Gracias por elegirnos"
+
+#: classes/Tutor_Setup.php:670
+msgid "Finish Setup"
+msgstr "Finalizar configuración"
+
+#: classes/Tutor_Setup.php:610
+msgid "Explore Addons"
+msgstr "Explorar extensiones"
+
+#: classes/Tutor_Setup.php:607 templates/dashboard.php:148
+msgid "Create a New Course"
+msgstr "Crear un nuevo curso"
+
+#: classes/Tutor_Setup.php:456
+msgid "Example:  %s"
+msgstr "Ejemplo: %s"
+
+#: classes/Tutor_Setup.php:455
+msgid "Lesson permalink"
+msgstr "Enlace permanente para lección"
+
+#: classes/Tutor_Setup.php:449
+msgid "Student Profile"
+msgstr "Perfil del alumno"
+
+#: classes/Tutor_Setup.php:440
+msgid "Instructor Profile"
+msgstr "Perfil del instructor"
+
+#: classes/Tutor_Setup.php:166
+msgid "Step"
+msgstr "Paso"
+
+#: classes/Tools_V2.php:337
+msgid "Setup Wizard Settings"
+msgstr "Configurar asistente de ajustes"
+
+#: classes/Tools_V2.php:326
+msgid "Tutor Pages Settings"
+msgstr "Ajustes de páginas de tutor"
+
+#: classes/Tools_V2.php:316
+msgid "Import/Export Settings"
+msgstr "Ajustes de importación/exportación"
+
+#: classes/Tools_V2.php:314 views/options/template/import_export.php:15
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: classes/Tools_V2.php:194
+msgid "WordPress Cron"
+msgstr "Cron de WordPress"
+
+#: classes/Tools_V2.php:178
+msgid "Tutor version"
+msgstr "Versión de Tutor"
+
+#: classes/Tools_V2.php:110
+msgid "Status Settings"
+msgstr "Estados de ajustes"
+
+#: classes/Student.php:311
+msgid "Password Changed"
+msgstr "Contraseña cambiada"
+
+#: classes/Student.php:227
+msgid "Profile Updated"
+msgstr "Perfil actualizado"
+
+#: classes/Q_and_A.php:264
+msgid "Permission Denied!"
+msgstr "¡Permiso denegado!"
+
+#: classes/Q_and_A.php:67
+msgid "Empty Content Not Allowed!"
+msgstr "¡Contenido vacío no permitido!"
+
+#: classes/Quiz.php:937
+msgid "Quiz Permission Denied"
+msgstr "Permiso de cuestionario denegado"
+
+#: classes/Quiz.php:172
+msgid "Invalid quiz info"
+msgstr "Información de cuestionario no válida"
+
+#: classes/Options_V2.php:1575
+msgid "Enable to use the tutor login modal instead of the default WordPress login page"
+msgstr "Activar el uso del modal de acceso del tutor en lugar de la página de inicio de sesión por defecto de WordPress"
+
+#: classes/Options_V2.php:1572
+msgid "Enable Tutor Login"
+msgstr "Activar acceso de tutor"
+
+#: classes/Options_V2.php:1506
+msgid "Enable to hide course products on shop page."
+msgstr "Activar para ocultar los productos del curso en la página de la tienda."
+
+#: classes/Options_V2.php:1485
+msgid "Advanced Settings"
+msgstr "Ajustes avanzados"
+
+#: classes/Options_V2.php:1483
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: classes/Options_V2.php:1476
+msgid "Enable this option to use Tutor LMS video player for Vimeo."
+msgstr "Activar esta opción para usar el reproductor de video Tutor LMS para Vimeo."
+
+#: classes/Options_V2.php:1473
+msgid "Use Tutor Player for Vimeo"
+msgstr "Usar Tutor Player para Vimeo"
+
+#: classes/Options_V2.php:1465
+msgid "Use Tutor Player for YouTube"
+msgstr "Usar Tutor Player para YouTube"
+
+#: classes/Options_V2.php:1449
+msgid "Border"
+msgstr "Borde"
+
+#: classes/Options_V2.php:1277 classes/Options_V2.php:1406
+msgid "Preset Colors"
+msgstr "Preajustes de colores"
+
+#: classes/Options_V2.php:1270
+msgid "Colors"
+msgstr "Colores"
+
+#: classes/Options_V2.php:1263
+msgid "Enable to show course review section"
+msgstr "Activar para mostrar la sección de revisión del curso"
+
+#: classes/Options_V2.php:1255
+msgid "Enable to show course announcements section"
+msgstr "Activar para mostrar la sección de anuncios del curso"
+
+#: classes/Options_V2.php:1247
+msgid "Enable to show course target audience section"
+msgstr "Activar para mostrar la sección de público objetivo del curso"
+
+#: classes/Options_V2.php:1231
+msgid "Enable to show course benefits section"
+msgstr "Activar para mostrar la sección de ventajas del curso"
+
+#: classes/Options_V2.php:1228
+msgid "Benefits"
+msgstr "Ventajas"
+
+#: classes/Options_V2.php:1223
+msgid "Enable to show course description"
+msgstr "Activar para mostrar la descripción del curso"
+
+#: classes/Options_V2.php:1215
+msgid "Enable to show course about section"
+msgstr "Activar para mostrar el curso sobre la sección"
+
+#: classes/Options_V2.php:1212
+msgid "About"
+msgstr "Acerca de"
+
+#: classes/Options_V2.php:1207
+msgid "Enable to show course materials"
+msgstr "Activar mostrar los materiales del curso"
+
+#: classes/Options_V2.php:1204
+msgid "Material"
+msgstr "Material"
+
+#: classes/Options_V2.php:1199
+msgid "Enable to show course progress for Students"
+msgstr "Activar mostrar el progreso del curso de los estudiantes"
+
+#: classes/Options_V2.php:1196
+msgid "Progress Bar"
+msgstr "Barra de progreso"
+
+#: classes/Options_V2.php:1191
+msgid "Enable to show course update information"
+msgstr "Activar para mostrar la información de actualización del curso"
+
+#: classes/Options_V2.php:1188
+msgid "Update Date"
+msgstr "Fecha de actualización"
+
+#: classes/Options_V2.php:1183
+msgid "Enable to show total enrolled students"
+msgstr "Activar para mostrar el total de estudiantes matriculados"
+
+#: classes/Options_V2.php:1175
+msgid "Enable to show course duration"
+msgstr "Activar para mostrar la duración del curso"
+
+#: classes/Options_V2.php:1167
+msgid "Toggle to enable course social share"
+msgstr "Alternar para activar el uso compartido social del curso"
+
+#: classes/Options_V2.php:1164
+msgid "Social Share"
+msgstr "Compartir en redes sociales"
+
+#: classes/Options_V2.php:1151
+msgid "Enable to show course author name"
+msgstr "Activar para mostrar el nombre del autor del curso"
+
+#: classes/Options_V2.php:1143
+msgid "Enable to add a Q&A section"
+msgstr "Activar para agregar una sección de preguntas y respuestas"
+
+#: classes/Options_V2.php:1136
+msgid "Toggle to show instructor info"
+msgstr "Alternar para mostrar la información del instructor"
+
+#: classes/Options_V2.php:1134
+msgid "Instructor Info"
+msgstr "Información del instructor"
+
+#: classes/Options_V2.php:1121
+msgid "Course Details"
+msgstr "Detalles del curso"
+
+#: classes/Options_V2.php:1096
+msgid "Student Public Profile Layout"
+msgstr "Diseño de perfil público de estudiante"
+
+#: classes/Options_V2.php:1071
+msgid "Instructor Public Profile Layout"
+msgstr "Diseño de perfil público del instructor"
+
+#: classes/Options_V2.php:1031
+msgid "Layout"
+msgstr "Diseño"
+
+#: classes/Options_V2.php:967
+msgid "Design"
+msgstr "Diseño"
+
+#: classes/Options_V2.php:960
+msgid "Write bank instructions for the instructors to conduct withdrawals."
+msgstr "Escribir instrucciones bancarias para que los instructores realicen retiros."
+
+#: classes/Options_V2.php:945
+msgid "Any income has to remain this many days in the platform before it is available for withdrawal."
+msgstr "Cualquier ingreso debe permanecer tantos días en la plataforma antes de que esté disponible para su retiro."
+
+#: classes/Options_V2.php:942
+msgid "Minimum Days Before Balance is Available"
+msgstr "Días mínimos antes de que el saldo esté disponible"
+
+#: classes/Options_V2.php:908
+msgid "Fee Amount & Type"
+msgstr "Cuota y tipo de tarifa"
+
+#: classes/Options_V2.php:900 classes/Options_V2.php:901
+msgid "Fee Description"
+msgstr "Descripción de la cuota"
+
+#: classes/Options_V2.php:884
+msgid "Fees"
+msgstr "Cuotas"
+
+#: classes/Options_V2.php:845
+msgid "Enable Revenue Sharing"
+msgstr "Activar reparto de ingresos"
+
+#: classes/Options_V2.php:854
+msgid "Sharing Percentage"
+msgstr "Porcentaje compartido"
+
+#: classes/WooCommerce.php:428
+msgid "Enable Guest Mode"
+msgstr "Permitir modo invitado"
+
+#: classes/Options_V2.php:823
+msgid "Select eCommerce Engine"
+msgstr "Seleccionar motor de comercio electrónico"
+
+#: classes/Options_V2.php:816 classes/Options_V2.php:1557
+msgid "Options"
+msgstr "Opciones"
+
+#: classes/Options_V2.php:811
+msgid "Monitization Settings"
+msgstr "Ajustes de monetización"
+
+#: classes/Options_V2.php:771
+msgid "Show Quiz Previous Button"
+msgstr "Mostrar el botón anterior de cuestionario"
+
+#: classes/Options_V2.php:732
+msgid "Enable this feature to allow students to post comments on lessons."
+msgstr "Activar esta característica para permitir que los estudiantes publiquen entradas sobre las lecciones."
+
+#: classes/Options_V2.php:729
+msgid "Enable Lesson Comment"
+msgstr "Activar comentarios en lecciones"
+
+#: classes/Options_V2.php:724
+msgid "Enable this feature to automatically load the next course content after the current one is finished."
+msgstr "Activar esta característica para cargar automáticamente el siguiente contenido del curso después de que finalice el actual."
+
+#: classes/Options_V2.php:716
+msgid "Enable classic editor to edit lesson."
+msgstr "Activar el editor clásico para editar la lección"
+
+#: classes/Options_V2.php:713
+msgid "WP Editor for Lesson"
+msgstr "Editor de WP para la lección"
+
+#: classes/Options_V2.php:683
+msgid "Students have to complete, pass all the lessons and quizzes (if any) to mark a course as complete."
+msgstr "Los estudiantes deben completar, aprobar todas las lecciones y cuestionarios (si corresponde) para marcar un curso como completo."
+
+#: classes/Options_V2.php:682
+msgid "Students can complete courses anytime in the Flexible mode"
+msgstr "Los estudiantes pueden completar los cursos en cualquier momento en el modo Flexible"
+
+#: classes/Options_V2.php:610
+msgid "Enable the option to display this button on the student dashboard."
+msgstr "Activar la opción para mostrar este botón en el escritorio del estudiante."
+
+#: classes/Options_V2.php:602
+msgid "Enable instructors to publish the course directly. If disabled, admins will be able to review course content before publishing."
+msgstr "Activar que los instructores publiquen el curso directamente. Si está desactivado, los administradores podrán revisar el contenido del curso antes de publicarlo."
+
+#: classes/Options_V2.php:599
+msgid "Allow Instructors To Publish Courses"
+msgstr "Permitir que los instructores publiquen cursos"
+
+#: classes/Options_V2.php:570
+msgid "Others"
+msgstr "Otros"
+
+#: classes/Course_Settings_Tabs.php:130
+msgid "Enable Q&A section for your course"
+msgstr "Activar la sección de preguntas y respuestas para su curso"
+
+#: classes/Course_Settings_Tabs.php:104
+msgid "Public Course"
+msgstr "Curso público"
+
+#: classes/Course_List.php:272
+msgid "Could not delete selected courses"
+msgstr "No se pudieron borrar los cursos seleccionados"
+
+#: classes/Course_List.php:261
+msgid "Please select appropriate action"
+msgstr "Seleccione la acción apropiada"
+
+#: classes/Course_List.php:130
+msgid "Mine"
+msgstr "Mío"
+
+#: classes/Course.php:1108
+msgid "Course difficulty level"
+msgstr "Nivel de dificultad del curso"
+
+#: classes/Course.php:253 classes/Frontend.php:83
+msgid "Access Denied!"
+msgstr "¡Acceso denegado!"
+
+#: classes/Backend_Page_Trait.php:117 includes/translate-text.php:73
+#: templates/dashboard/purchase_history.php:123
+#: templates/dashboard/purchase_history.php:131
+msgid "Processing"
+msgstr "Procesando"
+
+#: classes/Backend_Page_Trait.php:91 includes/translate-text.php:93
+#: includes/translate-text.php:97 includes/translate-text.php:101
+#: templates/dashboard/purchase_history.php:127
+msgid "On Hold"
+msgstr "En espera"
+
+#: classes/Backend_Page_Trait.php:78 classes/Course_List.php:142
+#: includes/translate-text.php:113 templates/dashboard/my-courses.php:65
+#: views/pages/course-list.php:133
+msgid "Draft"
+msgstr "Borrador"
+
+#: classes/Backend_Page_Trait.php:39
+msgid "Bulk Action"
+msgstr "Acción en lotes"
+
+#: classes/Ajax.php:387
+msgid "SSL certificate"
+msgstr "Certificado SSL"
+
+#: classes/Ajax.php:386
+msgid "PHP 7.2.5 or greater is required"
+msgstr "Es necesario PHP 7.2.5 o superior"
+
+#: classes/Ajax.php:264
+msgid "Permissioned Denied!"
+msgstr "¡Permiso denegado!"
+
+#: classes/Utils.php:8748
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: views/pages/students.php:96
+msgid "Course Taken"
+msgstr "Curso realizado"
+
+#: views/fragments/thumbnail-uploader.php:24
+msgid "Use this media"
+msgstr "Usar este medio"
+
+#: views/fragments/thumbnail-uploader.php:24
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr "Selecciona o sube los medios de la persuasión que has elegido"
+
+#: templates/dashboard/my-courses.php:201
+#: templates/single/lesson/comment.php:90 views/qna/qna-new.php:36
+msgid "Submit"
+msgstr "Enviar"
+
+#: views/modal/review.php:35
+msgid "Tell us about your own personal experience taking this course. Was it a good match for you?"
+msgstr "Cuéntanos sobre tu propia experiencia personal al realizar este curso. ¿Fue una buena elección para ti?"
+
+#: templates/dashboard/reviews/given-reviews.php:103 views/modal/review.php:23
+msgid "Select Rating"
+msgstr "Seleccionar la valoración"
+
+#: templates/dashboard/reviews/given-reviews.php:102 views/modal/review.php:22
+msgid "How would you rate this course?"
+msgstr "¿Cómo valorarías este curso?"
+
+#: templates/single/quiz/top.php:83
+msgid "%s"
+msgstr "%s"
+
+#: templates/dashboard/withdraw.php:160
+msgid "Minimum withdraw amount is"
+msgstr "La cantidad mínima para retirar es"
+
+#: templates/dashboard/instructor/registration.php:22
+#: templates/dashboard/registration.php:21
+msgid "Go to Home"
+msgstr "Ir al Inicio"
+
+#: templates/dashboard/instructor/registration.php:20
+#: templates/dashboard/registration.php:19
+msgid "You do not have access to this area of the application. Please refer to your system  administrator."
+msgstr "No tienes acceso a esta área de la aplicación. Por favor, consulta con el administrador de tu sistema."
+
+#: templates/dashboard/instructor/registration.php:19
+#: templates/dashboard/registration.php:18
+msgid "Oooh! Access Denied"
+msgstr "¡Oh! Acceso denegado"
+
+#: classes/Backend_Page_Trait.php:181 classes/Course_List.php:154
+#: includes/translate-text.php:109 templates/dashboard/dashboard.php:154
+#: views/pages/course-list.php:132
+msgid "Trash"
+msgstr "Papelera"
+
+#: includes/tinymce_translate.php:26
+msgid "Order :"
+msgstr "Orden:"
+
+#: includes/tinymce_translate.php:25
+msgctxt "tinyMCE button order by"
+msgid "Order By :"
+msgstr "Ordenar por:"
+
+#: includes/tinymce_translate.php:24
+msgid "Category IDS"
+msgstr "ID de categoría"
+
+#: includes/tinymce_translate.php:23
+msgid "Exclude Course IDS"
+msgstr "Excluir ID de cursos"
+
+#: includes/tinymce_translate.php:22
+msgid "Course id, separate by (,) comma"
+msgstr "ID de cursos, separados por comas (,)"
+
+#: includes/tinymce_translate.php:21
+msgid "Courses Shortcode"
+msgstr "Shortcode de cursos"
+
+#: includes/tinymce_translate.php:20
+msgctxt "tinyMCE button courses"
+msgid "Courses"
+msgstr "Cursos"
+
+#: includes/tinymce_translate.php:19
+msgid "Instructor Registration Form"
+msgstr "Formulario de registro de instructor"
+
+#: includes/tinymce_translate.php:18
+msgid "Student Registration Form"
+msgstr "Formulario de registro de estudiante"
+
+#: includes/tinymce_translate.php:17
+msgid "Tutor ShortCode"
+msgstr "Shortcode de Tutor"
+
+#: classes/Tutor_Setup.php:259
+msgid "weeks"
+msgstr "semanas"
+
+#: classes/Tutor_Setup.php:258
+msgid "days"
+msgstr "días"
+
+#: classes/Tutor_Setup.php:257 includes/tutor-template-functions.php:1224
+msgid "hours"
+msgstr "horas"
+
+#: classes/Tutor_Setup.php:256 classes/Tutor_Setup.php:264
+#: includes/tutor-template-functions.php:1225
+msgid "minutes"
+msgstr "minutos"
+
+#: classes/Tutor_Setup.php:255 includes/tutor-template-functions.php:1226
+msgid "seconds"
+msgstr "segundos"
+
+#: classes/Post_types.php:371
+msgctxt "tutor assignment add"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: classes/Post_types.php:292
+msgctxt "tutor quiz add"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: classes/Post_types.php:226
+msgctxt "tutor lesson add"
+msgid "Add New"
+msgstr "Añadir nueva"
+
+#: classes/Post_types.php:94
+msgctxt "tutor course add"
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: classes/Options_V2.php:773
+msgid "Choose whether to show or hide the previous button for each question."
+msgstr "Elige si mostrar u ocultar el botón «Anterior» para cada pregunta."
+
+#: classes/Course.php:703
+msgid "free"
+msgstr "gratis"
+
+#: templates/dashboard/my-courses.php:301
+#: templates/dashboard/reviews/given-reviews.php:140
+#: views/fragments/announcement-list.php:220 views/qna/qna-single.php:195
+#: views/qna/qna-table.php:179
+msgid "Yes, Delete This"
+msgstr "Sí, borrarlo"
+
+#: templates/single/quiz/parts/meta.php:106
+msgid "Reattempt"
+msgstr "Reintentar"
+
+#: templates/single/lesson/required-enroll.php:16
+msgid "Please enroll in this course to view course content."
+msgstr "Por favor, inscríbete en este curso para ver el contenido del mismo."
+
+#: templates/permission-denied.php:29
+msgid "Please make sure you are logged in to correct account if the content needs authorization."
+msgstr "Por favor, asegúrate de estar conectado en la cuenta correcta si el contenido necesita autorización."
+
+#: classes/User.php:271
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: classes/Reviews.php:56 classes/Student.php:314
+msgid "Something went wrong!"
+msgstr "¡Algo ha ido mal!"
+
+#: templates/single/course/course-entry-box.php:121
+msgid "Retake This Course"
+msgstr "Volver a hacer este curso"
+
+#: classes/Options_V2.php:693
+msgid "Enabling this feature will allow students to reset course progress and start over."
+msgstr "Activar esta característica permitirá a los estudiantes restablecer el curso y volver a iniciarlo."
+
+#: classes/Options_V2.php:690
+msgid "Course Retake"
+msgstr "Volver a hacer el curso"
+
+#: classes/Course.php:1582
+msgid "Invalid Course ID or Access Denied."
+msgstr "ID de curso no válido o acceso denegado."
+
+#: classes/Addons.php:131
+msgid "Create multilingual courses, lessons, dashboard and more for a global audience."
+msgstr "Crea cursos, lecciones, escritorios y más en varios idiomas para una audiencia global."
+
+#: classes/Addons.php:130
+msgid "WPML Multilingual CMS"
+msgstr "WPML Multilingual CMS"
+
+#: includes/tutor-general-functions.php:162
+msgid "Select a tag"
+msgstr "Seleccionar una etiqueta"
+
+#: includes/tutor-general-functions.php:161
+msgid "Search Course Tags. ex. Design, Development, Business"
+msgstr "Buscar etiquetas de curso. Ej.: Diseño, desarrollo, negocios"
+
+#: views/modal/question_form.php:35
+msgid "Type your question here"
+msgstr "Escribe tu pregunta aquí"
+
+#: templates/loop/course-continue.php:19 templates/loop/course-continue.php:38
+#: templates/single/course/course-entry-box.php:123
+#: templates/single/course/course-entry-box.php:180
+msgid "Start Learning"
+msgstr "Empezar el aprendizaje"
+
+#: classes/Options_V2.php:657
+msgid "When a user's WooCommerce order is auto-completed, they will be redirected to enrolled courses"
+msgstr "Cuando el pedido de WooCommerce de un usuario se completa automáticamente, será redirigido a los cursos inscritos"
+
+#: classes/Options_V2.php:654
+msgid "Auto redirect to courses"
+msgstr "Redirigir automáticamente a los cursos"
+
+#: classes/Options_V2.php:1550
+msgid "Youtube API Key"
+msgstr "Clave de la API de YouTube"
+
+#: classes/Backend_Page_Trait.php:194 views/pages/withdraw_requests.php:265
+msgid "Reject"
+msgstr "Rechazar"
+
+#: templates/loop/course-price-edd.php:80
+#: templates/loop/course-price-woocommerce.php:75
+#: templates/loop/course-price.php:70
+msgid "Fully Booked"
+msgstr "Reservado totalmente"
+
+#: templates/dashboard/assignments/review.php:132
+msgid "Assignment evaluated"
+msgstr "Tarea evaluada"
+
+#: templates/dashboard/withdraw.php:83 templates/dashboard/withdraw.php:127
+msgid "Withdrawal Request"
+msgstr "Solicitud de retirada"
+
+#: templates/shortcode/instructor-filter.php:109
+msgid "Search any instructor..."
+msgstr "Buscar cualquier instructor..."
+
+#: templates/dashboard/assignments.php:65
+#: templates/dashboard/elements/filters.php:51
+msgid "Create Date"
+msgstr "Fecha de creación"
+
+#: templates/dashboard/assignments/review.php:142
+msgid "Evaluate this assignment out of %s"
+msgstr "Evaluar esta tarea de %s"
+
+#: templates/dashboard/assignments/review.php:138
+msgid "Your Points"
+msgstr "Tus puntos"
+
+#: templates/dashboard/assignments/review.php:69
+msgid "Submitted Date"
+msgstr "Fecha de envío"
+
+#: templates/dashboard/assignments/submitted.php:66
+msgid "Oldest"
+msgstr "Anteriores"
+
+#: templates/dashboard/assignments/submitted.php:65
+msgid "Latest"
+msgstr "Lo último"
+
+#: templates/dashboard/assignments/submitted.php:63
+msgid "Sort By:"
+msgstr "Ordenar por:"
+
+#: templates/dashboard/assignments/submitted.php:55
+msgid "Pass Points"
+msgstr "Puntos de pase"
+
+#: templates/dashboard/assignments/submitted.php:51
+#: templates/dashboard/assignments/submitted.php:83
+msgid "Total Points"
+msgstr "Puntos totales"
+
+#: templates/dashboard/assignments/submitted.php:47
+msgid "Submission Deadline"
+msgstr "Fecha límite de presentación"
+
+#: templates/dashboard/assignments/submitted.php:26
+msgid "No Limit"
+msgstr "Sin límite"
+
+#: templates/dashboard/announcements/update.php:18
+msgid "Update Announcement"
+msgstr "Anuncio de actualización"
+
+#: views/quiz/instructor-feedback.php:37
+msgid "Updated"
+msgstr "Actualizado"
+
+#: views/options/options_generator.php:16
+msgid "Settings Saved"
+msgstr "Ajustes guardados"
+
+#: classes/Course_Settings_Tabs.php:94
+msgid "Number of students that can enrol in this course. Set 0 for no limits."
+msgstr "Numero de estudiantes que pueden inscribirse en este curso, establece «0» (cero) para que no haya límite."
+
+#: templates/dashboard/announcements/details.php:35
+msgid "Publish Date"
+msgstr "Fecha de publicación"
+
+#: templates/dashboard/announcements.php:111
+#: templates/dashboard/assignments.php:60
+#: templates/dashboard/elements/filters.php:47 views/elements/filters.php:139
+msgid "DESC"
+msgstr "DESC"
+
+#: templates/dashboard/announcements.php:110
+#: templates/dashboard/assignments.php:59
+#: templates/dashboard/elements/filters.php:46 views/elements/filters.php:142
+msgid "ASC"
+msgstr "ASC"
+
+#: templates/dashboard/announcements.php:82 views/pages/announcements.php:106
+msgid "Add New Announcement"
+msgstr "Añadir un nuevo aviso"
+
+#: templates/dashboard/announcements.php:76 views/pages/announcements.php:100
+msgid "Notify all students of your course"
+msgstr "Notificar a todos los estudiantes de tu curso"
+
+#: classes/Backend_Page_Trait.php:65 includes/translate-text.php:105
+#: templates/dashboard/announcements/create.php:64
+#: templates/dashboard/my-courses.php:55 templates/dashboard/my-courses.php:199
+#: views/fragments/announcement-list.php:91 views/pages/course-list.php:130
+msgid "Publish"
+msgstr "Publicado"
+
+#: templates/dashboard/announcements/create.php:55
+#: templates/dashboard/announcements/update.php:56
+#: views/fragments/announcement-list.php:80
+msgid "Summary..."
+msgstr "Resumen..."
+
+#: templates/dashboard/announcements/create.php:53
+#: templates/dashboard/announcements/update.php:54
+#: views/fragments/announcement-list.php:78 views/modal/edit_quiz.php:21
+msgid "Summary"
+msgstr "Resumen"
+
+#: templates/dashboard/announcements/create.php:49
+#: templates/dashboard/announcements/update.php:50
+#: views/fragments/announcement-list.php:73
+msgid "Announcement title"
+msgstr "Título del anuncio"
+
+#: templates/dashboard/announcements/create.php:47
+#: templates/dashboard/announcements/update.php:48
+#: views/fragments/announcement-list.php:71
+msgid "Announcement Title"
+msgstr "Título del anuncio"
+
+#: templates/dashboard/announcements/create.php:18
+msgid "Create New Announcement"
+msgstr "Crear un nuevo anuncio"
+
+#: templates/dashboard/announcements.php:108
+#: templates/dashboard/assignments.php:57
+#: templates/dashboard/elements/filters.php:44
+#: templates/dashboard/question-answer.php:62 views/elements/filters.php:135
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: templates/dashboard/announcements.php:102
+#: templates/dashboard/announcements/create.php:41
+#: templates/dashboard/announcements/update.php:42
+#: templates/dashboard/assignments.php:51
+#: templates/dashboard/elements/filters.php:39 views/elements/filters.php:105
+#: views/fragments/announcement-list.php:64
+msgid "No course found"
+msgstr "No se han encontrado cursos"
+
+#: classes/Course_List.php:124 classes/Instructors_List.php:92
+#: classes/Quiz_Attempts_List.php:202 classes/Withdraw_Requests_List.php:73
+#: includes/translate-text.php:25 templates/dashboard/announcements.php:94
+#: templates/dashboard/assignments.php:43
+#: templates/dashboard/elements/filters.php:30
+msgid "All"
+msgstr "Todos"
+
+#: classes/Ajax.php:662
+msgid "Announcement delete failed"
+msgstr "Falló al eliminar el anuncio"
+
+#: classes/Ajax.php:659
+msgid "Announcement deleted successfully"
+msgstr "Anuncio eliminado correctamente"
+
+#: classes/Ajax.php:608 classes/Ajax.php:613
+msgid "Announcement summary required"
+msgstr "Se necesita el resumen del anuncio"
+
+#: classes/Ajax.php:604
+msgid "Announcement title required"
+msgstr "Se necesita el título del anuncio"
+
+#: classes/Ajax.php:599
+msgid "Course name required"
+msgstr "Se requiere el nombre del curso"
+
+#: classes/Ajax.php:635
+msgid "Announcement updated successfully"
+msgstr "Anuncio actualizado correctamente"
+
+#: classes/Ajax.php:635
+msgid "Announcement created successfully"
+msgstr "Anuncio creado correctamente"
+
+#: classes/Quiz.php:1580
+msgid "Access Denied."
+msgstr "Acceso denegado."
+
+#: classes/WooCommerce.php:837
+msgid "Since WooCommerce is disabled, your monetized courses have been set to free. Please make sure to enable Tutor LMS monetization if you decide to re-enable WooCommerce."
+msgstr "Ya que WooCommerce está desactivado, tus cursos monetizados se han configurado como gratuitos. Por favor, asegúrate de activar la monetización de Tutor LMS si decides reactivar WooCommerce."
+
+#: classes/Lesson.php:305
+msgid "Couldn't create lesson."
+msgstr "No se pudo crear la lección."
+
+#: templates/dashboard/settings/profile.php:82
+msgid "Saving..."
+msgstr "Guardando..."
+
+#: templates/dashboard/settings/profile.php:81
+msgid "700x430"
+msgstr "700x430"
+
+#: templates/dashboard/settings/profile.php:81
+msgid "Cover Photo Size"
+msgstr "Tamaño de la foto de la portada"
+
+#: templates/dashboard/settings/profile.php:80
+#: templates/dashboard/settings/profile.php:81
+msgid "pixels"
+msgstr "píxeles"
+
+#: templates/dashboard/settings/profile.php:80
+msgid "200x200"
+msgstr "200x200"
+
+#: templates/dashboard/settings/profile.php:80
+msgid "Profile Photo Size"
+msgstr "Tamaño de la foto del perfil"
+
+#: classes/Course_List.php:136 templates/dashboard/dashboard.php:152
+msgid "Published"
+msgstr "Publicado"
+
+#: classes/Ajax.php:86 classes/Ajax.php:151 classes/Ajax.php:436
+#: classes/Ajax.php:581 classes/Ajax.php:654 classes/Course.php:620
+#: classes/Course.php:890 classes/Instructor.php:321 classes/Lesson.php:223
+#: classes/Lesson.php:280 classes/Lesson.php:341 classes/Quiz.php:208
+#: classes/Quiz.php:709 classes/Quiz.php:810 classes/Quiz.php:883
+#: classes/Quiz.php:968 classes/Quiz.php:1136 classes/Quiz.php:1163
+#: classes/Quiz.php:1313 classes/Quiz.php:1400 classes/Quiz.php:1438
+#: classes/Quiz.php:1539 classes/Q_and_A.php:144
+msgid "Access Denied"
+msgstr "Acceso denegado"
+
+#: views/pages/uninstall.php:21
+msgid "Completely Uninstall and erase all data"
+msgstr "Desinstalar y borrar completamente todos los datos"
+
+#: views/modal/edit_quiz.php:139
+msgid "Show result after the attempt."
+msgstr "Mostrar resultado después del intento."
+
+#: views/modal/edit_quiz.php:131
+msgid "Answers shown after quiz is finished"
+msgstr "Las respuestas se muestran una vez finalizada la prueba"
+
+#: views/modal/question_answer_form.php:13
+#: views/modal/question_answer_list.php:16
+msgid "No option is necessary for this answer type"
+msgstr "No es necesaria ninguna opción para este tipo de respuesta"
+
+#: classes/Withdraw_Requests_List.php:91 includes/translate-text.php:65
+msgid "Rejected"
+msgstr "Rechazado"
+
+#: classes/Options_V2.php:1016
+msgid "Price Type"
+msgstr "Tipo de precio"
+
+#: classes/Options_V2.php:1012
+msgid "Keyword Search"
+msgstr "Búsqueda por palabra clave"
+
+#: classes/Backend_Page_Trait.php:169 classes/Instructors_List.php:110
+msgid "Block"
+msgstr "Bloquear"
+
+#: classes/Backend_Page_Trait.php:156 classes/Instructors_List.php:98
+#: views/pages/withdraw_requests.php:262
+msgid "Approve"
+msgstr "Aprobar"
+
+#: classes/Tutor_Setup.php:205
+msgid "ON"
+msgstr "Encendido"
+
+#: classes/Tutor_Setup.php:200
+msgid "OFF"
+msgstr "Apagado"
+
+#: templates/dashboard/my-profile.php:35 templates/public-profile.php:189
+msgid "Biography"
+msgstr "Biografía"
+
+#: templates/public-profile.php:152
+msgid "Course Completed"
+msgstr "Curso completado"
+
+#: templates/public-profile.php:152
+msgid "Courses Completed"
+msgstr "Cursos completados"
+
+#: templates/public-profile.php:147
+msgid "Courses Enrolled"
+msgstr "Cursos Inscritos"
+
+#: templates/dashboard/withdraw.php:99
+msgid "The preferred payment method is selected as %s. "
+msgstr "El método de pago preferido está seleccionado como %s."
+
+#: templates/dashboard/settings/profile.php:95
+msgid "Upload Photo"
+msgstr "Subir una foto"
+
+#: templates/dashboard/settings/profile.php:74
+msgid "Upload Cover Photo"
+msgstr "Subir una foto de portada"
+
+#: templates/dashboard/settings/profile.php:74
+msgid "Update Cover Photo"
+msgstr "Cambiar foto de portada"
+
+#: templates/profile/courses_taken.php:49
+msgid "No course yet."
+msgstr "Sin cursos."
+
+#: templates/loop/course-in-cart.php:18
+#: templates/single/course/add-to-cart-woocommerce.php:26
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: templates/instructor-setting.php:38
+msgid "Selected one will be used if layout is not defined as shortcode attribute."
+msgstr "El seleccionado se utilizará si el diseño no está definido como atributo shortcode."
+
+#: classes/Options_V2.php:1038 templates/instructor-setting.php:18
+msgid "Instructor List Layout"
+msgstr "Plantilla de la Lista de Instructores"
+
+#: views/pages/instructors.php:207
+msgid "No instructor found"
+msgstr "No se han encontrado instructores"
+
+#: templates/modal/confirm.php:19
+msgid "Yes"
+msgstr "Sí"
+
+#: views/quiz/contexts.php:95
+msgid "No"
+msgstr "No"
+
+#: templates/dashboard/assignments/submitted.php:100
+msgid "Evaluate"
+msgstr "Evaluar"
+
+#: templates/dashboard/withdraw.php:195
+msgid "Withdrawal History"
+msgstr "Historial de retiradas"
+
+#: templates/dashboard/withdraw.php:177
+msgid "Submit Request"
+msgstr "Enviar solicitud"
+
+#: templates/dashboard/withdraw.php:137
+msgid "Selected Payment Method"
+msgstr "Método de pago seleccionado"
+
+#: templates/dashboard/withdraw.php:128
+msgid "Please check your transaction notification on your connected withdrawal method"
+msgstr "Por favor, comprueba tu aviso de transacción en tu método de retirada conectado"
+
+#: templates/dashboard/withdraw.php:38
+msgid "Withdrawal request is pending for approval, please hold tight."
+msgstr "La solicitud de retirada está pendiente de aprobación, por favor espera."
+
+#: templates/dashboard/withdraw.php:37
+msgid "Please contact the site administrator for more information."
+msgstr "Por favor, contacta con el administrador del sitio para obtener más información."
+
+#: classes/Options_V2.php:1018
+msgid "Choose preferred filter options you'd like to show on the course archive page."
+msgstr "Elige las opciones de filtro preferidas que te gustaría mostrar en la página de archivo de los cursos."
+
+#: classes/Options_V2.php:1009
+msgid "Preferred Course Filters"
+msgstr "Filtros de cursos preferidos"
+
+#: classes/Withdraw.php:249
+msgid "Insufficient balance."
+msgstr "Saldo insuficiente."
+
+#: classes/Options_V2.php:997
+msgid "Show sorting and filtering options on course archive page"
+msgstr "Mostrar las opciones de clasificación y filtrado en la página de archivo de los cursos"
+
+#: classes/Options_V2.php:994
+msgid "Course Filter"
+msgstr "Filtro de cursos"
+
+#: classes/Options_V2.php:799 classes/Options_V2.php:800
+msgid "Preferred Video Source"
+msgstr "Fuente de video preferida"
+
+#: classes/Withdraw.php:108
+msgid "We will use this email address to send the money to your Paypal account"
+msgstr "Usaremos esta dirección de correo electrónico para enviar el dinero a tu cuenta de Paypal"
+
+#: classes/Options_V2.php:1156 templates/course-filter/filters.php:72
+#: templates/single/course/course-entry-box.php:52
+msgid "Level"
+msgstr "Nivel"
+
+#: classes/Options_V2.php:1014 templates/course-filter/filters.php:58
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: classes/Course_Widget.php:175 classes/Options_V2.php:1013
+#: templates/course-filter/filters.php:44
+#: templates/shortcode/instructor-filter.php:58 views/elements/filters.php:113
+msgid "Category"
+msgstr "Categoría"
+
+#: views/elements/filters.php:160
+msgid "Search..."
+msgstr "Buscar..."
+
+#: templates/single/assignment/content.php:180
+#: templates/single/assignment/content.php:502
+msgid "You have missed the submission deadline. Please contact the instructor for more information."
+msgstr "Se ha vencido la fecha límite de presentación. Por favor, contacte con el instructor para más información."
+
+#: templates/dashboard/instructor/logged-in.php:75
+msgid "Go to Dashboard"
+msgstr "Ir al Escritorio"
+
+#: templates/dashboard/instructor/logged-in.php:68
+msgid "Please contact the site administrator for further information."
+msgstr "Por favor, contacta con el administrador del sitio para obtener más información."
+
+#: templates/dashboard/instructor/logged-in.php:66
+msgid "Start building your first course today and let your eLearning journey begin."
+msgstr "Empieza a construir tu primer curso hoy y deja que tu viaje del eLearning comience."
+
+#: templates/dashboard/instructor/logged-in.php:64
+msgid "We've received your application, and we will review it soon. Please hang tight!"
+msgstr "Hemos recibido tu solicitud, y la revisaremos pronto. ¡Por favor, espera!"
+
+#: templates/dashboard/instructor/logged-in.php:55
+msgid "Unfortunately, your instructor status has been removed."
+msgstr "Desafortunadamente, su estado de instructor ha sido eliminado."
+
+#: templates/dashboard/instructor/logged-in.php:53
+msgid "Congratulations! You are now registered as an instructor."
+msgstr "¡Felicidades! Ahora estás registrado como instructor."
+
+#: templates/dashboard/instructor/logged-in.php:51
+msgid "Thank you for registering as an instructor! "
+msgstr "¡Gracias por registrarte como instructor! "
+
+#: templates/dashboard/instructor/logged-in.php:31
+msgid "You have been blocked from being an instructor."
+msgstr "Se te ha denegado la posibilidad de ser instructor."
+
+#: templates/dashboard/instructor/logged-in.php:29
+msgid "Your application has been accepted. Further necessary details have been sent to your registered email account."
+msgstr "Tu solicitud ha sido aceptada. Se han enviado más detalles a tu cuenta de correo electrónico registrada."
+
+#: templates/dashboard/instructor/logged-in.php:27
+msgid "Your application will be reviewed and the results will be sent to you by email."
+msgstr "Tu solicitud será revisada y los resultados te serán enviados por correo electrónico."
+
+#: templates/dashboard/withdraw.php:204
+msgid "Withdrawal Method"
+msgstr "Método de retirada"
+
+#: templates/dashboard.php:157
+msgid "Your Application is pending as of"
+msgstr "Tu solicitud está pendiente desde"
+
+#: templates/single/course/course-topics.php:116
+msgid "Live"
+msgstr "En vivo"
+
+#: templates/single/assignment/content.php:143
+#: templates/single/course/course-topics.php:114
+msgid "Expired"
+msgstr "Caducada"
+
+#: restapi/REST_Topic.php:46
+msgid "Topic not found for given ID"
+msgstr "Tema no encontrado para el ID dado"
+
+#: restapi/REST_Topic.php:38
+msgid "Topic retrieved successfully"
+msgstr "Tema obtenido correctamente"
+
+#: restapi/REST_Course_Announcement.php:47
+msgid "Announcement not found for given ID"
+msgstr "Anuncio no encontrado para el ID dado"
+
+#: restapi/REST_Course_Announcement.php:38
+msgid "Announcement retrieved successfully"
+msgstr "Anuncio obtenido correctamente"
+
+#: restapi/REST_Lesson.php:63
+msgid "Lesson not found for given topic ID"
+msgstr "Lección no encontrada para el ID de tema dado"
+
+#: restapi/REST_Lesson.php:55
+msgid "Lesson retrieved successfully"
+msgstr "Lección obtenida correctamente"
+
+#: restapi/REST_Author.php:44
+msgid "Author not found"
+msgstr "Autor no encontrado"
+
+#: restapi/REST_Author.php:35
+msgid "Author details retrieved successfully"
+msgstr "Datos del autor obtenidos correctamente"
+
+#: restapi/REST_Quiz.php:148
+msgid "Quiz attempts not found for given ID"
+msgstr "Intentos de cuestionario no encontrados para el ID dado"
+
+#: restapi/REST_Quiz.php:140
+msgid "Quiz attempts retrieved successfully"
+msgstr "Intentos de cuestionario obtenidos correctamente"
+
+#: restapi/REST_Quiz.php:103
+msgid "Question not found for given ID"
+msgstr "Pregunta no encontrada para el ID dado"
+
+#: restapi/REST_Quiz.php:94
+msgid "Question retrieved successfully"
+msgstr "Pregunta obtenida correctamente"
+
+#: restapi/REST_Quiz.php:53
+msgid "Quiz not found for given ID"
+msgstr "Cuestionario no encontrado para el ID dado"
+
+#: restapi/REST_Quiz.php:45
+msgid "Quiz retrieved successfully"
+msgstr "Cuestionario obtenido correctamente"
+
+#: restapi/REST_Course.php:223
+msgid "Tags field is not an array"
+msgstr "El campo de etiquetas no es un arreglo"
+
+#: restapi/REST_Course.php:219
+msgid "Categories field is not an array"
+msgstr "El campo de categorías no es un arreglo"
+
+#: restapi/REST_Course.php:202
+msgid "Course not found for given terms"
+msgstr "Curso no encontrado para los términos dados"
+
+#: restapi/REST_Course.php:135
+msgid "Detail not found for given ID"
+msgstr "Detalle no encontrado para el ID dado"
+
+#: restapi/REST_Course.php:128
+msgid "Course detail retrieved successfully"
+msgstr "Detalle del curso obtenido correctamente"
+
+#: restapi/REST_Course.php:88 restapi/REST_Course.php:287
+msgid "Course not found"
+msgstr "Curso no encontrado"
+
+#: restapi/REST_Course.php:79 restapi/REST_Course.php:193
+#: restapi/REST_Course.php:278
+msgid "Course retrieved successfully"
+msgstr "Curso obtenido correctamente"
+
+#: restapi/REST_Rating.php:54
+msgid "Rating not found for given ID"
+msgstr "Valoración no encontrada para el ID dado"
+
+#: restapi/REST_Rating.php:45
+msgid "Course rating retrieved successfully"
+msgstr "Valoración del curso obtenida correctamente"
+
+#: classes/Addons.php:115
+msgid "Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course."
+msgstr "Ayuda a conectar Google Classrooms con los cursos de Tutor LMS, permitiéndote utilizar funciones como los streams y archivos de Classroom directamente desde el curso de Tutor LMS."
+
+#: classes/Addons.php:114
+msgid "Google Classroom Integration"
+msgstr "Integración con Google Classroom"
+
+#: classes/Addons.php:107
+msgid "Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page."
+msgstr "Conecta Tutor LMS con Zoom para organizar clases en línea en vivo. Los estudiantes pueden asistir a clases en vivo directamente desde la página de la lección."
+
+#: classes/Addons.php:106
+msgid "Tutor Zoom Integration"
+msgstr "Integración con Zoom de Tutor"
+
+#: templates/single/quiz/parts/open-ended.php:24
+#: templates/single/quiz/parts/short-answer.php:24
+msgid "characters remaining"
+msgstr "caracteres restantes"
+
+#: classes/Options_V2.php:642
+msgid "Allow instructors and admins to view the course content without enrolling"
+msgstr "Permitir a los instructores y administradores ver el contenido del curso sin inscribirse"
+
+#: classes/Options_V2.php:639
+msgid "Course Content Access"
+msgstr "Acceso al contenido del curso"
+
+#: classes/Withdraw.php:295
+msgid "Withdrawal Request Sent!"
+msgstr "¡Petición de reembolso enviada!"
+
+#: classes/Options_V2.php:1567
+msgid "Enabling this feature will show a notification bar to students and instructors to complete their profile information"
+msgstr "Al activar esta característica, se mostrará una barra de aviso a los estudiantes e instructores para completar su información de perfil"
+
+#: classes/Options_V2.php:1564
+msgid "Profile Completion"
+msgstr "Completado del perfil"
+
+#: classes/Utils.php:8632
+msgid "Withdrawals"
+msgstr "Retiros"
+
+#: templates/dashboard/notifications/profile-completion.php:42
+msgid "You are almost done!"
+msgstr "¡Ya casi estás listo!"
+
+#: templates/dashboard/notifications/profile-completion.php:40
+msgid "% Complete"
+msgstr "% completado"
+
+#: templates/dashboard/notifications/profile-completion.php:27
+msgid "Set Your"
+msgstr "Establece tu"
+
+#: templates/dashboard/notifications/profile-completion.php:22
+msgid "Complete your profile so people can know more about you! Go to Profile"
+msgstr "¡Completa tu perfil para que la gente pueda saber más sobre ti! Ir al perfil"
+
+#: templates/dashboard/dashboard.php:36
+#: templates/dashboard/notifications/profile-completion.php:20
+msgid "Complete Your Profile"
+msgstr "Completa tu perfil"
+
+#: templates/dashboard/question-answer/answers.php:104
+#: templates/single/lesson/comments-loop.php:38
+#: templates/single/lesson/comments-loop.php:88 views/qna/contexts.php:18
+#: views/qna/qna-single.php:141 views/qna/qna-single.php:176
+#: views/qna/qna-table.php:122
+msgid "Reply"
+msgstr "Responder"
+
+#: views/qna/qna-table.php:171
+msgid "Delete This Question?"
+msgstr "¿Borrar esta pregunta?"
+
+#: views/pages/course-list.php:244
+msgid "Quiz:"
+msgstr "Cuestionario:"
+
+#: templates/dashboard/assignments.php:116
+#: templates/dashboard/assignments/submitted.php:104
+#: templates/instructor/cover.php:43 templates/instructor/default.php:37
+#: templates/instructor/minimal-horizontal.php:35
+#: templates/instructor/minimal.php:39
+#: templates/instructor/portrait-horizontal.php:40
+#: views/fragments/announcement-list.php:310 views/pages/students.php:152
+#: views/quiz/attempt-table.php:173 views/quiz/contexts.php:25
+msgid "Details"
+msgstr "Detalles"
+
+#: templates/single/assignment/content.php:156
+msgid "Total Marks:"
+msgstr "Puntos totales:"
+
+#: views/quiz/contexts.php:22 views/quiz/contexts.php:73
+msgid "Incorrect Answer"
+msgstr "Respuesta incorrecta"
+
+#: views/quiz/contexts.php:21 views/quiz/contexts.php:72
+#: views/quiz/contexts.php:99
+msgid "Correct Answer"
+msgstr "Respuesta correcta"
+
+#: views/modal/edit_quiz.php:138
+msgid "Reveal Mode"
+msgstr "Modo de revelar"
+
+#: views/modal/edit_quiz.php:146
+msgid "Retry Mode"
+msgstr "Modo de reintentar"
+
+#: views/modal/edit_quiz.php:130
+msgid "Default"
+msgstr "Por defecto"
+
+#: views/modal/edit_quiz.php:124
+msgid "Pick the quiz system\"s behaviour on choice based questions."
+msgstr "Elige el comportamiento del sistema del cuestionario en base a preguntas de opción"
+
+#: views/modal/edit_quiz.php:120
+msgid "Quiz Feedback Mode"
+msgstr "Modo de comentarios para los cuestionarios"
+
+#: templates/dashboard/announcements/update.php:63
+#: views/pages/withdraw_requests.php:104 views/pages/withdraw_requests.php:258
+#: views/quiz/instructor-feedback.php:38
+msgid "Update"
+msgstr "Actualizar"
+
+#: views/quiz/instructor-feedback.php:23
+msgid "Instructor Feedback"
+msgstr "Comentarios del instructor"
+
+#: views/modal/edit_quiz.php:280
+msgid "Students will place the answer in the Open-Ended/Essay question type within this character limit."
+msgstr "Los estudiantes colocarán la respuesta en la pregunta abierta/de ensayo dentro de este límite de caracteres."
+
+#: views/modal/edit_quiz.php:276
+msgid "Open-Ended/Essay questions answer character limit"
+msgstr "Límite de caracteres de las respuestas a las preguntas abiertas/de ensayo"
+
+#: templates/dashboard/settings/profile.php:185
+msgid "The display name is shown in all public fields, such as the author name, instructor name, student name, and name that will be printed on the certificate."
+msgstr "El nombre a mostrar se visualiza en todos los campos públicos, como el nombre del autor, el nombre del instructor, el nombre del estudiante y el nombre que se imprimirá en el certificado."
+
+#: templates/dashboard/settings/profile.php:172
+msgid "Display name publicly as"
+msgstr "Mostrar el nombre públicamente como"
+
+#: classes/Options_V2.php:678
+msgid "Course Completion Process"
+msgstr "Proceso de finalización del curso"
+
+#: classes/Course.php:1407
+msgid "Complete all lessons to mark this course as complete"
+msgstr "Finaliza todas las lecciones para marcar este curso como completado"
+
+#: classes/Addons.php:103
+msgid "Save time by exporting/importing quiz data with easy options."
+msgstr "Ahorra tiempo exportando/importando datos de cuestionarios con opciones fáciles."
+
+#: classes/Addons.php:102
+msgid "Quiz Export/Import"
+msgstr "Exportar/Importar el cuestionario"
+
+#: classes/Withdraw.php:102
+msgid "PayPal"
+msgstr "PayPal"
+
+#: classes/Tools_V2.php:335
+msgid "Setup Wizard"
+msgstr "Asistente de configuración"
+
+#: classes/Tutor_Setup.php:861
+msgid "Tutor &rsaquo; Setup Wizard"
+msgstr "Tutor > Asistente de configuración"
+
+#: classes/Tutor_Setup.php:823
+msgid "Create an eLearning platform to let anyone earn by teaching online"
+msgstr "Crea una plataforma de aprendizaje electrónico para permitir que cualquiera gane enseñando online"
+
+#: classes/Tutor_Setup.php:822
+msgid "Marketplace"
+msgstr "Mercado"
+
+#: classes/Tutor_Setup.php:802
+msgid "Individual"
+msgstr "Individual"
+
+#: classes/Tutor_Setup.php:789
+msgid "Pick a category for your LMS platform. You can always update this later."
+msgstr "Elige una categoría para tu plataforma LMS. Siempre puedes actualizar esto más tarde."
+
+#: classes/Tutor_Setup.php:788
+msgid "Let’s get the platform up and running"
+msgstr "Pongamos la plataforma en funcionamiento"
+
+#: classes/Tutor_Setup.php:764
+msgid "I already know, skip it!"
+msgstr "Ya lo sé, ¡sáltalo!"
+
+#: classes/Tutor_Setup.php:759
+msgid "Let’s Start"
+msgstr "Empecemos"
+
+#: classes/Tutor_Setup.php:751
+msgid "Track what type of courses sell the most! Gain insights on user purchases, manage reviews and track quiz attempts."
+msgstr "¡Haz un seguimiento de qué tipo de cursos se venden más! Obtén información sobre las compras de los usuarios, gestiona las revisiones y rastrea los intentos de los cuestionarios."
+
+#: classes/Tutor_Setup.php:747 classes/Tutor_Setup.php:749
+msgid "Reports and Analytics"
+msgstr "Informes y análisis"
+
+#: classes/Tutor_Setup.php:742
+msgid "Select an eCommerce plugin and sell courses any way you like and use any payment gateway you want!"
+msgstr "¡Selecciona un plugin de comercio electrónico y vende los cursos de la forma que desees y usa cualquier pasarela de pago que quieras!"
+
+#: classes/Tutor_Setup.php:738 classes/Tutor_Setup.php:740
+msgid "Freedom With eCommerce"
+msgstr "Libertad con comercio electrónico"
+
+#: classes/Tutor_Setup.php:733
+msgid "Build interactive quizzes with the vast selection of question types and verify the learning of your students."
+msgstr "Crea cuestionarios interactivos con la amplia selección de tipos de preguntas y verifica el aprendizaje de tus alumnos."
+
+#: classes/Tutor_Setup.php:729 classes/Tutor_Setup.php:731
+msgid "Advanced Quiz Creator"
+msgstr "Creador de cuestionarios avanzado"
+
+#: classes/Tutor_Setup.php:724
+msgid "Tutor LMS comes with a state-of-the-art frontend course builder. Construct rich and resourceful courses with ease."
+msgstr "Tutor LMS viene con un creador de cursos de última generación en la vista pública. Construye cursos ricos e ingeniosos con facilidad."
+
+#: classes/Tutor_Setup.php:720 classes/Tutor_Setup.php:722
+msgid "Extensive Course Builder"
+msgstr "Amplio constructor de cursos"
+
+#: classes/Tutor_Setup.php:715
+msgid "From individual instructors to vast eLearning platforms, Tutor LMS grows with you to create your ideal vision of an LMS website."
+msgstr "Desde instructores individuales hasta grandes plataformas de eLearning, Tutor LMS crece contigo para crear tu visión ideal de una web LMS."
+
+#: classes/Tutor_Setup.php:711 classes/Tutor_Setup.php:713
+msgid "A Powerful, Smart, and Scalable LMS Solution"
+msgstr "Una solución LMS potente, inteligente y escalable"
+
+#: classes/Tutor_Setup.php:638 classes/Tutor_Setup.php:667
+msgid "Skip this step"
+msgstr "Saltar este paso"
+
+#: classes/Tutor_Setup.php:584
+msgid "Congratulations, you’re all set!"
+msgstr "¡Felicidades, ya está todo listo!"
+
+#: classes/Tutor_Setup.php:560
+msgid "Payment"
+msgstr "Pago"
+
+#: classes/Tutor_Setup.php:525
+msgid "Choose your preferred withdrawal method from the options."
+msgstr "Selecciona de entre las opciones tu método de retirada preferido."
+
+#: classes/Tutor_Setup.php:524
+msgid "Payment Withdrawal Method"
+msgstr "Método de retiro de pago"
+
+#: classes/Tutor_Setup.php:514
+msgid "Control revenue sharing between admin and instructor."
+msgstr "Controla el reparto de ingresos entre el administrador y el instructor."
+
+#: classes/Tutor_Setup.php:513 views/pages/instructors.php:124
+#: views/pages/instructors.php:170
+msgid "Commission Rate"
+msgstr "Porcentaje de comision"
+
+#: classes/Tutor_Setup.php:509
+msgid "Allow users to buy and consume content without logging in."
+msgstr "Permite a los usuarios comprar y consumir contenido sin conectarse."
+
+#: classes/Tutor_Setup.php:508
+msgid "Guest Checkout"
+msgstr "Pago de invitado"
+
+#: classes/Tutor_Setup.php:504
+msgid "Payment Settings "
+msgstr "Ajustes de pago "
+
+#: classes/Tutor_Setup.php:498
+msgid "Enable earning for instructors?"
+msgstr "¿Permitir ingresos para instructores?"
+
+#: classes/Tutor_Setup.php:493
+msgid "Choose between open and closed instructor signup. If you’re creating a course marketplace, instructor signup should be open."
+msgstr "Escoge entre el registro de instructor abierto y cerrado. Si estás creando un mercado de cursos, el registro del instructor debe estar abierto."
+
+#: classes/Tutor_Setup.php:492
+msgid "New Signup"
+msgstr "Nuevo registro"
+
+#: classes/Tutor_Setup.php:488
+msgid "Instructor Settings"
+msgstr "Ajustes del instructor"
+
+#: classes/Options_V2.php:778
+msgid "Final Grade Calculation"
+msgstr "Cálculo de la nota final"
+
+#: classes/Tutor_Setup.php:482
+msgid "How many courses per page on the archive pages."
+msgstr "Cuántos cursos por página en las páginas del archivo."
+
+#: classes/Tutor_Setup.php:477
+msgid "How many courses per row on the archive pages."
+msgstr "Cuántos cursos por fila en las páginas del archivo."
+
+#: classes/Tutor_Setup.php:476
+msgid "Courses Per Row"
+msgstr "Cursos por fila"
+
+#: classes/Tutor_Setup.php:472
+msgid "Allows a Q&A forum on each course."
+msgstr "Permite un foro de preguntas y respuestas en cada curso."
+
+#: classes/Tutor_Setup.php:471
+msgid "Question and Anwser"
+msgstr "Preguntas y respuestas"
+
+#: classes/Tutor_Setup.php:467
+msgid "Let the students know the instructor(s). Display their credentials, professional experience, and more."
+msgstr "Permite a los estudiantes conocer al/los instructor(es). Muestra sus credenciales, experiencia profesional y más."
+
+#: classes/Tutor_Setup.php:466
+msgid "Show Instructor Bio"
+msgstr "Mostrar la biografía del instructor"
+
+#: classes/Tutor_Setup.php:450
+msgid "Allow users to have a student profile to showcase awards and completed courses."
+msgstr "Permite que los usuarios tengan un perfil de estudiante para exhibir premios y cursos completados."
+
+#: classes/Tutor_Setup.php:338
+msgid "Admin / Owner"
+msgstr "Administrador / Dueño"
+
+#: classes/Instructors_List.php:62 classes/Options_V2.php:592
+#: classes/Tutor_Setup.php:333 classes/Tutor_Setup.php:557
+#: classes/Utils.php:8612 templates/dashboard/question-answer.php:53
+msgid "Instructor"
+msgstr "Instructor"
+
+#: classes/Tutor_Setup.php:168
+msgid "Reset Default"
+msgstr "Restablecer a los valores por defecto"
+
+#: templates/loop/add-to-cart-edd.php:26
+msgid "Purchase"
+msgstr "Compra"
+
+#: templates/dashboard/settings/reset-password.php:26
+#: templates/dashboard/settings/reset-password.php:27
+msgid "Current Password"
+msgstr "Contraseña actual"
+
+#: templates/dashboard/announcements/details.php:45
+#: templates/dashboard/reviews/given-reviews.php:76
+#: templates/single/assignment/content.php:525
+#: views/fragments/announcement-list.php:174
+#: views/fragments/announcement-list.php:322 views/modal/edit_quiz.php:60
+#: views/options/field-types/toggle_switch_button_thumb.php:28
+#: views/pages/course-list.php:340 views/pages/instructors.php:199
+msgid "Edit"
+msgstr "Editar"
+
+#: templates/dashboard/withdraw.php:55
+msgid "Withdrawal"
+msgstr "Retirar"
+
+#: classes/Options_V2.php:721
+msgid "Automatically Load Next Course Content."
+msgstr "Cargar automáticamente el siguiente contenido del curso."
+
+#: classes/Options_V2.php:1504
+msgid "Hide Course Products on Shop Page"
+msgstr "Ocultar los productos de cursos en la página de la tienda"
+
+#: classes/Addons.php:66
+msgid "Restrict Content Pro"
+msgstr "Restrict Content Pro"
+
+#: classes/Addons.php:42
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: classes/Options_V2.php:1172 templates/single/course/course-entry-box.php:36
+#: templates/single/course/course-entry-box.php:37
+msgid "Duration"
+msgstr "Duración"
+
+#: classes/Tutor_Setup.php:634 classes/Tutor_Setup.php:663
+#: templates/single/common/footer.php:34
+#: templates/single/next-previous-pagination.php:17
+msgid "Previous"
+msgstr "Anterior"
+
+#: classes/Options_V2.php:1591
+msgid "Enabling the maintenance mode allows you to display a custom message on the frontend. During this time, visitors can not access the site content. But the wp-admin dashboard will remain accessible."
+msgstr "Activar el modo de mantenimiento te permite que muestres un mensaje personalizado en la portada. Durante este tiempo, los visitantes no podrán acceder a los contenidos del sitio, pero el escritorio de «wp-admin» aún será accesible."
+
+#: classes/Options_V2.php:1588
+msgid "Maintenance Mode"
+msgstr "Modo de mantenimiento"
+
+#: classes/Options_V2.php:1173 classes/Options_V2.php:1245
+msgid "Disable"
+msgstr "Desactivar"
+
+#: views/options/template/tutor_pages.php:18
+#: views/pages/tools/tutor_pages.php:121
+msgid "Note: This tool will install all the missing Tutor pages. Pages already defined and set up will not be replaced."
+msgstr "Nota: Esta herramienta instalará todas las páginas de Tutor que faltan. Las páginas ya definidas y configuradas no serán reemplazadas."
+
+#: views/options/template/tutor_pages.php:82
+#: views/pages/tools/tutor_pages.php:113
+msgid "Re-Generate Tutor Pages"
+msgstr "Regenerar las páginas de Tutor"
+
+#: views/pages/tools/tutor_pages.php:60
+msgid "Page visibility is not public"
+msgstr "La visibilidad de la página no es pública"
+
+#: views/pages/tools/tutor_pages.php:53
+msgid " Page deleted, please set new one"
+msgstr " Página borrada, por favor, establece una nueva"
+
+#: views/pages/tools/tutor_pages.php:46 views/pages/tools/tutor_pages.php:101
+msgid " Page not set"
+msgstr " Página no establecida"
+
+#: views/options/template/tutor_pages.php:30
+#: views/pages/tools/tutor_pages.php:19
+msgid "Page Name"
+msgstr "Nombre de la página"
+
+#: templates/dashboard/announcements/details.php:44
+#: templates/dashboard/my-courses.php:268
+#: templates/dashboard/reviews/given-reviews.php:81
+#: templates/dashboard/settings/profile.php:98
+#: views/fragments/announcement-list.php:171
+#: views/fragments/announcement-list.php:328 views/modal/edit_quiz.php:66
+#: views/options/field-types/media.php:43
+#: views/options/template/import_export.php:110 views/qna/qna-single.php:81
+#: views/qna/qna-table.php:151
+msgid "Delete"
+msgstr "Borrar"
+
+#: classes/Admin.php:224 classes/Tools_V2.php:323
+#: views/options/template/tutor_pages.php:15
+msgid "Tutor Pages"
+msgstr "Paginas de Tutor"
+
+#: classes/Admin.php:126 views/options/tools.php:16 views/pages/tools.php:14
+msgid "Tools"
+msgstr "Herramientas"
+
+#: classes/Utils.php:2708
+msgid "Retrieve Password"
+msgstr "Recuperar la contraseña"
+
+#. translators: %s: site name
+#: classes/FormHandler.php:222
+msgid "Password Reset Request for %s"
+msgstr "Solicitud de restablecimiento de contraseña para %s"
+
+#: classes/FormHandler.php:176
+msgid "Passwords do not match."
+msgstr "Las contraseñas no coinciden."
+
+#: classes/FormHandler.php:171
+msgid "Please enter your password."
+msgstr "Por favor, introduce tu contraseña."
+
+#: classes/FormHandler.php:165
+msgid "This key is invalid or has already been used. Please reset your password again if needed."
+msgstr "Esta clave no es válida o ya ha sido utilizada. Por favor, restablece tu contraseña de nuevo si es necesario."
+
+#: classes/FormHandler.php:131
+msgid " If you don't see the email, check other places it might be, like your junk, spam, social, promotion or others folders."
+msgstr " Si no ves el correo electrónico, comprueba otros lugares en los que podría estar, como la papelera, correo no deseado, social, promociones u otras carpetas."
+
+#: classes/FormHandler.php:130
+msgid "We've sent an email to this account's email address. Click the link in the email to reset your password."
+msgstr "Hemos enviado un correo electrónico a la dirección de correo electrónico de esta cuenta. Haz clic en el enlace del correo electrónico para restablecer tu contraseña"
+
+#: classes/FormHandler.php:129
+msgid "Check your E-Mail"
+msgstr "Consulta tu correo electrónico"
+
+#: classes/FormHandler.php:102
+msgid "Password reset is not allowed for this user"
+msgstr "El restablecimiento de la contraseña no está permitido para este usuario"
+
+#: classes/FormHandler.php:85 classes/FormHandler.php:90
+msgid "Invalid username or email."
+msgstr "Nombre de usuario o contraseña no válidos."
+
+#: classes/FormHandler.php:63
+msgid "Enter a username or email address."
+msgstr "Introduce un nombre de usuario o una dirección de correo electrónico."
+
+#: classes/Ajax.php:525
+msgid "Username is required."
+msgstr "El nombre de usuario es obligatorio."
+
+#: views/pages/instructors.php:289
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: templates/email/send-reset-password.php:33
+msgid "Thanks for reading."
+msgstr "Gracias por leer esto."
+
+#: templates/email/send-reset-password.php:30
+msgid "Click here to reset your password"
+msgstr "Haz clic aquí para restablecer tu contraseña"
+
+#: templates/email/send-reset-password.php:26
+msgid "If you didn't make this request, just ignore this email. If you'd like to proceed:"
+msgstr "Si no has realizado esta solicitud, solo ignora este correo electrónico. Si quieres continuar:"
+
+#: templates/email/send-reset-password.php:24
+msgid "Username: %s"
+msgstr "Nombre de usuario: %s"
+
+#: templates/email/send-reset-password.php:21
+msgid "Someone has requested a new password for the following account on %s:"
+msgstr "Alguien ha solicitado una nueva contraseña para la siguiente cuenta en %s:"
+
+#: templates/email/send-reset-password.php:17
+msgid "Hi %s,"
+msgstr "Hola %s,"
+
+#: templates/template-part/retrieve-password.php:34
+msgid "Username or email"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: templates/template-part/retrieve-password.php:29
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "¿Has perdido tu contraseña? Por favor, escribe tu nombre de usuario o tu dirección de correo electrónico. Recibirás por correo electrónico un enlace para crear una nueva contraseña."
+
+#: templates/template-part/form-retrieve-password.php:59
+#: templates/template-part/retrieve-password.php:47
+#: templates/template-part/retrieve-password.php:48
+msgid "Reset password"
+msgstr "Restablecer la contraseña"
+
+#: templates/template-part/form-retrieve-password.php:45
+msgid "Confirm Password"
+msgstr "Confirmar la contraseña"
+
+#: templates/template-part/form-retrieve-password.php:27
+msgid "Enter Password and Confirm Password to reset your password"
+msgstr "Introduce y confirma tu contraseña para restablecer tu contraseña"
+
+#: classes/Options_V2.php:706 views/metabox/course-contents.php:162
+#: views/metabox/course-contents.php:192 views/metabox/course-topics.php:107
+msgid "Lesson"
+msgstr "Lección"
+
+#: views/modal/topic-form.php:33
+msgid "Topic titles are displayed publicly wherever required. Each topic may contain one or more lessons, quiz and assignments."
+msgstr "Los títulos de los temas se muestran públicamente donde sea necesario. Cada tema puede contener una o más lecciones, cuestionarios y tareas."
+
+#: views/metabox/course-topics.php:30 views/metabox/course-topics.php:35
+msgid "Add Topic"
+msgstr "Añadir un tema"
+
+#: views/metabox/course-topics.php:21
+msgid "Add new topic"
+msgstr "Añadir un nuevo tema"
+
+#: views/metabox/lesson-metabox.php:38
+msgid "Choose the course for this lesson"
+msgstr "Elige el curso de esta lección"
+
+#: views/metabox/lesson-metabox.php:23
+msgid "Select a course"
+msgstr "Seleccionar un curso"
+
+#: views/metabox/instructors-metabox.php:74
+msgid "Add Instructors"
+msgstr "Añadir instructores"
+
+#: views/metabox/instructors-metabox.php:69
+msgid "Search instructors..."
+msgstr "Buscar instructores..."
+
+#: views/metabox/instructors-metabox.php:60
+msgid "Add instructors"
+msgstr "Añadir instructores"
+
+#: views/metabox/instructors-metabox.php:51
+msgid "Add More Instructors"
+msgstr "Añadir más instructores"
+
+#: classes/Options_V2.php:1148 views/metabox/instructors-metabox.php:27
+#: views/pages/course-list.php:168
+msgid "Author"
+msgstr "Autor"
+
+#: templates/course-filter/filters.php:16
+#: views/metabox/product-selection.php:31
+msgid "Paid"
+msgstr "Pagado"
+
+#: views/metabox/product-selection.php:25
+msgid "Course Type"
+msgstr "Tipo de curso"
+
+#: views/metabox/course-add-edd-product-metabox.php:14
+msgid "Sell your product, process by EDD"
+msgstr "Vende tus productos, procesados por EDD"
+
+#: views/metabox/product-selection.php:48
+msgid "Select a Product"
+msgstr "Seleccionar un producto"
+
+#: views/metabox/course-add-edd-product-metabox.php:15
+msgid "When selling the course"
+msgstr "Al vender un curso"
+
+#: views/metabox/product-selection.php:42
+msgid "Select product"
+msgstr "Selecciona un producto"
+
+#: views/metabox/course-additional-data.php:68
+msgid "A list of assets you will be providing for the students in this course (One per line)"
+msgstr "Una lista de los recursos que proporcionarás a los estudiantes en este curso (uno por línea)"
+
+#: views/metabox/course-additional-data.php:66
+msgid "Materials Included"
+msgstr "Materiales Incluidos"
+
+#: views/metabox/course-additional-data.php:46
+msgid "Specify the target audience that will benefit the most from the course. (One line per target audience.)"
+msgstr "Especifica la audiencia objetivo que más se beneficiará de este curso (una línea por audiencia objetivo)."
+
+#: views/metabox/course-additional-data.php:44
+msgid "Targeted Audience"
+msgstr "Público objetivo"
+
+#: views/metabox/course-additional-data.php:75
+msgid "Additional requirements or special instructions for the students (One per line)"
+msgstr "Requisitos adicionales o instrucciones especiales para los estudiantes (una por línea)"
+
+#: views/metabox/course-additional-data.php:73
+msgid "Requirements/Instructions"
+msgstr "Requisitos/instrucciones"
+
+#: views/metabox/course-additional-data.php:51
+msgid "Total Course Duration"
+msgstr "Duración total del curso"
+
+#: views/metabox/course-contents.php:83 views/metabox/course-contents.php:90
+msgid "Update Topic"
+msgstr "Actualizar el tema"
+
+#: views/modal/edit-lesson.php:60
+msgid "The idea of a summary is a short text to prepare students for the activities within the topic or week. The text is shown on the course page under the topic name."
+msgstr "La idea de un resumen es un texto breve para preparar a los estudiantes para las actividades de un tema o una semana. El texto es mostrado en la página del curso debajo del nombre del tema."
+
+#: views/modal/topic-form.php:38
+msgid "Topic Summary"
+msgstr "Resumen del tema"
+
+#: views/modal/topic-form.php:29
+msgid "Topic Name"
+msgstr "Nombre del tema"
+
+#: views/metabox/user-profile-fields.php:63
+msgid "Upload"
+msgstr "Subir"
+
+#: views/metabox/user-profile-fields.php:46
+msgid "Write a little bit more about you, it will show publicly."
+msgstr "Escribe un poco más sobre ti, se mostrará públicamente."
+
+#: views/metabox/user-profile-fields.php:34
+msgid "Profile Bio"
+msgstr "Biografía del perfil"
+
+#: views/metabox/user-profile-fields.php:27
+msgid "Job Title"
+msgstr "Título profesional"
+
+#: views/metabox/user-profile-fields.php:14
+msgid "Tutor Fields"
+msgstr "Campos de Tutor"
+
+#: templates/dashboard/announcements.php:73
+#: views/fragments/announcement-list.php:376 views/pages/announcements.php:97
+msgid "Create Announcement"
+msgstr "Crear un anuncio"
+
+#: classes/Course_Widget.php:150 views/pages/course-list.php:161
+msgid "Title"
+msgstr "Título"
+
+#: views/metabox/video-metabox.php:201
+msgid "Video playback time"
+msgstr "Tiempo de reproducción del vídeo"
+
+#: views/metabox/video-metabox.php:191
+msgid "Place your embedded code here"
+msgstr "Pon tu codigo incrustrado aqui"
+
+#: views/metabox/video-metabox.php:128
+msgid "File Format: "
+msgstr "Formato del archivo: "
+
+#: classes/Utils.php:8744
+msgid "Embedded"
+msgstr "Incrustado"
+
+#: classes/Utils.php:8740
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: classes/Utils.php:8736
+msgid "Youtube"
+msgstr "YouTube"
+
+#: classes/Utils.php:8732
+msgid "External URL"
+msgstr "URL externa"
+
+#: classes/Utils.php:8728
+msgid "HTML 5 (mp4)"
+msgstr "HTML5 (mp4)"
+
+#: views/metabox/video-metabox.php:109
+msgid "Select Video Source"
+msgstr "Selecciona la fuente del vídeo"
+
+#: views/metabox/video-metabox.php:85
+msgid "Video Source"
+msgstr "Fuente del vídeo"
+
+#: views/metabox/video-metabox.php:83
+msgid "Course Intro Video"
+msgstr "Vídeo de introducción del curso"
+
+#: views/fragments/attachments.php:51
+msgid "Upload Attachments"
+msgstr "Subir adjuntos"
+
+#: classes/Course.php:1104 classes/Options_V2.php:1015
+#: views/metabox/course-level-metabox.php:19
+msgid "Difficulty Level"
+msgstr "Nivel de dificultad"
+
+#: views/pages/instructors.php:239
+msgid "Add New Instructor"
+msgstr "Añadir un nuevo instructor"
+
+#: views/pages/get-pro.php:13
+msgid "Get pro plugin from themeum.com"
+msgstr "Obtén el plugin Pro en themeum.com"
+
+#: templates/loop/add-to-cart-edd.php:26 views/pages/addons.php:85
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: views/pages/addons.php:28
+msgid "Themes"
+msgstr "Temas"
+
+#: views/pages/addons.php:23
+msgid "Plugins"
+msgstr "Plugins"
+
+#: views/pages/addons.php:16
+msgid "Tutor Add-ons"
+msgstr "Extensiones de Tutor"
+
+#: views/pages/answer.php:74
+msgid "on"
+msgstr "en"
+
+#: views/pages/answer.php:42
+msgid "Place answer"
+msgstr "Poner la respuesta"
+
+#: views/pages/answer.php:38
+msgid "Write an answer here"
+msgstr "Escribe aquí una respuesta"
+
+#: views/pages/add_new_instructor.php:13
+msgid "Add new instructor"
+msgstr "Añadir un nuevo instructor"
+
+#: classes/Utils.php:8683 templates/dashboard/question-answer.php:43
+#: templates/single/course/enrolled/question_and_answer.php:114
+#: views/pages/question_answer.php:49
+msgid "Question & Answer"
+msgstr "Pregunta y respuesta"
+
+#: views/pages/uninstall.php:16
+msgid "Just deactivate tutor plugin or completely uninstall and erase all of data saved before by tutor."
+msgstr "Simplemente desactiva el plugin Tutor o desinstálalo completamente y borra todos los datos guardados anteriormente por Tutor."
+
+#: views/pages/uninstall.php:15
+msgid "Uninstall Tutor"
+msgstr "Desinstalar Tutor"
+
+#: classes/Tools_V2.php:497 views/pages/tools/status.php:307
+msgid "Your server does not support the %s functions - this is required for better character encoding. Some fallbacks will be used instead for it."
+msgstr "Tu servidor no es compatible con las funciones %s; esto es obligatorio para una mejor codificación de caracteres. En su lugar, se utilizarán algunas alternativas."
+
+#: views/pages/tools/status.php:296
+msgid "Multibyte String (mbstring) is used to convert character encoding, like for emails or converting characters to lowercase."
+msgstr "La cadena multibyte (mbstring) se usa para convertir la codificación de caracteres, como para correos electrónicos o convertir caracteres a minúsculas."
+
+#: classes/Tools_V2.php:304 views/pages/tools/status.php:295
+msgid "Multibyte string"
+msgstr "Cadena multibyte"
+
+#: classes/Tools_V2.php:493 views/pages/tools/status.php:288
+msgid "Your server does not support the %s function - this is required to use the GeoIP database from MaxMind."
+msgstr "Tu servidor no es compatible con la función %s; esto es obligatorio para usar la base de datos GeoIP de MaxMind."
+
+#: views/pages/tools/status.php:279
+msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
+msgstr "GZip (gzopen) se utiliza para abrir la base de datos GEOIP desde MaxMind."
+
+#: classes/Tools_V2.php:297 views/pages/tools/status.php:278
+msgid "GZip"
+msgstr "Gzip"
+
+#: classes/Tools_V2.php:489 views/pages/tools/status.php:271
+msgid "Your server does not have the %s class enabled - HTML/Multipart emails, and also some extensions, will not work without DOMDocument."
+msgstr "Tu servidor no tiene activada la clase %s - los correos electrónicos HTML/Multiparte, y también algunas extensiones, no funcionarán sin el DOMDocument."
+
+#: views/pages/tools/status.php:262
+msgid "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
+msgstr "Los correos electrónicos HTML/Multiparte usan DOMDocument para generar CSS integrado en las plantillas."
+
+#: classes/Tools_V2.php:290 views/pages/tools/status.php:261
+msgid "DOMDocument"
+msgstr "DOMDocument"
+
+#: classes/Tools_V2.php:485 views/pages/tools/status.php:254
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr "Tu servidor no tiene fsockopen o cURL activado: PayPal IPN y otros scripts que se comunican con otros servidores no funcionarán. Ponte en contacto con tu proveedor de alojamiento."
+
+#: views/pages/tools/status.php:246
+msgid "Payment gateways can use cURL to communicate with remote servers to authorize payments, other plugins may also use it when communicating with remote services."
+msgstr "Las pasarelas de pago pueden usar cURL para comunicarse con servidores remotos para autorizar pagos, otros plugins también pueden usarlo cuando se comuniquen con servicios remotos."
+
+#: classes/Tools_V2.php:283 views/pages/tools/status.php:245
+msgid "fsockopen/cURL"
+msgstr "fsockopen/cURL"
+
+#. Translators: %s: default timezone..
+#: classes/Tools_V2.php:480 views/pages/tools/status.php:237
+msgid "Default timezone is %s - it should be UTC"
+msgstr "La zona horaria por defecto es %s - debería ser UTC"
+
+#: views/pages/tools/status.php:232
+msgid "The default timezone for your server."
+msgstr "La zona horaria por defecto de tu servidor."
+
+#: classes/Tools_V2.php:276 views/pages/tools/status.php:231
+msgid "Default timezone is UTC"
+msgstr "La zona horaria por defecto es UTC"
+
+#: views/pages/tools/status.php:227
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr "El tamaño máximo de archivo que puede ser subido a tu instalación de WordPress."
+
+#: views/pages/tools/status.php:226
+msgid "Max upload size"
+msgstr "Tamaño máximo de subida"
+
+#: classes/Tools_V2.php:476 views/pages/tools/status.php:216
+msgid "WordPress requirements"
+msgstr "Requisitos de WordPress"
+
+#: classes/Tools_V2.php:476 views/pages/tools/status.php:216
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr "%1$s - Recomendamos una versión mínima de MySQL de 5.6. Ver: %2$s"
+
+#: views/pages/tools/status.php:209
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Versión de MySQL instalada en tu servidor de alojamiento."
+
+#: classes/Tools_V2.php:269 views/pages/tools/status.php:208
+msgid "MySQL version"
+msgstr "Versión de MySQL"
+
+#: views/pages/tools/status.php:194
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself. If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr "Suhosin es un sistema de protección avanzado para instalaciones PHP. Fue diseñado para proteger sus servidores, por un lado, contra una serie de problemas bien conocidos en aplicaciones PHP y, por otro lado, contra posibles vulnerabilidades desconocidas dentro de estas aplicaciones o el núcleo PHP en sí. Si está activado en tu servidor, es posible que Suhosin deba configurarse para aumentar sus límites de envío de datos."
+
+#: views/pages/tools/status.php:193
+msgid "SUHOSIN installed"
+msgstr "SUHOSIN instalado"
+
+#: views/pages/tools/status.php:189
+msgid "The version of cURL installed on your server."
+msgstr "La versión de cURL instalada en tu servidor."
+
+#: classes/Tools_V2.php:251 views/pages/tools/status.php:188
+msgid "cURL version"
+msgstr "Versión de cURL"
+
+#: views/pages/tools/status.php:184
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "El número máximo de variables que tu servidor puede usar para una sola función para evitar sobrecargas."
+
+#: views/pages/tools/status.php:183
+msgid "PHP max input vars"
+msgstr "Variables PHP max input"
+
+#: views/pages/tools/status.php:179
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr "La cantidad de tiempo (en segundos) que tu sitio invertirá en una operación individual antes de finalizar (para evitar búsquedas del servidor)"
+
+#: classes/Tools_V2.php:243 views/pages/tools/status.php:178
+msgid "PHP time limit"
+msgstr "Límite de tiempo de PHP"
+
+#: views/pages/tools/status.php:174
+msgid "The largest filesize that can be contained in one post."
+msgstr "El mayor tamaño de archivo que puede ser contenido en una sola entrada."
+
+#: classes/Tools_V2.php:235 views/pages/tools/status.php:173
+msgid "PHP post max size"
+msgstr "Tamaño máximo de la entrada PHP"
+
+#: classes/Tools_V2.php:461 views/pages/tools/status.php:162
+msgid "We recommend using PHP version 7.2 or above for greater performance and security."
+msgstr "Recomendamos usar PHP versión 7.2 o superior para un mayor rendimiento y seguridad."
+
+#: classes/Tools_V2.php:460 views/pages/tools/status.php:160
+msgid "Tutor will run under this version of PHP, however, it has reached end of life. We recommend using PHP version 7.2 or above for greater performance and security."
+msgstr "Tutor funcionará con esta versión de PHP, sin embargo, ya ha alcanzado el final de su vida. Recomendamos utilizar la versión 7.2 o superior de PHP para un mayor rendimiento y seguridad."
+
+#: views/pages/tools/status.php:151
+msgid "The version of PHP installed on your hosting server."
+msgstr "Versión de PHP instalada en tu servidor de alojamiento."
+
+#: classes/Tools_V2.php:227 views/pages/tools/status.php:150
+msgid "PHP version"
+msgstr "Versión de PHP"
+
+#: views/pages/tools/status.php:146
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Información sobre el servidor web que actualmente aloja tu sitio."
+
+#: classes/Tools_V2.php:219 views/pages/tools/status.php:145
+msgid "Server info"
+msgstr "Información del servidor"
+
+#: classes/Tools_V2.php:211 views/pages/tools/status.php:139
+msgid "Server environment"
+msgstr "Entorno del servidor"
+
+#: views/pages/tools/status.php:122
+msgid "Displays whether or not WordPress is using an external object cache."
+msgstr "Muestra si WordPress está utilizando o no un caché de objetos externo."
+
+#: classes/Tools_V2.php:202 views/pages/tools/status.php:121
+msgid "External object cache"
+msgstr "Caché de objeto externo"
+
+#: views/pages/tools/status.php:117
+msgid "The current language used by WordPress. Default = English"
+msgstr "El idioma actual utilizado por WordPress. Por defecto: inglés"
+
+#: classes/Tools_V2.php:158 classes/Tools_V2.php:259
+#: views/pages/tools/status.php:116
+msgid "Language"
+msgstr "Idioma"
+
+#: views/pages/tools/status.php:106
+msgid "Displays whether or not WP Cron Jobs are enabled."
+msgstr "Muestra si las tareas programadas de WP están activadas."
+
+#: views/pages/tools/status.php:105
+msgid "WordPress cron"
+msgstr "Programador de tareas de WordPress"
+
+#: views/pages/tools/status.php:95
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Muestra si WordPress está o no en modo de depuración."
+
+#: classes/Tools_V2.php:150 views/pages/tools/status.php:94
+msgid "WordPress debug mode"
+msgstr "Modo depuración de WordPress"
+
+#. Translators: %1$s: Memory limit, %2$s: Docs link.
+#: classes/Tools_V2.php:448 views/pages/tools/status.php:86
+msgid "Increasing memory allocated to PHP"
+msgstr "Aumentar la memoria asignada a PHP"
+
+#. Translators: %1$s: Memory limit, %2$s: Docs link.
+#: classes/Tools_V2.php:448 views/pages/tools/status.php:86
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "%1$s - Recomendamos ajustar la memoria, al menos, a 64 MB. Ver: %2$s"
+
+#: views/pages/tools/status.php:81
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "La cantidad máxima de memoria (RAM) que tu sitio puede usar al mismo tiempo."
+
+#: classes/Tools_V2.php:186 views/pages/tools/status.php:80
+msgid "WordPress memory limit"
+msgstr "Límite de memoria WordPress"
+
+#: views/pages/tools/status.php:76
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Si tienes activado o no WordPress multisitio."
+
+#: classes/Tools_V2.php:142 views/pages/tools/status.php:75
+msgid "WordPress multisite"
+msgstr "WordPress multisitio"
+
+#: views/pages/tools/status.php:70
+msgid "The version of tutor."
+msgstr "La versión de tutor."
+
+#: views/pages/tools/status.php:69
+msgid "Tutor Version"
+msgstr "Versión de Tutor"
+
+#. Translators: %1$s: Current version, %2$s: New version
+#: views/pages/tools/status.php:60
+msgid "%1$s - There is a newer version of WordPress available (%2$s)"
+msgstr "%1$s. Hay disponible una versión más reciente de WordPress (%2$s)"
+
+#: views/pages/tools/status.php:41
+msgid "The version of WordPress installed on your site."
+msgstr "La versión de WordPress instalada en tu sitio."
+
+#: classes/Tools_V2.php:134 views/pages/tools/status.php:40
+msgid "WordPress version"
+msgstr "Versión de WordPress"
+
+#: views/pages/tools/status.php:35
+msgid "The root URL of your site."
+msgstr "La URL raíz de tu sitio."
+
+#: classes/Tools_V2.php:168 views/pages/tools/status.php:34
+msgid "Site URL"
+msgstr "URL del sitio"
+
+#: views/pages/tools/status.php:29
+msgid "The homepage URL of your site."
+msgstr "La URL de la página de inicio de tu sitio."
+
+#: classes/Tools_V2.php:125 views/pages/tools/status.php:27
+msgid "Home URL"
+msgstr "URL de la página de inicio"
+
+#: classes/Tools_V2.php:116 views/pages/tools/status.php:22
+msgid "WordPress environment"
+msgstr "Entorno de WordPress"
+
+#: views/pages/tools/status.php:13
+msgid "Tutor Environment Status"
+msgstr "Estado del entorno de Tutor"
+
+#: templates/course-filter/filters.php:36 views/elements/filters.php:156
+msgid "Search"
+msgstr "Buscar"
+
+#: views/pages/addons.php:110
+msgid "Version:"
+msgstr "Versión:"
+
+#: views/modal/question_answer_list.php:103
+msgid "Add An Option"
+msgstr "Añadir una opción"
+
+#: views/modal/question_form.php:156
+msgid "Input options for the question and select the correct answer."
+msgstr "Introduce las opciones para la pregunta y selecciona la respuesta correcta."
+
+#: views/modal/question_form.php:137
+msgid "Display Points"
+msgstr "Mostrar los puntos"
+
+#: views/modal/question_form.php:132
+msgid "set the mark ex. 10"
+msgstr "establece la nota, por ejemplo, 10"
+
+#: views/modal/question_form.php:128
+msgid "Point(s) for this answer"
+msgstr "Punto(s) por esta respuesta"
+
+#: views/modal/question_form.php:117
+msgid "Randomize"
+msgstr "Aleatorio"
+
+#: views/modal/question_form.php:111
+msgid "Answer Required"
+msgstr "Respuesta obligatoria"
+
+#: views/modal/question_form.php:96
+msgid "Pro version required"
+msgstr "Se necesita la versión Pro"
+
+#: views/modal/question_form.php:32
+msgid "Write your question here"
+msgstr "Escribe tu pregunta aquí"
+
+#: views/modal/question_answer_form.php:127
+msgid "Separate multiple answers by a vertical bar <strong>|</strong>. 1 answer per <strong>{dash}</strong> variable is defined in the question. Example: Apple | Banana | Orange"
+msgstr "Separa múltiples respuestas con una barra vertical « <strong>|</strong> ». En la pregunta, se define 1 respuesta por cada variable « <strong>{dash}</strong> ». Ejemplo: Manzana | Plátano | Naranja"
+
+#: views/modal/question_answer_form.php:114
+msgid "Please make sure to use the <strong>{dash}</strong> variable in your question title to show the blanks in your question. You can use multiple <strong>{dash}</strong> variables in one question."
+msgstr "Por favor, asegúrate de usar la variable « <strong>{dash}</strong> » en el título de tu pregunta para mostrar los espacios en blanco en tu pregunta. Puedes usar múltiples variables « <strong>{dash}</strong> » en una sola pregunta."
+
+#: views/modal/question_answer_form.php:32
+msgid "Select the correct option"
+msgstr "Selecciona la opción correcta"
+
+#: views/metabox/course-topics.php:122
+msgid "Update Lesson"
+msgstr "Actualizar lección"
+
+#: views/modal/edit-lesson.php:65
+msgid "Feature Image"
+msgstr "Imagen destacada"
+
+#: views/modal/edit_quiz.php:270
+msgid "Student will place answer in short answer question type within this characters limit."
+msgstr "El estudiante colocará la respuesta en el tipo de pregunta de respuesta corta dentro de este límite de caracteres."
+
+#: views/modal/edit_quiz.php:262
+msgid "Short answer characters limit"
+msgstr "Límite de caracteres de la respuesta corta"
+
+#: views/modal/edit_quiz.php:256
+msgid "Show/hide question number during attempt."
+msgstr "Mostrar / ocultar el número de pregunta durante el intento."
+
+#: views/modal/edit_quiz.php:253
+msgid "Hide question number"
+msgstr "Ocultar número de preguntas"
+
+#: views/modal/edit_quiz.php:246
+msgid "Descending"
+msgstr "Descendente"
+
+#: views/modal/edit_quiz.php:245
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: views/modal/edit_quiz.php:244
+msgid "Sorting"
+msgstr "Orden"
+
+#: views/modal/edit_quiz.php:243
+msgid "Random"
+msgstr "Aleatorio"
+
+#: views/modal/edit_quiz.php:240
+msgid "Questions Order"
+msgstr "Orden de las preguntas"
+
+#: views/modal/edit_quiz.php:234
+msgid "Question below each other"
+msgstr "Una pregunta bajo la otra"
+
+#: views/modal/edit_quiz.php:233
+msgid "Question Pagination"
+msgstr "Paginación de las preguntas"
+
+#: views/modal/edit_quiz.php:232
+msgid "Single Question"
+msgstr "Una sola pregunta"
+
+#: views/modal/edit_quiz.php:231
+msgid "Set question layout view"
+msgstr "Establecer el diseño de la visualización de la pregunta"
+
+#: views/modal/edit_quiz.php:228
+msgid "Question Layout"
+msgstr "Diseño de las preguntas"
+
+#: views/modal/edit_quiz.php:222
+msgid "If you enable this option, the quiz will start automatically after the page is loaded."
+msgstr "Si activas esta opción, el cuestionario empezará automáticamente después de que la página cargue."
+
+#: views/modal/edit_quiz.php:219
+msgid "Quiz Auto Start"
+msgstr "Iniciar el cuestionario automáticamente"
+
+#: views/modal/edit_quiz.php:189
+msgid "This amount of question will be available for students to answer, and question will comes randomly from all available questions belongs with a quiz, if this amount is greater than available question, then all questions will be available for a student to answer."
+msgstr "Esta cantidad de preguntas estará disponible para que los estudiantes las respondan y las preguntas saldrán aleatoriamente de entre todas las preguntas disponibles que pertenezcan a un cuestionario. Si esta cantidad es mayor que las preguntas disponibles, entonces todas las preguntas estarán disponibles para que un estudiante las responda."
+
+#: views/modal/edit_quiz.php:185
+msgid "Max Question Allowed to Answer"
+msgstr "Número máximo de preguntas permitidas para responder"
+
+#: views/modal/edit_quiz.php:179
+msgid "Set the passing percentage for this quiz"
+msgstr "Establece el porcentaje para aprobar este cuestionario"
+
+#: views/modal/edit_quiz.php:175
+msgid "Passing Grade (%)"
+msgstr "Nota de aprobado (%)"
+
+#: views/modal/edit_quiz.php:167
+msgid "Restriction on the number of attempts a student is allowed to take for this quiz. 0 for no limit"
+msgstr "Restricción en el número de intentos que tiene un estudiante para tomar este test. 0 para no poner límites"
+
+#: views/modal/question_form.php:145
+msgid "Optional"
+msgstr "Opcional"
+
+#: views/modal/edit_quiz.php:114
+msgid "Time limit for this quiz. 0 means no time limit."
+msgstr "Límite de tiempo para este test. 0 significa que no hay tiempo límite."
+
+#: views/modal/edit_quiz.php:109
+msgid "Hide quiz time - display"
+msgstr "Ocultar el tiempo del cuestionario - mostrar"
+
+#: classes/Tutor_Setup.php:642 classes/Tutor_Setup.php:806
+#: classes/Tutor_Setup.php:826 templates/single/common/footer.php:40
+#: templates/single/next-previous-pagination.php:23
+msgid "Next"
+msgstr "Siguiente"
+
+#: templates/dashboard/assignments/review.php:42
+#: templates/dashboard/assignments/submitted.php:34
+#: templates/single/quiz/parts/question.php:184
+#: views/metabox/course-topics.php:87 views/modal/question_form.php:25
+#: views/qna/qna-single.php:56
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:20
+#: views/quiz/header-context/course-single-previous-attempts.php:17
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:14
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:15
+msgid "Back"
+msgstr "Atrás"
+
+#: views/modal/edit_quiz.php:82
+msgid "Add Question"
+msgstr "Añadir una pregunta"
+
+#: views/modal/edit_quiz.php:17
+msgid "Type your quiz title here"
+msgstr "Escribe aquí el título de tu cuestionario"
+
+#: views/metabox/course-topics.php:60 views/quiz/contexts.php:17
+msgid "Quiz Info"
+msgstr "Información del cuestionario"
+
+#: views/modal/question_answer_form.php:286
+msgid "Update Answer"
+msgstr "Actualizar respuesta"
+
+#: views/modal/question_answer_form.php:276
+msgid "The answers that students enter should match with this text. Write in <strong>small caps</strong>"
+msgstr "Las respuestas que los estudiantes introduzcan deben coincidir con este texto. Escribe en <strong>minúsculas</strong>"
+
+#: views/modal/question_answer_form.php:270
+msgid "Answer input value"
+msgstr "Valor de la entrada de la respuesta"
+
+#: views/modal/question_answer_form.php:240
+msgid "Image matched text"
+msgstr "Texto de imagen coincidente"
+
+#: views/modal/question_answer_form.php:145
+#: views/modal/question_answer_form.php:168
+msgid "Matched Answer title"
+msgstr "Título de respuesta coincidente"
+
+#: views/modal/question_answer_form.php:121
+msgid "Correct Answer(s)"
+msgstr "Respuesta(s) correcta(s)"
+
+#: views/modal/question_answer_form.php:98
+#: views/modal/question_answer_form.php:214
+msgid "Text &amp; Image both"
+msgstr "Tanto texto como imagen"
+
+#: views/modal/question_answer_form.php:92
+#: views/modal/question_answer_form.php:208
+msgid "Only Image"
+msgstr "Solo imagen"
+
+#: views/modal/question_answer_form.php:86
+#: views/modal/question_answer_form.php:202
+msgid "Only text"
+msgstr "Solo texto"
+
+#: views/modal/question_answer_form.php:80
+#: views/modal/question_answer_form.php:196
+msgid "Display format for options"
+msgstr "Mostrar el formato para las opciones"
+
+#: views/modal/question_answer_form.php:52
+#: views/modal/question_answer_form.php:136
+#: views/modal/question_answer_form.php:159
+msgid "Answer title"
+msgstr "Título de la respuesta"
+
+#: views/metabox/course/field-types/groups/select.php:15
+#: views/metabox/course/field-types/select.php:15
+#: views/options/field-types/radio.php:13
+#: views/options/field-types/select.php:22
+msgid "Select Option"
+msgstr "Seleccionar opciones"
+
+#: views/options/withdraw/withdraw_admin_options_generator.php:43
+msgid "Enable "
+msgstr "Activar "
+
+#: views/options/withdraw/withdraw_admin_options_generator.php:38
+msgid "Enable/Disable"
+msgstr "Activar/desactivar"
+
+#: views/options/options_generator.php:98
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: views/options/options_generator.php:14
+msgid "Tutor Settings"
+msgstr "Ajustes de tutor"
+
+#: views/pages/withdraw_requests.php:88
+msgid "Request By"
+msgstr "Solicitado por"
+
+#: classes/Options_V2.php:832
+msgid "Select a monetization option to generate revenue by selling courses. Supports: WooCommerce, Easy Digital Downloads, Paid Memberships Pro"
+msgstr "Selecciona una opción de monetización para generar ingresos vendiendo cursos. Es compatible con WooCommerce, Easy Digital Downloads, Paid Memberships Pro"
+
+#: classes/Options_V2.php:828
+msgid "Disable Monetization"
+msgstr "Desactivar la monetización"
+
+#: classes/Options_V2.php:809
+msgid "Monetization"
+msgstr "Monetización"
+
+#: classes/Options_V2.php:1431
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: classes/Options_V2.php:1422
+msgid "Primary Hover Color"
+msgstr "Color principal al pasar el cursor"
+
+#: classes/Options_V2.php:1413
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: classes/Options_V2.php:937
+msgid "Instructors should earn equal or above this amount to make a withdraw request."
+msgstr "Los instructores deben obtener la misma o mayor cantidad para hacer una solicitud de retirada."
+
+#: classes/Options_V2.php:935
+msgid "Minimum Withdrawal Amount"
+msgstr "Cantidad mínima de retirada"
+
+#: classes/Options_V2.php:879
+msgid "Define the number of statements to show."
+msgstr "Define el número de extractos a mostrar."
+
+#: classes/Options_V2.php:876
+msgid "Show Statement Per Page"
+msgstr "Mostrar extractos por página"
+
+#: classes/Options_V2.php:916
+msgid "Fixed"
+msgstr "Fijo"
+
+#: classes/Options_V2.php:915
+msgid "Percent"
+msgstr "Porcentaje"
+
+#: classes/Options_V2.php:894
+msgid "Fees are charged from the entire sales amount. The remaining amount will be divided among admin and instructors."
+msgstr "Las cuotas se cobran del importe total de las ventas. La cantidad restante se dividirá entre el administrador y los instructores."
+
+#: classes/Options_V2.php:1530
+msgid "Choose the page for student registration."
+msgstr "Elige la página para el registro de estudiantes."
+
+#: classes/Options_V2.php:1527 classes/Utils.php:6908
+msgid "Student Registration Page"
+msgstr "Pagina de registro de estudiante"
+
+#: classes/Options_V2.php:607
+msgid "Become an Instructor Button"
+msgstr "Botón para convertirse en instructor"
+
+#: classes/Options_V2.php:1519 classes/Utils.php:6907
+msgid "Instructor Registration Page"
+msgstr "Página de registro para instructores"
+
+#: classes/Options_V2.php:580
+msgid "Allow multiple instructors to upload their courses."
+msgstr "Permitir subir sus cursos a múltiples instructores."
+
+#: classes/Options_V2.php:779
+msgid "When multiple attempts are allowed, select which method should be used to calculate a student's final grade for the quiz."
+msgstr "Cuando se permiten varios intentos, selecciona qué método se debe usar para calcular la nota final del estudiante para el cuestionario."
+
+#: classes/Options_V2.php:785
+msgid "Last Attempt"
+msgstr "Último intento"
+
+#: classes/Options_V2.php:784
+msgid "First Attempt"
+msgstr "Primer intento"
+
+#: classes/Options_V2.php:783
+msgid "Average Grade"
+msgstr "Nota media"
+
+#: classes/Options_V2.php:782
+msgid "Highest Grade"
+msgstr "Nota más alta"
+
+#: classes/Options_V2.php:752
+msgid "Choose which action to follow when the quiz time expires."
+msgstr "Elige qué acción seguir cuando caduca el tiempo del cuestionario."
+
+#: classes/Options_V2.php:750
+msgid "Attempts must be submitted before time expires, otherwise they will not be counted"
+msgstr "Los intentos deben ser enviados antes de que el tiempo termine, de otro modo no serán contados"
+
+#: classes/Options_V2.php:748
+msgid "The current quiz answers are submitted automatically."
+msgstr "Las respuestas al cuestionario actual son enviadas automáticamente."
+
+#: classes/Options_V2.php:744
+msgid "When time expires"
+msgstr "Cuando el tiempo termine"
+
+#: includes/translate-text.php:144 templates/single/quiz/top.php:73
+#: views/modal/edit_quiz.php:99
+msgid "Seconds"
+msgstr "Segundos"
+
+#: includes/translate-text.php:138 templates/single/quiz/top.php:74
+#: views/modal/edit_quiz.php:100
+msgid "Minutes"
+msgstr "Minutos"
+
+#: includes/translate-text.php:132 templates/single/assignment/content.php:62
+#: templates/single/quiz/top.php:75 views/modal/edit_quiz.php:101
+msgid "Hours"
+msgstr "Horas"
+
+#: includes/translate-text.php:126 templates/single/assignment/content.php:62
+#: templates/single/quiz/top.php:76 views/modal/edit_quiz.php:102
+msgid "Days"
+msgstr "Días"
+
+#: templates/single/quiz/top.php:77 views/modal/edit_quiz.php:103
+msgid "Weeks"
+msgstr "Semanas"
+
+#: views/modal/edit_quiz.php:90
+msgid "Time Limit"
+msgstr "Límite de tiempo"
+
+#: classes/Options_V2.php:1543
+msgid "Lesson Permalink Base"
+msgstr "Base de los enlaces permanentes de la lección"
+
+#: classes/Options_V2.php:969
+msgid "Design Settings"
+msgstr "Ajustes del diseño"
+
+#: classes/Options_V2.php:1002 classes/Tutor_Setup.php:481
+msgid "Courses Per Page"
+msgstr "Cursos por página"
+
+#: classes/Options_V2.php:989
+msgid "Define how many columns you want to use to display courses."
+msgstr "Define cuántas columnas quieres usar para mostrar los cursos."
+
+#: classes/Options_V2.php:981
+msgid "Column Per Row"
+msgstr "Columnas por fila"
+
+#: classes/Options_V2.php:1514
+msgid "This page will be used to list all the published courses."
+msgstr "Esta página se usará para listar todos los cursos publicados."
+
+#: classes/Options_V2.php:1511
+msgid "Course Archive Page"
+msgstr "Página de archivo del curso"
+
+#: views/qna/qna-single.php:74 views/qna/qna-single.php:76
+#: views/qna/qna-table.php:132 views/qna/qna-table.php:135
+msgid "Archive"
+msgstr "Archivo"
+
+#: classes/Options_V2.php:1497
+msgid "Gutenberg Editor"
+msgstr "Editor Gutenberg"
+
+#: classes/Options_V2.php:585
+msgid "Pagination"
+msgstr "Paginación"
+
+#: classes/Options_V2.php:1458
+msgid "Video Player"
+msgstr "Reproductor de vídeo"
+
+#: classes/Options_V2.php:665
+msgid "This will hide the header and the footer and enable spotlight (full screen) mode when students view lessons."
+msgstr "Esto ocultará la cabecera y el pie de página y activará el modo de centro de atención (pantalla completa) cuando los estudiantes vean las lecciones."
+
+#: classes/Options_V2.php:662
+msgid "Spotlight mode"
+msgstr "Modo de enfoque"
+
+#: classes/Options_V2.php:1583
+msgid "Delete all data during uninstallation"
+msgstr "Eliminar todos los datos durante la desinstalación"
+
+#: classes/Options_V2.php:1580
+msgid "Erase upon uninstallation"
+msgstr "Borrar al desinstalar"
+
+#: classes/Options_V2.php:634
+msgid "Students must be logged in to view course"
+msgstr "Los estudiantes deben estar conectados para ver el curso"
+
+#: classes/Options_V2.php:631
+msgid "Course Visibility"
+msgstr "Visibilidad del curso"
+
+#: classes/Options_V2.php:550
+msgid "This page will be used for student and instructor dashboard"
+msgstr "Esta página se usará para el escritorio de los instructores y estudiantes"
+
+#: classes/Options_V2.php:547 classes/Utils.php:6906
+msgid "Dashboard Page"
+msgstr "Página del escritorio"
+
+#: classes/Tutor_Setup.php:385
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+#: classes/Withdraw.php:244
+msgid "Minimum withdrawal amount is %1$s %2$s %3$s "
+msgstr "La cantidad mínima de retirada es %1$s %2$s %3$s "
+
+#: classes/Withdraw.php:239
+msgid "Please save withdraw method "
+msgstr "Por favor, guarda el método de retirada "
+
+#: classes/Withdraw.php:107
+msgid "PayPal E-Mail Address"
+msgstr "Dirección de correo electrónico de PayPal"
+
+#: classes/Withdraw.php:96
+msgid "We will send you an E-Check to this address directly."
+msgstr "Te enviaremos un cheque electrónico directamente a esta dirección."
+
+#: classes/Withdraw.php:95
+msgid "Your Physical Address"
+msgstr "Tu dirección física"
+
+#: classes/Withdraw.php:90
+msgid "E-Check"
+msgstr "Cheque electrónico"
+
+#: classes/Withdraw.php:83
+msgid "BIC / SWIFT"
+msgstr "BIC / SWIFT"
+
+#: classes/Withdraw.php:79
+msgid "IBAN"
+msgstr "IBAN"
+
+#: classes/Withdraw.php:75
+msgid "Bank Name"
+msgstr "Nombre del banco"
+
+#: classes/Withdraw.php:71
+msgid "Account Number"
+msgstr "Número de cuenta"
+
+#: classes/Withdraw.php:67
+msgid "Account Name"
+msgstr "Nombre de la cuenta"
+
+#: classes/Withdraw.php:62
+msgid "Get your payment directly into your bank account"
+msgstr "Obtén tu pago directamente en tu cuenta bancaria"
+
+#: classes/Withdraw.php:60
+msgid "Bank Transfer"
+msgstr "Transferencia bancaria"
+
+#: classes/Post_types.php:466
+msgid "Preview course"
+msgstr "Vista previa del curso"
+
+#: classes/Post_types.php:460
+msgid "View course"
+msgstr "Ver curso"
+
+#: classes/Post_types.php:454
+msgid "Course draft updated."
+msgstr "Borrador del curso actualizado."
+
+#: classes/Post_types.php:439
+msgid "M j, Y @ G:i"
+msgstr "j F Y G:i a"
+
+#: classes/Post_types.php:452
+msgid "Course submitted."
+msgstr "Curso enviado."
+
+#: classes/Post_types.php:451
+msgid "Course saved."
+msgstr "Curso guardado."
+
+#: classes/Post_types.php:450
+msgid "Course published."
+msgstr "Curso publicado."
+
+#: classes/Post_types.php:432
+msgid "Course restored to revision from "
+msgstr "Curso restaurado a la revisión desde "
+
+#: classes/Post_types.php:447
+msgid "Custom field deleted."
+msgstr "Campo personalizado borrado."
+
+#: classes/Post_types.php:446
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: classes/Post_types.php:445 classes/Post_types.php:448
+msgid "Course updated."
+msgstr "Curso actualizado."
+
+#: classes/Post_types.php:380
+msgid "No Assignments found in Trash."
+msgstr "No se ha encontrado ninguna tarea en la papelera."
+
+#: classes/Post_types.php:379
+msgid "No Assignments found."
+msgstr "Ninguna tarea encontrada."
+
+#: classes/Post_types.php:378
+msgid "Parent Assignments:"
+msgstr "Tareas principales:"
+
+#: classes/Post_types.php:377
+msgid "Search Assignments"
+msgstr "Buscar tareas"
+
+#: classes/Post_types.php:376
+msgid "Assignments"
+msgstr "Tareas"
+
+#: classes/Post_types.php:375
+msgid "View Assignment"
+msgstr "Ver tarea"
+
+#: classes/Post_types.php:374
+msgid "Edit Assignment"
+msgstr "Editar asignación"
+
+#: classes/Post_types.php:373
+msgid "New Assignment"
+msgstr "Nueva tarea"
+
+#: classes/Post_types.php:372
+msgid "Add New Assignment"
+msgstr "Añadir una nueva tarea"
+
+#: classes/Post_types.php:370
+msgctxt "add new on admin bar"
+msgid "Assignment"
+msgstr "Tarea"
+
+#: classes/Post_types.php:369
+msgctxt "admin menu"
+msgid "Assignments"
+msgstr "Tareas"
+
+#: classes/Post_types.php:368
+msgctxt "post type singular name"
+msgid "Assignment"
+msgstr "Tarea"
+
+#: classes/Post_types.php:367
+msgctxt "post type general name"
+msgid "Assignments"
+msgstr "Tareas"
+
+#: classes/Post_types.php:301
+msgid "No quizzes found in Trash."
+msgstr "No hay cuestionarios en la papelera."
+
+#: classes/Post_types.php:300
+msgid "No quizzes found."
+msgstr "No se han encontrado cuestionarios."
+
+#: classes/Post_types.php:299
+msgid "Parent Quizzes:"
+msgstr "Cuestionarios padre:"
+
+#: classes/Post_types.php:298
+msgid "Search Quizzes"
+msgstr "Buscar cuestionarios"
+
+#: classes/Post_types.php:297
+msgid "Quizzes"
+msgstr "Cuestionarios"
+
+#: classes/Post_types.php:296
+msgid "View Quiz"
+msgstr "Ver cuestionario"
+
+#: classes/Post_types.php:295
+msgid "Edit Quiz"
+msgstr "Editar cuestionario"
+
+#: classes/Post_types.php:294
+msgid "New Quiz"
+msgstr "Nuevo cuestionario"
+
+#: classes/Post_types.php:293
+msgid "Add New Quiz"
+msgstr "Añadir un nuevo cuestionario"
+
+#: classes/Post_types.php:291
+msgctxt "add new on admin bar"
+msgid "Quiz"
+msgstr "Cuestionario"
+
+#: classes/Post_types.php:290
+msgctxt "admin menu"
+msgid "Quizzes"
+msgstr "Cuestionarios"
+
+#: classes/Post_types.php:289
+msgctxt "post type singular name"
+msgid "Quiz"
+msgstr "Cuestionario"
+
+#: classes/Post_types.php:288
+msgctxt "post type general name"
+msgid "Quizzes"
+msgstr "Cuestionarios"
+
+#: classes/Post_types.php:235
+msgid "No lessons found in Trash."
+msgstr "No hay cursos en la papelera."
+
+#: classes/Post_types.php:234
+msgid "No lessons found."
+msgstr "No se han encontrado lecciones."
+
+#: classes/Post_types.php:233
+msgid "Parent Lessons:"
+msgstr "Lecciones padre:"
+
+#: classes/Post_types.php:232
+msgid "Search Lessons"
+msgstr "Buscar lecciones"
+
+#: classes/Post_types.php:230
+msgid "View Lesson"
+msgstr "Ver lección"
+
+#: classes/Post_types.php:229
+msgid "Edit Lesson"
+msgstr "Editar lección"
+
+#: classes/Post_types.php:228
+msgid "New Lesson"
+msgstr "Nueva lección"
+
+#: classes/Post_types.php:227
+msgid "Add New Lesson"
+msgstr "Añadir nueva lección"
+
+#: classes/Post_types.php:225
+msgctxt "add new on admin bar"
+msgid "Lesson"
+msgstr "Lección"
+
+#: classes/Post_types.php:224
+msgctxt "admin menu"
+msgid "Lessons"
+msgstr "Lecciones"
+
+#: classes/Post_types.php:223
+msgctxt "post type singular name"
+msgid "Lesson"
+msgstr "Lección"
+
+#: classes/Post_types.php:222
+msgctxt "post type general name"
+msgid "Lessons"
+msgstr "Lecciones"
+
+#: classes/Post_types.php:192
+msgid "No Tags found."
+msgstr "No se han encontrado etiquetas."
+
+#: classes/Post_types.php:191
+msgid "Choose from the most used Tags"
+msgstr "Elige entre las etiquetas más utilizadas"
+
+#: classes/Post_types.php:190
+msgid "Add or remove Tags"
+msgstr "Añadir o eliminar etiquetas"
+
+#: classes/Post_types.php:189
+msgid "Separate Tags with commas"
+msgstr "Separa las etiquetas con comas"
+
+#: classes/Post_types.php:188
+msgid "New Tag Name"
+msgstr "Nuevo nombre de Etiqueta"
+
+#: classes/Post_types.php:187
+msgid "Add New Tag"
+msgstr "Añadir una nueva Etiqueta"
+
+#: classes/Post_types.php:186
+msgid "Update Tag"
+msgstr "Actualizar la etiqueta"
+
+#: classes/Post_types.php:185
+msgid "Edit Tag"
+msgstr "Editar la etiqueta"
+
+#: classes/Post_types.php:182
+msgid "All Tags"
+msgstr "Todas las Etiquetas"
+
+#: classes/Post_types.php:181
+msgid "Popular Tags"
+msgstr "Etiquetas populares"
+
+#: classes/Post_types.php:180
+msgid "Search Tags"
+msgstr "Buscar etiquetas"
+
+#: classes/Post_types.php:179
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: classes/Post_types.php:178
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: classes/Post_types.php:161
+msgid "Course Categories"
+msgstr "Categorías de cursos"
+
+#: classes/Post_types.php:160
+msgid "No categories found."
+msgstr "No se han encontrado categorías."
+
+#: classes/Post_types.php:159
+msgid "Choose from the most used categories"
+msgstr "Elige entre las categorías más utilizadas"
+
+#: classes/Post_types.php:158
+msgid "Add or remove categories"
+msgstr "Añadir o eliminar categorías"
+
+#: classes/Post_types.php:157
+msgid "Separate categories with commas"
+msgstr "Separa categorías con comas"
+
+#: classes/Post_types.php:156
+msgid "New Category Name"
+msgstr "Nuevo nombre de la categoría"
+
+#: classes/Post_types.php:155
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: classes/Post_types.php:154
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+#: classes/Post_types.php:153
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: classes/Post_types.php:150
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: classes/Post_types.php:149
+msgid "Popular Categories"
+msgstr "Categorías populares"
+
+#: classes/Post_types.php:148
+msgid "Search Categories"
+msgstr "Buscar categorías"
+
+#: classes/Post_types.php:147
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoría"
+
+#: classes/Post_types.php:146
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr "Categorías de cursos"
+
+#: classes/Post_types.php:108 classes/Post_types.php:240
+#: classes/Post_types.php:306 classes/Post_types.php:346
+#: classes/Post_types.php:385 classes/Post_types.php:500
+msgid "Description."
+msgstr "Descripción."
+
+#: classes/Post_types.php:103
+msgid "No courses found in Trash."
+msgstr "No hay cursos en la papelera."
+
+#: classes/Post_types.php:102
+msgid "No courses found."
+msgstr "No se encontraron cursos."
+
+#: classes/Post_types.php:101
+msgid "Parent Courses:"
+msgstr "Cursos padre:"
+
+#: classes/Post_types.php:100
+msgid "Search Courses"
+msgstr "Buscar cursos"
+
+#: classes/Post_types.php:97
+msgid "Edit Course"
+msgstr "Editar curso"
+
+#: classes/Dashboard.php:80 classes/Post_types.php:96
+msgid "New Course"
+msgstr "Nuevo curso"
+
+#: classes/Post_types.php:95
+msgid "Add New Course"
+msgstr "Añadir nuevo curso"
+
+#: views/pages/course-list.php:50 views/pages/instructors.php:71
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: classes/Post_types.php:93
+msgctxt "add new on admin bar"
+msgid "Course"
+msgstr "Curso"
+
+#: classes/Post_types.php:92
+msgctxt "admin menu"
+msgid "Courses"
+msgstr "Cursos"
+
+#: classes/Post_types.php:91
+msgctxt "post type singular name"
+msgid "Course"
+msgstr "Curso"
+
+#: classes/Post_types.php:90
+msgctxt "post type general name"
+msgid "Courses"
+msgstr "Cursos"
+
+#: classes/Course.php:1105 classes/Course_Settings_Tabs.php:92
+#: classes/Options_V2.php:1149 classes/Options_V2.php:1157
+#: classes/Options_V2.php:1165 classes/Options_V2.php:1181
+#: classes/Options_V2.php:1189 classes/Options_V2.php:1197
+#: classes/Options_V2.php:1205 classes/Options_V2.php:1213
+#: classes/Options_V2.php:1221 classes/Options_V2.php:1229
+#: classes/Options_V2.php:1237 classes/Options_V2.php:1253
+#: classes/Options_V2.php:1261 classes/User.php:268
+msgid "Enable"
+msgstr "Activar"
+
+#: classes/Course_Settings_Tabs.php:91
+msgid "Maximum Students"
+msgstr "Estudiantes máximos"
+
+#: classes/Course_Settings_Tabs.php:85 classes/Options_V2.php:535
+#: classes/Tutor_Setup.php:429
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: classes/Course_Settings_Tabs.php:72 classes/Course_Settings_Tabs.php:165
+#: classes/Options_V2.php:619 classes/Tutor_Setup.php:462
+#: views/metabox/course/settings-tabs.php:25
+msgid "Course Settings"
+msgstr "Ajustes del curso"
+
+#: classes/TutorEDD.php:94
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: classes/TutorEDD.php:73
+msgid "This will enable sell your product via EDD"
+msgstr "Esto activará el vender tus productos a través de EDD"
+
+#: classes/TutorEDD.php:72
+msgid "Enable EDD"
+msgstr "Activar EDD"
+
+#: classes/TutorEDD.php:68
+msgid "Tutor Course Attachments Settings"
+msgstr "Ajustes de los adjuntos del curso de Tutor"
+
+#: classes/TutorEDD.php:63
+msgid "EDD"
+msgstr "EDD"
+
+#: classes/Instructor.php:305
+msgid "Instructor has been added successfully"
+msgstr "El instructor ha sido añadido satisfactoriamente"
+
+#: classes/Instructor.php:247
+msgid "Phone Number field is required"
+msgstr "El campo del número de teléfono es obligatorio"
+
+#: classes/Instructor.php:210
+msgid "Already applied for instructor"
+msgstr "Ya has aplicado para instructor"
+
+#. translators: %s: plugin name
+#: classes/Admin.php:594
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "Si te gusta %1$s, por favor, déjanos una valoración de %2$s. Por adelantado, ¡muchas gracias!"
+
+#: classes/Admin.php:570
+msgid "<strong style=\"color: #03bd24\">Get Support</strong>"
+msgstr "<strong style=\"color: #03bd24\">Obtener soporte</strong>"
+
+#: classes/Admin.php:565
+msgid "<strong style=\"color: #03bd24\">Documentation</strong>"
+msgstr "<strong style=\"color: #03bd24\">Documentación</strong>"
+
+#: classes/Admin.php:539
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: classes/Admin.php:131
+msgid "<span class=\"dashicons dashicons-awards tutor-get-pro-text\"></span> Get Pro"
+msgstr "<span class=\"dashicons dashicons-awards tutor-get-pro-text\"></span> Consigue la versión Pro"
+
+#: classes/Admin.php:131
+msgid "Get Pro"
+msgstr "Obtener Pro"
+
+#: classes/Admin.php:122 views/pages/tutor-pro-addons.php:55
+msgid "Add-ons"
+msgstr "Extensiones"
+
+#: classes/Admin.php:119
+msgid "Withdraw Requests"
+msgstr "Solicitudes de retirada"
+
+#: classes/Admin.php:114
+msgid "Q & A "
+msgstr "Preguntas y respuestas "
+
+#: classes/Admin.php:114
+msgid "Q & A"
+msgstr "Preguntas y respuestas"
+
+#: classes/Admin.php:74
+msgid "Pro"
+msgstr "Pro"
+
+#: classes/Utils.php:6869
+msgid "Not Taken"
+msgstr "No realizado"
+
+#: classes/Utils.php:6867
+msgid "In Progress"
+msgstr "En progreso"
+
+#: classes/Utils.php:6863 includes/translate-text.php:69
+#: templates/dashboard/purchase_history.php:119
+msgid "Completed"
+msgstr "Completado"
+
+#: classes/Utils.php:5108
+msgid "Expert"
+msgstr "Experto"
+
+#: classes/Utils.php:5107
+msgid "Intermediate"
+msgstr "Intermedio"
+
+#: classes/Utils.php:5106
+msgid "Beginner"
+msgstr "Principiante"
+
+#: classes/Utils.php:5105
+msgid "All Levels"
+msgstr "Todos los niveles"
+
+#: classes/Utils.php:4709
+msgid "Ordering"
+msgstr "Ordenar"
+
+#: classes/Utils.php:4704
+msgid "Image Answering"
+msgstr "Contestar imágenes"
+
+#: classes/Utils.php:4699
+msgid "Image Matching"
+msgstr "Emparejar imágenes"
+
+#: classes/Utils.php:4694
+msgid "Matching"
+msgstr "Emparejar"
+
+#: classes/Utils.php:4689
+msgid "Short Answer"
+msgstr "Respuesta corta"
+
+#: classes/Utils.php:4684
+msgid "Fill In The Blanks"
+msgstr "Rellena los espacios en blanco"
+
+#: classes/Utils.php:4674
+msgid "Multiple Choice"
+msgstr "Opción múltiple"
+
+#: classes/Utils.php:4669
+msgid "Single Choice"
+msgstr "Opción única"
+
+#: classes/Utils.php:4664
+msgid "True/False"
+msgstr "Verdadero/Falso"
+
+#: classes/Utils.php:2824 includes/translate-text.php:85
+#: views/pages/instructors.php:98
+msgid "Blocked"
+msgstr "Bloqueado"
+
+#: classes/Utils.php:2823 classes/Withdraw_Requests_List.php:79
+#: includes/translate-text.php:61 views/pages/instructors.php:97
+msgid "Approved"
+msgstr "Aprobado"
+
+#: classes/Backend_Page_Trait.php:104 classes/Course_List.php:148
+#: classes/Instructors_List.php:104 classes/Quiz_Attempts_List.php:220
+#: classes/Utils.php:2822 classes/Withdraw_Requests_List.php:85
+#: includes/translate-text.php:41 templates/dashboard/dashboard.php:153
+#: templates/dashboard/my-courses.php:60
+#: templates/dashboard/purchase_history.php:139
+#: templates/single/assignment/content.php:461
+#: templates/single/course/reviews-loop.php:41 views/pages/course-list.php:131
+#: views/pages/instructors.php:96 views/quiz/attempt-details.php:306
+#: views/quiz/attempt-details.php:707 views/quiz/attempt-table.php:155
+msgid "Pending"
+msgstr "Pendiente"
+
+#: classes/Utils.php:2691
+msgid "Logout"
+msgstr "Salir"
+
+#: classes/Admin.php:116 classes/Quiz_Attempts_List.php:59
+#: classes/Utils.php:8637 templates/dashboard.php:54
+#: templates/dashboard/quiz-attempts.php:31
+msgid "Quiz Attempts"
+msgstr "Intentos del cuestionario"
+
+#: classes/Utils.php:8357 classes/Utils.php:8671
+#: templates/dashboard/reviews.php:28
+#: templates/dashboard/reviews/given-reviews.php:27
+msgid "Reviews"
+msgstr "Reseñas"
+
+#: classes/Utils.php:8617
+msgid "Create Course"
+msgstr "Crear curso"
+
+#: classes/Utils.php:2332 templates/public-profile.php:147
+msgid "Course Enrolled"
+msgstr "Inscritos en el curso"
+
+#: classes/Course_Settings_Tabs.php:125 classes/Options_V2.php:1141
+#: classes/Utils.php:8361 templates/dashboard.php:54
+msgid "Q&A"
+msgstr "P y R"
+
+#: templates/single/lesson/content.php:105
+msgid "Overview"
+msgstr "Resumen"
+
+#: classes/Quiz.php:1242 views/modal/question_answer_form.php:41
+msgid "False"
+msgstr "Falso"
+
+#: classes/Quiz.php:1235 views/modal/question_answer_form.php:37
+msgid "True"
+msgstr "Verdadero"
+
+#: classes/Quiz.php:687
+msgid "Quiz has been timeout already"
+msgstr "El tiempo del cuestionario se ha acabado"
+
+#: views/pages/instructors.php:165
+msgid "Total Course"
+msgstr "Total de cursos"
+
+#: views/pages/instructors.php:112
+msgid "Name"
+msgstr "Nombre"
+
+#: classes/Tutor.php:952
+msgid "Instructor Registration"
+msgstr "Página de registro para instructores"
+
+#: classes/Tutor.php:943
+msgid "Student Registration"
+msgstr "Registro de Estudiante"
+
+#: classes/Addons.php:98
+msgid "Tutor Report"
+msgstr "Informe en Tutor"
+
+#: classes/Addons.php:94
+msgid "Tutor Prerequisites"
+msgstr "Requisitos previos de Tutor"
+
+#: classes/Addons.php:90
+msgid "Tutor Multi Instructors"
+msgstr "Instructores múltiples de Tutor"
+
+#: classes/Addons.php:86
+msgid "Tutor E-Mail"
+msgstr "Correo electrónico en Tutor"
+
+#: classes/Addons.php:82
+msgid "Tutor Course Preview"
+msgstr "Vista previa del curso de Tutor"
+
+#: classes/Addons.php:78
+msgid "Tutor Course Attachments"
+msgstr "Adjuntos del curso en Tutor"
+
+#: classes/Addons.php:74
+msgid "Tutor Certificate"
+msgstr "Certificado de Tutor"
+
+#: classes/Addons.php:70
+msgid "Tutor Assignments"
+msgstr "Tareas del tutor"
+
+#: classes/Addons.php:62
+msgid "Paid Memberships Pro"
+msgstr "Suscripción de pago Pro"
+
+#: classes/Addons.php:58
+msgid "WooCommerce Subscriptions"
+msgstr "Subscripciones de WooCommerce"
+
+#: classes/Addons.php:54
+msgid "Enrollment"
+msgstr "Inscripción"
+
+#: classes/Addons.php:50
+msgid "Content Drip"
+msgstr "Resumen del contenido"
+
+#: classes/Addons.php:46
+msgid "Gradebook"
+msgstr "Libro de notas"
+
+#: classes/Course.php:779
+msgid "Please Sign In first"
+msgstr "Por favor, accede primero"
+
+#: classes/Course.php:658 classes/Post_types.php:231
+msgid "Lessons"
+msgstr "Lecciones"
+
+#: classes/Admin.php:112 classes/Announcements.php:50
+#: classes/Options_V2.php:1252 classes/Utils.php:8366 classes/Utils.php:8627
+#: views/fragments/announcement-list.php:253
+msgid "Announcements"
+msgstr "Anuncios"
+
+#: classes/Admin.php:109
+msgid "Instructors"
+msgstr "Instructores"
+
+#: classes/Course.php:316 classes/Course.php:399 classes/Options_V2.php:791
+msgid "Video"
+msgstr "Vídeo"
+
+#: classes/Course.php:314 classes/Course.php:405
+msgid "Additional Data"
+msgstr "Datos adicionales"
+
+#: classes/Course.php:312 classes/Course.php:402
+msgid "Course Builder"
+msgstr "Maquetador de cursos"
+
+#: classes/Taxonomies.php:236
+msgid "Image"
+msgstr "Imagen"
+
+#: classes/Taxonomies.php:79 classes/Taxonomies.php:166
+msgid "Use image"
+msgstr "Usar la imagen"
+
+#: classes/Taxonomies.php:77 classes/Taxonomies.php:164
+msgid "Choose an image"
+msgstr "Elegir una imagen"
+
+#: classes/Taxonomies.php:53 classes/Taxonomies.php:140
+msgid "Remove image"
+msgstr "Eliminar la imagen"
+
+#: classes/Taxonomies.php:52 classes/Taxonomies.php:139
+msgid "Upload/Add image"
+msgstr "Subir/añadir una imagen"
+
+#: classes/Taxonomies.php:48 classes/Taxonomies.php:132
+#: classes/Taxonomies.php:265
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: classes/Student.php:306
+msgid "New password and confirm password does not matched"
+msgstr "La nueva contraseña y confirmación de la contraseña no coinciden"
+
+#: classes/Student.php:303
+msgid "Confirm Password Required"
+msgstr "La confirmación de la contraseña es obligatoria"
+
+#: classes/Student.php:300
+msgid "New Password Required"
+msgstr "La nueva contraseña es obligatoria"
+
+#: classes/Student.php:297
+msgid "Incorrect Previous Password"
+msgstr "Contraseña anterior incorrecta"
+
+#: classes/Instructor.php:116 classes/Instructor.php:261 classes/Student.php:90
+msgid "Valid E-Mail is required"
+msgstr "Es obligatorio un correo electrónico válido"
+
+#: classes/Instructor.php:94 classes/Student.php:70
+msgid "Password Confirmation field is required"
+msgstr "El campo de confirmación de contraseña es obligatorio"
+
+#: classes/Instructor.php:93 classes/Instructor.php:248 classes/Student.php:69
+msgid "Password field is required"
+msgstr "El campo de contraseña es obligatorio"
+
+#: classes/Instructor.php:92 classes/Instructor.php:246 classes/Student.php:68
+msgid "User Name field is required"
+msgstr "El campo de nombre de usuario es obligatorio"
+
+#: classes/Instructor.php:91 classes/Instructor.php:245 classes/Student.php:67
+msgid "E-Mail field is required"
+msgstr "El correo electrónico es obligatorio"
+
+#: classes/Instructor.php:90 classes/Instructor.php:244 classes/Student.php:66
+msgid "Last name field is required"
+msgstr "El campo apellidos es obligatorio"
+
+#: classes/Instructor.php:89 classes/Instructor.php:243 classes/Student.php:65
+msgid "First name field is required"
+msgstr "El campo de nombre es obligatorio"
+
+#: templates/dashboard/question-answer/answers.php:20
+#: views/modal/question_answer_list.php:36 views/pages/answer.php:18
+msgid "Answer"
+msgstr "Respuesta"
+
+#: classes/Course_Settings_Tabs.php:84 classes/Options_V2.php:533
+#: classes/TutorEDD.php:67 classes/Tutor_Setup.php:551
+msgid "General"
+msgstr "General"
+
+#: classes/WooCommerce.php:449
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/TutorEDD.php:107 classes/WooCommerce.php:297
+msgid "Add Product"
+msgstr "Añadir un producto"
+
+#: classes/WooCommerce.php:268
+msgid "This checkmark ensure that you will sell a specif course via this product."
+msgstr "Esta marca de verificación asegura que venderá un curso específico a través de este producto."
+
+#: classes/WooCommerce.php:267
+msgid "For Tutor"
+msgstr "Para Tutor"
+
+#: classes/Admin.php:373 templates/permission-denied.php:25
+#: templates/single/lesson/required-enroll.php:15
+msgid "Permission Denied"
+msgstr "Permiso denegado"
+
+#: classes/Instructor.php:218 classes/Template.php:253
+msgid "Permission denied"
+msgstr "Permiso denegado"
+
+#: classes/Ajax.php:328
+msgid "Course added to wish list"
+msgstr "Curso añadido a la lista de deseos"
+
+#: classes/Ajax.php:320
+msgid "Course removed from wish list"
+msgstr "Curso eliminado de la lista de deseos"
+
+#: classes/Course_Widget.php:213
+msgid "Total results you like to show"
+msgstr "Resultados totales que te gustaría mostrar"
+
+#: classes/Course_Widget.php:210
+msgid "Count:"
+msgstr "Recuento:"
+
+#: classes/Course_Widget.php:200
+msgid "Order"
+msgstr "Orden"
+
+#: classes/Course_Widget.php:185
+msgid "OrderBy"
+msgstr "Ordenar por"
+
+#: classes/Course_Widget.php:179
+msgid "Place comma (,) separated category ids"
+msgstr "Colocar coma ( , ) para separar los IDs de categoría"
+
+#: classes/Course_Widget.php:169
+msgid "Place comma (,) separated courses ids which you like to exclude from the query"
+msgstr "Colocar coma ( , ) para separar los IDs de los cursos que quieres excluir de la consulta"
+
+#: classes/Course_Widget.php:166
+msgid "Exclude IDS:"
+msgstr "Excluir IDs:"
+
+#: classes/Course_Widget.php:161
+msgid "Place single course id or comma (,) separated course ids"
+msgstr "Colocar el ID del curso o los IDs de los cursos separados por coma (,)"
+
+#: classes/Course_Widget.php:140
+msgid "New title"
+msgstr "Nuevo título"
+
+#: classes/Course_Widget.php:34
+msgid "Display courses wherever widget support is available."
+msgstr "Muestra los cursos en cualquier lugar en el que estén disponibles widgets compatibles."
+
+#: classes/Course_Widget.php:33
+msgid "Tutor Course"
+msgstr "Curso de Tutor"
+
+#: views/elements/filters.php:35 views/elements/search-filter.php:28
+#: views/elements/search-filter.php:48
+#: views/options/template/import_export.php:95
+msgid "Apply"
+msgstr "Aplicar"
+
+#: classes/Course.php:830 classes/Lesson.php:454
+msgid "Please Sign-In"
+msgstr "Por favor, inicie sesión"
+
+#: classes/Lesson.php:233
+msgid "Draft Lesson"
+msgstr "Borrador de la lección"
+
+#: classes/Lesson.php:122
+msgid "Lesson Video"
+msgstr "Video lección"
+
+#: classes/Lesson.php:120 templates/dashboard/announcements/create.php:31
+#: templates/dashboard/announcements/update.php:32
+#: views/fragments/announcement-list.php:54 views/metabox/lesson-metabox.php:15
+msgid "Select Course"
+msgstr "Seleccionar un curso"
+
+#: includes/tutor-general-functions.php:117
+msgid "Select a category"
+msgstr "Seleccionar una categoría"
+
+#: includes/tutor-general-functions.php:116
+msgid "Search Course Category. ex. Design, Development, Business"
+msgstr "Buscar categoría del curso. Ej.: Diseño, Desarrollo, Negocios"
+
+#: templates/single/lesson/sidebar_question_and_answer.php:45
+msgid "No questions yet"
+msgstr "No hay preguntas aún"
+
+#: classes/Post_types.php:98 templates/single/lesson/required-enroll.php:20
+#: views/pages/course-list.php:330
+msgid "View Course"
+msgstr "Ver curso"
+
+#: templates/single/lesson/required-enroll.php:17
+msgid "Course name : %s"
+msgstr "Nombre del curso : %s"
+
+#: views/metabox/course-additional-data.php:37
+msgid "What Will I Learn?"
+msgstr "¿Qué aprenderé?"
+
+#: templates/single/course/add-to-cart-woocommerce.php:58
+msgid "Please make sure that your product exists and valid for this course"
+msgstr "Por favor, asegúrate de que tu producto existe y es válido para este curso"
+
+#: templates/single/course/reviews.php:181
+msgid "Submit Review"
+msgstr "Enviar una reseña"
+
+#: templates/single/course/reviews.php:133
+msgid "Write a review"
+msgstr "Escribir una reseña"
+
+#: templates/single/course/reviews.php:133
+msgid "Edit review"
+msgstr "Editar una reseña"
+
+#: templates/single/course/continue-lesson.php:40
+msgid "Continue to lesson"
+msgstr "Continuar con la lección"
+
+#: templates/single/course/material-includes.php:24
+msgid "Material Includes"
+msgstr "Materiales incluidos"
+
+#: templates/single/course/q_and_a_turned_off.php:17
+msgid "This feature has been disabled by the administrator"
+msgstr "Esta acción ha sido desactivada por el administrador"
+
+#: templates/single/course/add-to-cart-edd.php:20
+msgid "Please make sure that your EDD product exists and valid for this course"
+msgstr "Por favor, asegúrate de que tu producto de EDD existe y es válido para este curso"
+
+#: classes/Options_V2.php:1236
+#: templates/single/course/course-requirements.php:25
+msgid "Requirements"
+msgstr "Requisitos"
+
+#: views/metabox/course-additional-data.php:80
+msgid "Course Tag"
+msgstr "Etiqueta del curso"
+
+#: templates/single/quiz/parts/image-answer.php:36
+msgid "Write your answer here"
+msgstr "Escribe tu respuesta aquí"
+
+#: views/modal/question_answer_form.php:108
+msgid "Question Title"
+msgstr "Título de la pregunta"
+
+#: views/qna/qna-new.php:43
+msgid "Ask a New Question"
+msgstr "Haz una nueva pregunta"
+
+#: templates/single/course/course-content.php:30
+msgid "About Course"
+msgstr "Acerca de este curso"
+
+#: views/options/template/import_export.php:36
+msgid "Last Update"
+msgstr "Última actualización"
+
+#: classes/Options_V2.php:1180 templates/single/course/course-entry-box.php:31
+#: templates/single/course/course-entry-box.php:32
+msgid "Total Enrolled"
+msgstr "TotaI de inscritos"
+
+#: classes/Admin.php:102 views/pages/course-list.php:165
+msgid "Categories"
+msgstr "Categorías"
+
+#: views/course-share.php:24
+msgid "Share"
+msgstr "Compartir"
+
+#: classes/Backend_Page_Trait.php:52 templates/dashboard/dashboard.php:312
+#: templates/loop/enrolled-course-progress.php:23
+#: templates/single-content-loader.php:94
+#: templates/single/course/course-entry-box.php:91
+msgid "Complete"
+msgstr "Completar"
+
+#: templates/single/course/course-entry-box.php:221
+msgid "Enroll now"
+msgstr "Inscribirse ahora"
+
+#: classes/Options_V2.php:1244
+msgid "Target Audience"
+msgstr "Audiencia objetivo"
+
+#: templates/single/course/course-entry-box.php:145
+msgid "Complete Course"
+msgstr "Completar curso"
+
+#: classes/Admin.php:104 classes/Post_types.php:193
+#: templates/single/course/tags.php:18
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: templates/single/quiz/no_course_belongs.php:16
+msgid "It seems there is no course belongs with this quiz, you can not attempt on this quiz without a course belongs, please notify to your instructor to fix this issue."
+msgstr "Parece que este test no pertenece a ningún curso, no puedes intentar este test si no pertenece a un curso, por favor notifica a tu instructor para arreglar este problema."
+
+#: templates/single/quiz/no_course_belongs.php:15
+msgid "No course found for this quiz"
+msgstr "No se encontraron cursos para este test"
+
+#: templates/single/quiz/previous-attempts.php:58
+#: templates/single/quiz/top.php:120
+msgid "Start Quiz"
+msgstr "Iniciar el cuestionario"
+
+#: classes/Tutor_Setup.php:563 templates/single/quiz/body.php:73
+msgid "Finish"
+msgstr "Finalizar"
+
+#: templates/single/quiz/parts/question.php:190
+#: templates/single/quiz/parts/question.php:208
+msgid "Submit Quiz"
+msgstr "Enviar examen"
+
+#: templates/single/quiz/parts/question.php:117
+msgid "Marks : "
+msgstr "Marcas: "
+
+#: templates/single/quiz/parts/meta.php:71
+msgid "Time remaining: "
+msgstr "Tiempo restante: "
+
+#: templates/single/quiz/top.php:101
+msgid "Passing Grade"
+msgstr "Nota de aprobación"
+
+#: templates/single/quiz/parts/meta.php:45 views/modal/edit_quiz.php:155
+msgid "Attempts Allowed"
+msgstr "Intentos permitidos"
+
+#: templates/single/assignment/content.php:613
+msgid "Start Assignment Submit"
+msgstr "Comenzar el envío de tareas"
+
+#: templates/single/assignment/content.php:477
+#: views/quiz/attempt-details.php:333
+msgid "Instructor Note"
+msgstr "Nota del instructor"
+
+#: templates/single/assignment/content.php:454
+msgid "Failed"
+msgstr "No aprobado"
+
+#: templates/single/assignment/content.php:450
+msgid "Passed"
+msgstr "Aprobado"
+
+#: templates/single/assignment/content.php:356
+msgid "Submit Assignment"
+msgstr "Enviar la tarea"
+
+#: templates/single/assignment/content.php:256
+msgid "Assignment answer form"
+msgstr "Formulario de respuesta de la tarea"
+
+#: templates/single/assignment/content.php:134
+#: templates/single/quiz/parts/meta.php:41
+msgid "No limit"
+msgstr "Sin límite"
+
+#: templates/dashboard/instructor/registration.php:149
+msgid "Register as instructor"
+msgstr "Registrarse como instructor"
+
+#: templates/dashboard/my-courses.php:158
+msgid "Price:"
+msgstr "Precio:"
+
+#: classes/Options_V2.php:891
+msgid "Deduct Fees"
+msgstr "Deducción de tarifas"
+
+#: templates/dashboard/purchase_history.php:88
+msgid "Order ID"
+msgstr "ID del pedido"
+
+#: classes/Course.php:660 templates/course-filter/filters.php:102
+#: templates/dashboard/purchase_history.php:97 views/pages/course-list.php:171
+msgid "Price"
+msgstr "Precio"
+
+#: classes/Utils.php:8248
+msgid "All Time"
+msgstr "Todo el tiempo"
+
+#: classes/Tutor_Setup.php:497
+msgid "Earning"
+msgstr "Ganancias"
+
+#: classes/Options_V2.php:1220 templates/single/assignment/content.php:191
+#: templates/single/assignment/content.php:369
+#: templates/single/assignment/content.php:581
+#: views/modal/question_form.php:145
+msgid "Description"
+msgstr "Descripción"
+
+#: classes/Utils.php:8353
+msgid "Course Info"
+msgstr "Información del curso"
+
+#: templates/dashboard/reviews/edit-review-form.php:25
+#: templates/dashboard/reviews/given-reviews.php:122 views/modal/review.php:42
+msgid "Update Review"
+msgstr "Actualizar la valoración"
+
+#: templates/dashboard/reviews/edit-review-form.php:22
+#: templates/dashboard/reviews/given-reviews.php:115
+#: templates/single/course/reviews.php:177
+msgid "write a review"
+msgstr "escribe una reseña"
+
+#: templates/dashboard/assignments/review.php:25
+msgid "Assignments submission not found or not completed"
+msgstr "No se han encontrado o completado los envíos de las tareas"
+
+#: templates/dashboard/assignments/review.php:155
+msgid "Evaluate this submission"
+msgstr "Evalúa esta entrega"
+
+#: templates/dashboard/assignments/review.php:131
+msgid "Evaluation"
+msgstr "Evaluación"
+
+#: templates/dashboard/assignments/review.php:93
+msgid "Attach assignment file(s)"
+msgstr "Adjuntar los archivo(s) de la tarea"
+
+#: templates/dashboard/assignments/review.php:81
+msgid "Assignment Description:"
+msgstr "Descripción de la tarea:"
+
+#: templates/dashboard/assignments.php:83
+msgid "Total Submit"
+msgstr "Envíos totales"
+
+#: templates/dashboard/assignments/review.php:60
+#: templates/dashboard/assignments/submitted.php:80
+#: templates/dashboard/question-answer.php:51
+#: templates/dashboard/reviews.php:54 templates/public-profile.php:135
+#: views/elements/search-filter.php:43 views/qna/contexts.php:16
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:31
+msgid "Student"
+msgstr "Estudiante"
+
+#: views/pages/course-list.php:251
+msgid "Assignment:"
+msgstr "Tarea:"
+
+#: templates/dashboard/logged-in.php:14
+msgid "You are already logged in"
+msgstr "Ya estás conectado"
+
+#: templates/dashboard/registration.php:149
+msgid "Register"
+msgstr "Regístrate"
+
+#: templates/dashboard/instructor/registration.php:119
+#: templates/dashboard/registration.php:119
+#: views/pages/add_new_instructor.php:126
+msgid "Password Confirmation"
+msgstr "Confirmación de contraseña"
+
+#: templates/dashboard/instructor/registration.php:116
+#: templates/dashboard/registration.php:116
+#: views/pages/add_new_instructor.php:120
+msgid "Password confirmation"
+msgstr "Confirmación de contraseña"
+
+#: templates/dashboard/instructor/registration.php:93
+#: templates/dashboard/instructor/registration.php:96
+#: templates/dashboard/registration.php:93
+#: templates/dashboard/registration.php:96
+#: views/pages/add_new_instructor.php:81 views/pages/add_new_instructor.php:87
+msgid "E-Mail"
+msgstr "Correo electrónico"
+
+#: templates/dashboard/instructor/registration.php:83
+#: templates/dashboard/instructor/registration.php:86
+#: templates/dashboard/registration.php:83
+#: templates/dashboard/registration.php:86
+#: templates/dashboard/settings/profile.php:138
+#: views/pages/add_new_instructor.php:68 views/pages/add_new_instructor.php:74
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+#: templates/dashboard/dashboard.php:353
+msgid "Enrolled"
+msgstr "Inscritos"
+
+#: templates/dashboard/dashboard.php:350
+#: templates/dashboard/purchase_history.php:91
+msgid "Course Name"
+msgstr "Nombre del curso"
+
+#: templates/dashboard/dashboard.php:234
+msgid "Total Earnings"
+msgstr "Ganancias totales"
+
+#: templates/dashboard/dashboard.php:221 views/pages/instructors.php:120
+msgid "Total Courses"
+msgstr "Total de cursos"
+
+#: templates/dashboard/dashboard.php:208
+msgid "Total Students"
+msgstr "Total de estudiantes"
+
+#: templates/loop/course-price-edd.php:29
+#: templates/loop/course-price-woocommerce.php:21
+#: templates/loop/course-price.php:30
+msgid "Enroll Course"
+msgstr "Inscripción en el curso"
+
+#: classes/Tutor.php:934 classes/Utils.php:8655 templates/dashboard.php:48
+#: templates/dashboard/dashboard.php:136
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: classes/Admin.php:100 classes/Course_List.php:53 classes/Post_types.php:99
+#: templates/archive-course-init.php:132
+#: templates/dashboard/announcements.php:91
+#: templates/dashboard/assignments.php:40
+#: templates/dashboard/elements/filters.php:26
+#: templates/instructor/cover.php:39 templates/instructor/default.php:33
+#: templates/instructor/minimal-horizontal.php:31
+#: templates/instructor/minimal.php:35
+#: templates/instructor/portrait-horizontal.php:36
+#: templates/public-profile.php:128 templates/public-profile.php:195
+msgid "Courses"
+msgstr "Cursos"
+
+#: classes/Course_Widget.php:157 views/options/template/tutor_pages.php:27
+#: views/pages/tools/tutor_pages.php:18
+msgid "ID"
+msgstr "ID"
+
+#: views/quiz/attempt-details.php:726
+msgid "Mark as In correct"
+msgstr "Marcar como incorrecto"
+
+#: views/modal/question_answer_list.php:59
+#: views/modal/question_answer_list.php:65 views/quiz/attempt-details.php:722
+msgid "Mark as correct"
+msgstr "Marcar como correcto"
+
+#: views/quiz/attempt-details.php:711
+msgid "Incorrect"
+msgstr "Incorrecto"
+
+#: includes/translate-text.php:49 views/quiz/attempt-details.php:703
+msgid "Correct"
+msgstr "Correcto"
+
+#: views/quiz/contexts.php:98
+msgid "Given Answer"
+msgstr "Respuesta dada"
+
+#: classes/Quiz.php:975 views/metabox/course-topics.php:64
+#: views/qna/contexts.php:17 views/quiz/contexts.php:19
+#: views/quiz/contexts.php:67
+msgid "Question"
+msgstr "Pregunta"
+
+#: views/quiz/contexts.php:96
+msgid "Type"
+msgstr "Tipo"
+
+#: views/quiz/attempt-details.php:343
+msgid "Quiz Overview"
+msgstr "Resumen del cuestionario"
+
+#: views/quiz/contexts.php:69
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:32
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:37
+msgid "Attempt Time"
+msgstr "Tiempo de intento"
+
+#: templates/single/quiz/top.php:81 views/quiz/contexts.php:68
+#: views/quiz/header-context/course-single-previous-attempts.php:37
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:29
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:34
+msgid "Quiz Time"
+msgstr "Tiempo del cuestionario"
+
+#: templates/dashboard/assignments/submitted.php:86
+#: templates/single/assignment/content.php:423 views/quiz/contexts.php:24
+#: views/quiz/contexts.php:75 views/quiz/contexts.php:100
+msgid "Result"
+msgstr "Resultado"
+
+#: classes/Lesson.php:407 classes/Options_V2.php:617 classes/Options_V2.php:974
+#: classes/Options_V2.php:1490 classes/Tutor_Setup.php:554
+#: templates/dashboard/announcements/details.php:31
+#: templates/dashboard/assignments.php:101
+#: templates/dashboard/assignments/review.php:49
+#: templates/dashboard/assignments/submitted.php:40
+#: templates/instructor/cover.php:39 templates/instructor/default.php:33
+#: templates/instructor/minimal-horizontal.php:31
+#: templates/instructor/minimal.php:35
+#: templates/instructor/portrait-horizontal.php:36
+#: templates/public-profile.php:128 views/elements/filters.php:92
+#: views/elements/search-filter.php:40
+#: views/fragments/announcement-list.php:144
+#: views/fragments/announcement-list.php:301 views/qna/qna-table.php:102
+#: views/quiz/contexts.php:18
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:25
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:19
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:21
+msgid "Course"
+msgstr "Curso"
+
+#: views/quiz/contexts.php:65
+msgid "Attempt By"
+msgstr "Intento por"
+
+#: views/pages/view_attempt.php:25 views/pages/view_attempt.php:29
+msgid "Attemp not found"
+msgstr "Intento no encontrado"
+
+#: templates/dashboard/reviews.php:93
+msgid "Course:"
+msgstr "Curso:"
+
+#: classes/Lesson.php:583 classes/Utils.php:1584
+#: templates/single/course/enrolled/announcements.php:39
+#: templates/single/lesson/comments-loop.php:30
+#: templates/single/lesson/comments-loop.php:63
+msgid " ago"
+msgstr " atrás"
+
+#: classes/Options_V2.php:737 templates/single/quiz/top.php:43
+#: views/metabox/course-contents.php:128 views/metabox/course-contents.php:197
+#: views/metabox/course-topics.php:49
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:28
+#: views/quiz/header-context/course-single-previous-attempts.php:23
+msgid "Quiz"
+msgstr "Cuestionario"
+
+#: classes/Options_V2.php:1260 views/quiz/attempt-table.php:171
+#: views/quiz/contexts.php:101
+msgid "Review"
+msgstr "Reseña"
+
+#: classes/Admin.php:225 classes/Tools_V2.php:108
+#: templates/dashboard/purchase_history.php:100
+#: templates/dashboard/withdraw.php:213 views/options/template/status.php:13
+#: views/options/template/tutor_pages.php:33 views/pages/instructors.php:127
+#: views/pages/instructors.php:178 views/pages/instructors.php:197
+#: views/pages/tools/tutor_pages.php:20 views/pages/withdraw_requests.php:101
+#: views/pages/withdraw_requests.php:251 views/qna/contexts.php:20
+msgid "Status"
+msgstr "Estado"
+
+#: includes/tinymce_translate.php:27
+msgid "Count"
+msgstr "Contar"
+
+#: classes/Admin.php:106 classes/Course.php:659 classes/Students_List.php:62
+#: templates/public-profile.php:135 views/pages/students.php:84
+msgid "Students"
+msgstr "Estudiantes"
+
+#: classes/Utils.php:8667 templates/dashboard/wishlist.php:23
+#: templates/single/course/lead-info.php:101
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+#: views/pages/withdraw_requests.php:412
+msgid "Reject Withdrawal?"
+msgstr "¿Rechazar la retirada?"
+
+#: templates/dashboard/withdraw.php:207
+msgid "Requested On"
+msgstr "Solicitado el"
+
+#: templates/dashboard/announcements.php:116
+#: templates/dashboard/assignments/submitted.php:77
+#: templates/dashboard/purchase_history.php:94
+#: templates/dashboard/reviews.php:57
+#: templates/single/assignment/content.php:411 views/elements/filters.php:149
+#: views/fragments/announcement-list.php:245
+#: views/fragments/announcement-list.php:249
+#: views/options/template/import_export.php:79 views/pages/course-list.php:174
+#: views/quiz/contexts.php:16 views/quiz/contexts.php:66
+msgid "Date"
+msgstr "Fecha"
+
+#: views/pages/withdraw_requests.php:92
+msgid "Withdraw Method"
+msgstr "Método de retirada"
+
+#: templates/dashboard/withdraw.php:152 templates/dashboard/withdraw.php:210
+#: views/pages/withdraw_requests.php:98 views/pages/withdraw_requests.php:246
+msgid "Amount"
+msgstr "Importe"
+
+#: templates/dashboard/withdraw.php:101
+msgid "You can change your %1$s Withdraw Preference %2$s"
+msgstr "Puedes cambiar tu %1$s preferencia de retirada %2$s "
+
+#: templates/dashboard/dashboard.php:290
+msgid "Completed Lessons:"
+msgstr "Lecciones completadas:"
+
+#: templates/dashboard/dashboard.php:192
+#: templates/dashboard/enrolled-courses.php:22
+msgid "Completed Courses"
+msgstr "Cursos completados"
+
+#: templates/dashboard/dashboard.php:179
+#: templates/dashboard/enrolled-courses.php:21
+msgid "Active Courses"
+msgstr "Cursos activos"
+
+#: views/elements/filters.php:97
+msgid "All Courses"
+msgstr "Todos los cursos"
+
+#: classes/Utils.php:8663 templates/dashboard/dashboard.php:166
+#: templates/dashboard/enrolled-courses.php:20
+msgid "Enrolled Courses"
+msgstr "Cursos inscritos"
+
+#: templates/dashboard/settings/reset-password.php:36
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: templates/dashboard/settings/profile.php:194
+#: templates/dashboard/settings/social-profile.php:46
+msgid "Update Profile"
+msgstr "Actualizar el perfil"
+
+#: views/fragments/thumbnail-uploader.php:61
+#: views/modal/question_answer_form.php:61
+#: views/modal/question_answer_form.php:177
+#: views/modal/question_answer_form.php:223
+#: views/modal/question_answer_form.php:252
+#: views/options/field-types/upload_half.php:42
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: views/metabox/user-profile-fields.php:51
+msgid "Profile Photo"
+msgstr "Foto del perfil"
+
+#: templates/dashboard/settings/withdraw-settings.php:143
+msgid "Save Withdrawal Account"
+msgstr "Guardar la cuenta de retirada"
+
+#: templates/dashboard/settings/withdraw-settings.php:50
+msgid "Min withdraw"
+msgstr "Retirada mínima"
+
+#: templates/dashboard/settings/withdraw-settings.php:25
+msgid "Select a withdraw method"
+msgstr "Selecciona un método de retirada"
+
+#: classes/Backend_Page_Trait.php:143
+#: templates/dashboard/announcements/create.php:65
+#: templates/dashboard/announcements/details.php:41
+#: templates/dashboard/announcements/update.php:64
+#: templates/dashboard/my-courses.php:298
+#: templates/dashboard/reviews/given-reviews.php:119
+#: templates/dashboard/withdraw.php:171 templates/modal/confirm.php:55
+#: views/elements/bulk-confirm-popup.php:33
+#: views/elements/common-confirm-popup.php:65
+#: views/fragments/announcement-list.php:88
+#: views/fragments/announcement-list.php:164
+#: views/fragments/announcement-list.php:217 views/metabox/course-topics.php:81
+#: views/metabox/course-topics.php:118 views/metabox/course-topics.php:146
+#: views/modal/review.php:39 views/modal/topic-form.php:51
+#: views/options/template/common/modal-confirm.php:38
+#: views/pages/instructors.php:338 views/pages/withdraw_requests.php:373
+#: views/pages/withdraw_requests.php:431 views/qna/qna-new.php:30
+#: views/qna/qna-table.php:176
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/dashboard/my-courses.php:293
+msgid "Delete This Course?"
+msgstr "¿Borrar este curso?"
+
+#: views/quiz/attempt-table.php:135
+msgid "Student:"
+msgstr "Estudiante:"
+
+#: templates/single/assignment/content.php:132
+msgid "Duration:"
+msgstr " Duración:"
+
+#: classes/Utils.php:8622 templates/dashboard.php:48
+#: templates/dashboard/dashboard.php:338 templates/dashboard/my-courses.php:47
+msgid "My Courses"
+msgstr "Mis cursos"
+
+#: templates/dashboard/reviews/given-reviews.php:59
+msgid "Course: "
+msgstr "Curso: "
+
+#: templates/dashboard/reviews.php:34
+#: templates/dashboard/reviews/given-reviews.php:32
+msgid "Received"
+msgstr "Recibido"
+
+#: templates/dashboard/reviews.php:40
+#: templates/dashboard/reviews/given-reviews.php:35
+msgid "Given"
+msgstr "Entregado"
+
+#: templates/single/assignment/content.php:417 views/quiz/contexts.php:71
+msgid "Pass Marks"
+msgstr "Notas de aprobado"
+
+#: classes/Quiz_Attempts_List.php:214 includes/translate-text.php:53
+#: views/quiz/attempt-details.php:310 views/quiz/attempt-table.php:159
+msgid "Fail"
+msgstr "No aprobado"
+
+#: classes/Quiz_Attempts_List.php:208 includes/translate-text.php:45
+#: views/quiz/attempt-details.php:308 views/quiz/attempt-table.php:158
+msgid "Pass"
+msgstr "Aprobado"
+
+#: templates/single/assignment/content.php:420 views/quiz/contexts.php:23
+#: views/quiz/contexts.php:74
+msgid "Earned Marks"
+msgstr "Puntos ganados"
+
+#: templates/dashboard/assignments.php:80
+#: templates/single/assignment/content.php:414 views/quiz/contexts.php:20
+#: views/quiz/contexts.php:70
+#: views/quiz/header-context/course-single-previous-attempts.php:43
+msgid "Total Marks"
+msgstr "Puntos totales"
+
+#: templates/single/quiz/top.php:60 views/quiz/contexts.php:97
+#: views/quiz/header-context/course-single-previous-attempts.php:31
+msgid "Questions"
+msgstr "Preguntas"
+
+#: classes/Utils.php:8675 templates/dashboard/my-quiz-attempts.php:35
+msgid "My Quiz Attempts"
+msgstr "Mis intentos de cuestionarios"
+
+#: classes/Options_V2.php:928 templates/dashboard/settings/nav-bar.php:30
+msgid "Withdraw"
+msgstr "Retirar"
+
+#: templates/dashboard/settings/reset-password.php:87
+msgid "Reset Password"
+msgstr "Restablecer la contraseña"
+
+#: templates/dashboard/settings/nav-bar.php:20
+msgid "Profile"
+msgstr "Perfil"
+
+#: classes/Admin.php:128 classes/Admin.php:544 classes/Utils.php:2687
+#: templates/dashboard/notifications/profile-completion.php:22
+#: templates/dashboard/settings.php:13
+#: templates/dashboard/settings/social-profile.php:15
+#: views/metabox/course-topics.php:68 views/options/settings.php:19
+msgid "Settings"
+msgstr "Ajustes"
+
+#: templates/dashboard/settings/profile.php:163
+#: views/pages/add_new_instructor.php:133 views/pages/instructors.php:323
+msgid "Bio"
+msgstr "Biografía"
+
+#: templates/dashboard/my-profile.php:33
+#: templates/dashboard/settings/profile.php:145
+#: templates/dashboard/settings/profile.php:147
+#: views/pages/add_new_instructor.php:94 views/pages/add_new_instructor.php:100
+#: views/pages/instructors.php:278
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: templates/dashboard/my-profile.php:32 views/pages/instructors.php:116
+#: views/pages/instructors.php:159 views/pages/students.php:88
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: templates/dashboard/my-profile.php:31 views/pages/instructors.php:270
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: templates/dashboard/instructor/registration.php:68
+#: templates/dashboard/instructor/registration.php:71
+#: templates/dashboard/my-profile.php:30
+#: templates/dashboard/registration.php:70
+#: templates/dashboard/registration.php:73
+#: templates/dashboard/settings/profile.php:129
+#: templates/dashboard/settings/profile.php:131
+#: views/pages/add_new_instructor.php:55 views/pages/add_new_instructor.php:61
+#: views/pages/instructors.php:260
+msgid "Last Name"
+msgstr "Apellidos"
+
+#: templates/dashboard/instructor/registration.php:58
+#: templates/dashboard/instructor/registration.php:61
+#: templates/dashboard/my-profile.php:29
+#: templates/dashboard/registration.php:60
+#: templates/dashboard/registration.php:63
+#: templates/dashboard/settings/profile.php:122
+#: templates/dashboard/settings/profile.php:124
+#: views/pages/add_new_instructor.php:41 views/pages/add_new_instructor.php:47
+#: views/pages/instructors.php:252
+msgid "First Name"
+msgstr "Nombre"
+
+#: templates/dashboard/my-profile.php:28 views/pages/students.php:92
+msgid "Registration Date"
+msgstr "Fecha de registro"
+
+#: classes/Utils.php:8659 templates/dashboard/my-profile.php:39
+msgid "My Profile"
+msgstr "Mi perfil"
+
+#: templates/course-embed.php:99 templates/loop/course-author.php:36
+#: templates/loop/meta.php:57
+msgid "In"
+msgstr "en"
+
+#: templates/course-filter/filters.php:15
+#: templates/dashboard/my-courses.php:164 templates/loop/course-in-cart.php:19
+#: templates/single/course/course-entry-box.php:211
+#: templates/single/course/wc-price-html.php:20
+#: views/metabox/product-selection.php:35 views/pages/course-list.php:295
+msgid "Free"
+msgstr "Gratis"
+
+#: classes/Lesson.php:124 templates/single/assignment/content.php:206
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#: templates/dashboard/instructor/registration.php:106
+#: templates/dashboard/instructor/registration.php:109
+#: templates/dashboard/registration.php:106
+#: templates/dashboard/registration.php:109
+#: templates/dashboard/settings/nav-bar.php:25 templates/login-form.php:63
+#: templates/template-part/form-retrieve-password.php:36
+#: views/pages/add_new_instructor.php:107
+#: views/pages/add_new_instructor.php:113 views/pages/instructors.php:300
+msgid "Password"
+msgstr "Contraseña"
+
+#: templates/login-form.php:59
+msgid "Username or Email Address"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: templates/course-filter/course-archive-filter-bar.php:35
+msgid "Course Title (z-a)"
+msgstr "Título del curso (z-a)"
+
+#: templates/course-filter/course-archive-filter-bar.php:32
+msgid "Course Title (a-z)"
+msgstr "Título del curso (a-z)"
+
+#: templates/course-filter/course-archive-filter-bar.php:29
+msgid "Release Date (oldest first)"
+msgstr "Fecha de lanzamiento (más antiguas primero)"
+
+#: templates/course-filter/course-archive-filter-bar.php:26
+msgid "Release Date (newest first)"
+msgstr "Fecha de lanzamiento (más recientes primero)"
+
+#: templates/dashboard.php:127
+msgid "Become an instructor"
+msgstr "Convertirse en instructor "
+
+#: templates/profile/bio.php:24
+msgid "Bio data is empty"
+msgstr "Los datos de la biografía están vacíos"
+
+#: templates/dashboard/question-answer/answers.php:39
+#: templates/dashboard/question-answer/answers.php:73
+#: templates/single/course/reviews-loop.php:33 views/pages/answer.php:62
+#: views/pages/answer.php:107
+msgid "%s ago"
+msgstr "hace %s"
+
+#: templates/dashboard/assignments/review.php:19
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Lo siento, pero estás buscando algo que no está aquí."
+
+#: classes/Tutor.php:833 tutor.php:79
+msgid "Tutor Instructor"
+msgstr "Instructor de Tutor"
+
+#. Author URI of the plugin
+msgid "https://themeum.com"
+msgstr "https://themeum.com"
+
+#. Author of the plugin
+msgid "Themeum"
+msgstr "Themeum"
+
+#. Description of the plugin
+msgid "Tutor is a complete solution for creating a Learning Management System in WordPress way. It can help you to create small to large scale online education site very conveniently. Power features like report, certificate, course preview, private file sharing make Tutor a robust plugin for any educational institutes."
+msgstr "Tutor es una solución completa para crear un sistema de gestión de aprendizaje en  WordPress. Puede ayudarte a crear un sitio de educación online de pequeña o gran escala de manera muy sencilla. Potentes funciones, como informes, certificados, vista previa del curso, uso compartido de archivos privados, hacen de Tutor un plugin robusto para cualquier instituto educativo."
+
+#. Plugin URI of the plugin
+msgid "https://www.themeum.com/product/tutor-lms/"
+msgstr "https://www.themeum.com/product/tutor-lms/"
+
+#. Plugin Name of the plugin
+#: classes/Admin.php:90 classes/Admin.php:91 classes/Admin.php:595
+#: classes/Gutenberg.php:144
+msgid "Tutor LMS"
+msgstr "Tutor LMS"

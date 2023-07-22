@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-12-24 22:33+0530\n"
+"PO-Revision-Date: 2022-12-24 22:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/hwcf-admin.php:157
+msgid "Select category"
+msgstr ""
+
+#: admin/hwcf-admin.php:158
+msgid "No results found."
+msgstr ""
+
+#: admin/hwcf-admin.php:177 admin/hwcf-admin.php:178
+msgid "Hide Functions"
+msgstr ""
+
+#: admin/hwcf-admin.php:201
+msgid "Settings"
+msgstr ""
+
+#: admin/hwcf-admin.php:216
+msgid "Donation for Homeless"
+msgstr ""
+
+#: admin/hwcf-admin.php:242
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: admin/hwcf-admin.php:242
+msgid "View Details"
+msgstr ""
+
+#: admin/hwcf-admin.php:254
+msgid "Number of items per page"
+msgstr ""
+
+#: admin/hwcf-admin.php:285 admin/hwcf-table.php:14 admin/hwcf-table.php:15
+msgid "Hide Cart Functions"
+msgstr ""
+
+#: admin/hwcf-admin.php:288
+msgid "Add New"
+msgstr ""
+
+#: admin/hwcf-admin.php:296
+#, php-format
+msgid "Search results for %s"
+msgstr ""
+
+#: admin/hwcf-admin.php:309
+msgid "Search Result"
+msgstr ""
+
+#: admin/hwcf-admin.php:369
+msgid "Manage Settings"
+msgstr ""
+
+#: admin/hwcf-admin.php:371
+msgid "All Settings"
+msgstr ""
+
+#: admin/hwcf-admin.php:386
+msgid "Edit Settings"
+msgstr ""
+
+#: admin/hwcf-admin.php:388
+msgid "Existing Rule"
+msgstr ""
+
+#: admin/hwcf-admin.php:392
+msgid "Add New Settings"
+msgstr ""
+
+#: admin/hwcf-admin.php:405
+msgid "Disable Settings"
+msgstr ""
+
+#: admin/hwcf-admin.php:415
+msgid "Check this option to disable this rule. Leave unchecked to apply the selected settings."
+msgstr ""
+
+#: admin/hwcf-admin.php:423
+msgid "Rule enabled"
+msgstr ""
+
+#: admin/hwcf-admin.php:425
+msgid "Guests Only"
+msgstr ""
+
+#: admin/hwcf-admin.php:427
+msgid "Logged in Users --> Leave both unchecked for ALL users."
+msgstr ""
+
+#: admin/hwcf-admin.php:438
+msgid "Rule Title"
+msgstr ""
+
+#: admin/hwcf-admin.php:443
+msgid "Create short title for rule for display in the settings table."
+msgstr ""
+
+#: admin/hwcf-admin.php:455
+msgid "Hide Quantity"
+msgstr ""
+
+#: admin/hwcf-admin.php:465
+msgid "Check this option to hide the default cart \"Quantity\" product function."
+msgstr ""
+
+#: admin/hwcf-admin.php:471
+msgid "Hide Add to Cart"
+msgstr ""
+
+#: admin/hwcf-admin.php:481
+msgid "Check this option to hide the default cart \"Add to Cart\" button."
+msgstr ""
+
+#: admin/hwcf-admin.php:487
+msgid "Hide Price"
+msgstr ""
+
+#: admin/hwcf-admin.php:497
+msgid "Check this option to hide the default cart \"Price\" displayed."
+msgstr ""
+
+#: admin/hwcf-admin.php:503
+msgid "Override Price Tag"
+msgstr ""
+
+#: admin/hwcf-admin.php:518
+msgid "Hide Options"
+msgstr ""
+
+#: admin/hwcf-admin.php:528
+msgid "Check this option to hide the default cart \"Options\" dropdown selector."
+msgstr ""
+
+#: admin/hwcf-admin.php:535
+msgid "Hide Custom Element"
+msgstr ""
+
+#: admin/hwcf-admin.php:540
+msgid "Enter specific IDs or classes to hide a custom element."
+msgstr ""
+
+#: admin/hwcf-admin.php:548
+msgid "Separate multiple values by comma (examples: .custom-item-one, .custom-item-two, #new-item-id)."
+msgstr ""
+
+#: admin/hwcf-admin.php:555
+msgid "Custom Message"
+msgstr ""
+
+#: admin/hwcf-admin.php:568
+msgid "Enter a custom message to be added above or below the \"Short product description\""
+msgstr ""
+
+#: admin/hwcf-admin.php:575
+msgid "Custom Message Position"
+msgstr ""
+
+#: admin/hwcf-admin.php:584
+msgid "Above Short product description"
+msgstr ""
+
+#: admin/hwcf-admin.php:585
+msgid "Below Short product description."
+msgstr ""
+
+#: admin/hwcf-admin.php:596
+msgid "Select position where Custom Message should be inserted."
+msgstr ""
+
+#: admin/hwcf-admin.php:603 admin/hwcf-table.php:72
+msgid "Selected Category"
+msgstr ""
+
+#: admin/hwcf-admin.php:627
+msgid "Some browsers, hold the \"Ctrl\" key while clicking to select multiple or to deselect entirely."
+msgstr ""
+
+#: admin/hwcf-admin.php:634 admin/hwcf-table.php:73
+msgid "Product IDs"
+msgstr ""
+
+#: admin/hwcf-admin.php:642
+msgid "Separate multiple values by comma (3443, 5567, 3456) or leave empty to apply this rule to all products."
+msgstr ""
+
+#: admin/hwcf-admin.php:648
+msgid "Search Products"
+msgstr ""
+
+#: admin/hwcf-admin.php:656
+msgid "Search and select products with 3 letter minimum. Works in combination with the Product ID field"
+msgstr ""
+
+#: admin/hwcf-admin.php:693
+msgid "Save Settings"
+msgstr ""
+
+#: admin/hwcf-admin.php:699
+msgid "Add Settings"
+msgstr ""
+
+#: admin/hwcf-table.php:66
+msgid "Title"
+msgstr ""
+
+#: admin/hwcf-table.php:67
+msgid "Status"
+msgstr ""
+
+#: admin/hwcf-table.php:68
+msgid "Quantity"
+msgstr ""
+
+#: admin/hwcf-table.php:69
+msgid "Add to Cart"
+msgstr ""
+
+#: admin/hwcf-table.php:70
+msgid "Price"
+msgstr ""
+
+#: admin/hwcf-table.php:71
+msgid "Options"
+msgstr ""
+
+#: admin/hwcf-table.php:96
+msgid "No Item available."
+msgstr ""
+
+#: admin/hwcf-table.php:269
+msgid "Edit"
+msgstr ""
+
+#: admin/hwcf-table.php:280
+msgid "Delete"
+msgstr ""
+
+#: admin/hwcf-table.php:321 admin/hwcf-table.php:341 admin/hwcf-table.php:359
+#: admin/hwcf-table.php:377 admin/hwcf-table.php:395
+msgid "Disabled"
+msgstr ""
+
+#: admin/hwcf-table.php:323 admin/hwcf-table.php:339 admin/hwcf-table.php:357
+#: admin/hwcf-table.php:375 admin/hwcf-table.php:393
+msgid "Enabled"
+msgstr ""
+
+#: admin/hwcf-table.php:459
+msgid "Delete all database entries if the plugin is deactivated?"
+msgstr ""
+
+#: inc/utilities-functions.php:216
+msgid "Settings Updated Successfully."
+msgstr ""
+
+#: inc/utilities-functions.php:226
+msgid "Settings Successfully Deleted."
+msgstr ""

@@ -1,0 +1,1324 @@
+# Translation of Plugins - Quiz And Survey Master &#8211; Best Quiz, Exam and Survey Plugin for WordPress - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Quiz And Survey Master &#8211; Best Quiz, Exam and Survey Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-26 08:56:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Quiz And Survey Master &#8211; Best Quiz, Exam and Survey Plugin for WordPress - Stable (latest release)\n"
+
+#: php/admin/addons-page.php:231
+msgid "to its full potential. "
+msgstr "en todo su potencial."
+
+#: php/admin/addons-page.php:231
+msgid "View our privacy policy"
+msgstr "Ver nuestra política de privacidad"
+
+#: php/admin/addons-page.php:231
+msgid "Getting your addon is dead simple: just subscribe to our newsletter and then you will get the free addon by e-mail. We will not spam you. We usually send out newsletters to talk about new features in "
+msgstr "Conseguir tu extensión es muy fácil: solo suscríbete a nuestro boletín y conseguirás la extensión gratuita por correo electrónico. No te enviaremos spam. Solemos enviar boletines para informar sobre las nuevas características en "
+
+#: php/classes/class-qsm-install.php:716
+msgid "Yes When answer is correct"
+msgstr "Sí, cuando la respuesta es correcta"
+
+#: php/classes/class-qsm-install.php:729
+msgid "Show correct user info when inline result is enabled."
+msgstr "Muestra la información de usuario correcta cuando el resultado integrado está activado."
+
+#: php/classes/class-qmn-quiz-manager.php:272
+msgid "Correct Info: "
+msgstr "Información correcta: "
+
+#: php/admin/addons-page.php:231
+msgid " let you know when new or updated addons are being released and provide informative articles that show you how to use "
+msgstr " te permite saber cuándo se están lanzando o actualizando nuevas extensiones y proporciona artículos informativos que te muestran como usar "
+
+#: php/admin/settings-page.php:192 php/classes/class-qsm-install.php:712
+msgid "Show correct answer inline"
+msgstr "Muestra la respuesta correcta integrada"
+
+#: php/admin/options-page-email-tab.php:75
+#: php/admin/options-page-results-page-tab.php:64
+msgid "Always use uppercase while using these variables."
+msgstr "Usa siempre mayúsculas mientras está usando estas variables"
+
+#: php/admin/options-page-email-tab.php:74
+#: php/admin/options-page-results-page-tab.php:63
+#: php/admin/options-page-style-tab.php:189
+msgid "Note: "
+msgstr "Nota:"
+
+#. translators: This is the 'title' attribute for GitHub contributors. This
+#. would add the GitHub user such as 'View fpcorso'.
+#: php/admin/about-page.php:105
+msgid "View "
+msgstr "Ver"
+
+#: php/classes/class-qsm-install.php:720
+msgid "Yes Independent of correct/incorrect"
+msgstr "Sí, independientemente de que sea correcta o incorrecta"
+
+#: php/admin/addons-page.php:231
+msgid "Quiz and Survey Master "
+msgstr "Quiz and Survey Master"
+
+#: php/admin/settings-page.php:199 php/classes/class-qsm-install.php:859
+msgid "Disable scroll on next and previous button click?"
+msgstr "¿Desactivar el scroll al hacer clic en el botón siguiente y anterior?"
+
+#: php/admin/quizzes-page.php:408 php/admin/quizzes-page.php:440
+msgid "Delete question from question bank?"
+msgstr "¿Borrar la pregunta del banco de preguntas?"
+
+#: php/classes/class-qmn-quiz-manager.php:856
+msgid "Limit of choice is reached."
+msgstr "Se ha alcanzado el límite de opciones"
+
+#: php/template-variables.php:1058
+msgid "No answer provided"
+msgstr "No se ha proporcionado ninguna respuesta"
+
+#: mlw_quizmaster2.php:592
+msgid "QSM"
+msgstr "QSM"
+
+#: php/classes/class-qsm-install.php:1395
+msgid "Text to show when the selected option is wrong answer."
+msgstr "Texto a mostrar cuando la opción seleccionada es una respuesta incorrecta."
+
+#: php/classes/class-qsm-install.php:1384
+msgid "Text to show when the selected option is correct answer."
+msgstr "Texto a mostrar cuando la opción seleccionada es una respuesta correcta."
+
+#: php/admin/addons-page.php:69
+msgid "Price: "
+msgstr "Precio:"
+
+#: php/admin/addons-page.php:71
+msgid "Show more"
+msgstr "Mostrar más"
+
+#: php/classes/class-qsm-install.php:1392
+msgid "Incorrect answer message"
+msgstr "Mensaje de respuesta incorrecta"
+
+#: php/classes/class-qsm-install.php:1381
+msgid "Correct answer message"
+msgstr "Mensaje de respuesta correcta"
+
+#: php/question-types/qsm-question-type-file-upload.php:51
+msgid "Click here to view"
+msgstr "Haz clic aquí para ver"
+
+#: php/admin/addons-page.php:78
+msgid "All Addons"
+msgstr "Todas las extensiones"
+
+#: php/rest-api.php:284 php/rest-api.php:397 php/rest-api.php:425
+#: php/rest-api.php:450 php/rest-api.php:478 php/rest-api.php:520
+#: php/rest-api.php:585 php/rest-api.php:647 php/rest-api.php:719
+#: php/rest-api.php:744
+msgid "User not logged in"
+msgstr "El usuario no está conectado"
+
+#: php/classes/class-qmn-quiz-manager.php:202
+msgid "File removed successfully"
+msgstr "Archivo eliminado correctamente"
+
+#: php/admin/options-page-questions-tab.php:668
+msgid "Edit Page"
+msgstr "Editar la página"
+
+#: php/admin/options-page-questions-tab.php:234
+msgid "Edit Question"
+msgstr "Editar la pregunta"
+
+#: php/admin/options-page-questions-tab.php:168
+msgid "Total Questions:"
+msgstr "Preguntas totales:"
+
+#: php/admin/options-page-questions-tab.php:131
+msgid "This quiz has the \"Are the questions random?\" option enabled. The pages below will not be used while that option is enabled. To turn off, go to the \"Options\" tab and set that option to \"No\"."
+msgstr "Este cuestionario tiene activada la opción «¿Son las preguntas aleatorias?». Las páginas siguientes no se utilizarán mientras esa opción esté activada. Para desactivarla, ve a la pestaña «Opciones» y establece esa opción en «No»."
+
+#: php/shortcodes.php:105
+msgid "No quiz found"
+msgstr "No se ha encontrado ningún cuestionario"
+
+#: php/classes/class-qmn-quiz-manager.php:209
+msgid "File not removed"
+msgstr "Archivo no eliminado"
+
+#: php/classes/class-qmn-quiz-manager.php:169
+msgid "File uploaded successfully"
+msgstr "Archivo subido correctamente"
+
+#: php/admin/options-page-questions-tab.php:251
+msgid "Add your description here"
+msgstr "Añade tu descripción aquí"
+
+#: php/admin/options-page-questions-tab.php:246
+msgid "Type your question here"
+msgstr "Escribe tu pregunta aquí"
+
+#: php/admin/options-page-questions-tab.php:171
+msgid "Search Questions"
+msgstr "Buscar preguntas"
+
+#: php/classes/class-qmn-quiz-manager.php:185
+msgid "File type is not supported!"
+msgstr "¡El tipo de archivo no es compatible!"
+
+#: php/question-types.php:118
+msgid "Polar"
+msgstr "Polar"
+
+#: php/admin/options-page-contact-tab.php:148 php/question-types.php:153
+msgid "Date"
+msgstr "Fecha"
+
+#: php/admin/quiz-options-page.php:217 php/admin/quizzes-page.php:285
+#: php/admin/quizzes-page.php:287
+msgid "Import & Export"
+msgstr "Importar y Exportar"
+
+#: php/admin/options-page-questions-tab.php:477
+msgid "Video"
+msgstr "Video"
+
+#: php/admin/options-page-questions-tab.php:472
+msgid "Text File"
+msgstr "Fichero de texto"
+
+#: php/admin/options-page-questions-tab.php:473
+msgid "Image"
+msgstr "Imagen"
+
+#: php/admin/options-page-questions-tab.php:468
+msgid "Allow File type"
+msgstr "Tipo de fichero permitido"
+
+#: php/admin/functions.php:1091 php/admin/functions.php:1122
+msgid "Buy Now"
+msgstr "Comprar ahora"
+
+#: php/question-types.php:234
+msgid "File Upload"
+msgstr "Subir archivo"
+
+#: php/admin/options-page-questions-tab.php:460
+msgid "File upload limit ( in MB )"
+msgstr "Tamaño máximo de subida ( en MB )"
+
+#. Plugin URI of the plugin
+msgid "https://expresstech.io/"
+msgstr "https://expresstech.io/"
+
+#. Author of the plugin
+msgid "ExpressTech"
+msgstr "ExpressTech"
+
+#: php/admin/admin-results-page.php:487
+msgid "No record found."
+msgstr "No se han encontrado registros"
+
+#: php/classes/class-qmn-plugin-helper.php:982
+msgid "No animation"
+msgstr "Sin animación"
+
+#: php/classes/class-qmn-plugin-helper.php:978
+msgid "heartBeat"
+msgstr "heartBeat"
+
+#: php/classes/class-qmn-plugin-helper.php:974
+msgid "jello"
+msgstr "jello"
+
+#: php/classes/class-qmn-plugin-helper.php:970
+msgid "wobble"
+msgstr "wobble"
+
+#: php/classes/class-qmn-plugin-helper.php:966
+msgid "tada"
+msgstr "tada"
+
+#: php/classes/class-qmn-plugin-helper.php:962
+msgid "swing"
+msgstr "swing"
+
+#: php/classes/class-qmn-plugin-helper.php:958
+msgid "shake"
+msgstr "shake"
+
+#: php/classes/class-qmn-plugin-helper.php:954
+msgid "rubberBand"
+msgstr "rubberBand"
+
+#: php/classes/class-qmn-plugin-helper.php:950
+msgid "pulse"
+msgstr "Pulso"
+
+#: php/classes/class-qmn-plugin-helper.php:946
+msgid "flash"
+msgstr "flash"
+
+#: php/classes/class-qmn-plugin-helper.php:942
+msgid "bounce"
+msgstr "bounce"
+
+#: php/question-types/qsm-question-type-dropdown.php:27
+msgid "Please select your answer"
+msgstr "Por favor selecciona tu respuesta"
+
+#: php/admin/addons-page.php:215
+msgid "Get Your Free Addon!"
+msgstr "Consigue tu Addon gratis!!!"
+
+#: php/admin/settings-page.php:168 php/classes/class-qsm-install.php:214
+msgid "Force submit after timer expiry"
+msgstr "Forzar el envío después de que el tiempo se agote"
+
+#: php/admin/options-page-results-page-tab.php:70
+msgid "X = Question ID Note: only supported for multiple choice answers"
+msgstr "X = ID de la pregunta Nota: solo soportado en respuestas múltiples"
+
+#: php/admin/options-page-questions-tab.php:420
+msgid "Hide Autofill?"
+msgstr "¿Ocultar autocompletar?"
+
+#: php/admin/settings-page.php:186 php/classes/class-qsm-install.php:591
+msgid "Disable auto fill for contact input"
+msgstr "Desactivar autocompletar en la introducción de datos del contacto"
+
+#: php/admin/options-page-questions-tab.php:550
+msgid "Answers Type"
+msgstr "Tipo de respuestas"
+
+#: php/admin/options-page-email-tab.php:55
+#: php/admin/options-page-email-tab.php:61
+msgid "Add New Email"
+msgstr "Añadir nuevo Email"
+
+#: php/admin/options-page-email-tab.php:182
+#: php/admin/options-page-results-page-tab.php:212
+msgid "Add additional condition"
+msgstr "Añadir condición adicional"
+
+#: php/admin/settings-page.php:84
+msgid "From Email (The email address that emails come from)"
+msgstr "Del Email (la dirección de Email de la cual vienen los correos)"
+
+#: php/admin/options-page-email-tab.php:54
+#: php/admin/options-page-email-tab.php:60
+msgid "Save Emails"
+msgstr "Guardar correos"
+
+#: php/classes/class-qmn-quiz-creator.php:336
+msgid "An error occurred while trying to update the name of your quiz or survey. Please try again."
+msgstr "Ha ocurrido un error mientras se intentaba actualizar el nombre de su juego o encuesta. Por favor inténtalo de nuevo"
+
+#: php/admin/options-page-style-tab.php:50
+msgid "Error occured when trying to save the styles. Please try again."
+msgstr "Ha ocurrido un error mientras se trataba de grabar los estilos. Por favor inténtelo de nuevo"
+
+#: mlw_quizmaster2.php:664 php/admin/admin-results-page.php:539
+#: php/admin/functions.php:829 php/admin/options-page-questions-tab.php:745
+#: php/admin/options-page-questions-tab.php:824
+#: php/admin/options-page-style-tab.php:328 php/admin/quiz-options-page.php:264
+#: php/admin/quiz-options-page.php:284 php/admin/quizzes-page.php:362
+#: php/admin/quizzes-page.php:389 php/admin/quizzes-page.php:420
+#: php/admin/quizzes-page.php:452 php/shortcodes.php:254 php/shortcodes.php:270
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: php/admin/quizzes-page.php:135
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: php/admin/quizzes-page.php:268
+msgid "Error trying to reset stats. Please try again."
+msgstr "Error intentanto resetear las estadísticas. Por favor inténtelo de nuevo"
+
+#: php/gdpr.php:150
+msgid "Points Earned"
+msgstr "Puntos conseguidos"
+
+#: php/gdpr.php:30
+msgid "The data the software collects"
+msgstr "Los datos que este software recolecta"
+
+#: php/gdpr.php:31
+msgid "In order to distinguish individual users, IP addresses are collected and stored with the responses."
+msgstr "Para poder distinguir los usuarios individualmente, las direcciones IP son recogidas y almacenas junto con las respuestas"
+
+#: php/gdpr.php:194
+msgid "Form comments"
+msgstr "Comentarios del formulario"
+
+#: php/gdpr.php:190
+msgid "Time to complete form"
+msgstr "Tiempo para completar el formulario"
+
+#: php/gdpr.php:162
+msgid "Total Questions"
+msgstr "Total de preguntas"
+
+#: php/gdpr.php:166
+msgid "Name Field"
+msgstr "Campo Nombre"
+
+#: php/gdpr.php:182
+msgid "User ID"
+msgstr "ID de usuario"
+
+#: php/gdpr.php:178
+msgid "Phone Field"
+msgstr "Campo teléfono"
+
+#: php/gdpr.php:174
+msgid "Email Field"
+msgstr "Campo Email"
+
+#: php/gdpr.php:170
+msgid "Business Field"
+msgstr "Campo Empresa"
+
+#: php/gdpr.php:158
+msgid "Questions Answered Correctly"
+msgstr "Preguntas contestadas correctamente"
+
+#: php/gdpr.php:154
+msgid "Score Earned"
+msgstr "Puntuación coseguida"
+
+#: php/gdpr.php:146
+msgid "Time Submitted"
+msgstr "Tiempo empleado"
+
+#: php/gdpr.php:142
+msgid "Form Name"
+msgstr "Nombre del formulario"
+
+#: php/gdpr.php:91
+msgid "Form Responses"
+msgstr "Respuestas del formulario"
+
+#: php/gdpr.php:38
+msgid "Change This! If you are sharing the responses with anyone and do not list it anywhere else in your privacy policy, enter information about that here. "
+msgstr "Cambia esto! Si compartes las respuestas con alguien y no has avisado en tu política de privacidad, introduce la información acerca de ello aquí"
+
+#: php/gdpr.php:37
+msgid "Quiz And Survey Master does not send any of your data to anywhere outside of this site by default."
+msgstr "Quiz and Survey Master no envía ningún dato a ningún sitio fuera de esta web por defecto"
+
+#: php/gdpr.php:36
+msgid "Where we send your data"
+msgstr "Donde enviamos tus datos"
+
+#: php/gdpr.php:35
+msgid "Change This! If you are using an addon or custom software to sync data with a 3rd party (such as MailChimp), data is retained there which should be mentioned here."
+msgstr "Cambia esto! Si estás usando algún addon o algun software personalizado para sincronizar datos con aplicaciones de terceros (como Mailchimp), los datos son guardados por la otra aplicación y debería mencionarse aquí"
+
+#: php/gdpr.php:34
+msgid "The responses and data attached to the responses are stored indefinitely until an administrator of this site deletes the responses."
+msgstr "Las respuestas y los datos adjuntos a las respuestas se almacenan indefinidamente hasta que un administrador de este sitio elimine las respuestas."
+
+#: php/gdpr.php:33
+msgid "How long we retain your data"
+msgstr "Cuánto tiempo conservamos sus datos"
+
+#: php/gdpr.php:29
+msgid "Many of our quizzes, surveys, and forms are created using Quiz And Survey Master."
+msgstr "Muchos de nuestros cuestionarios, encuestas y formularios se crean utilizando Quiz And Survey Master."
+
+#: php/gdpr.php:32
+msgid "Each individual form may have fields for a variety of other personal information, such as name and email. This data is needed to identify and possibly communicate with the user. There may be other fields asking for personal information and this data may be for different purposes for each quiz, survey, or form. If any data is to be used for purposes other than grading or survey purposes, this will be disclosed on the form itself."
+msgstr "Cada formulario individual puede tener campos para una variedad de otra información personal, como nombre y correo electrónico. Estos datos son necesarios para identificar y posiblemente comunicarse con el usuario. Puede haber otros campos que soliciten información personal y estos datos pueden tener diferentes propósitos para cada cuestionario, encuesta o formulario. Si algún dato se va a utilizar para fines distintos a los de calificación o encuesta, se divulgará en el mismo formulario."
+
+#: php/admin/functions.php:717 php/admin/settings-page.php:164
+#: php/classes/class-qsm-install.php:148
+msgid "Show progress bar"
+msgstr "Mostrar barra de progreso"
+
+#: php/classes/class-qmn-quiz-manager.php:2490
+msgid "Unknown"
+msgstr "Desconocido"
+
+#: php/classes/class-qmn-quiz-manager.php:2468
+msgid "Not collected"
+msgstr "No almacenado"
+
+#: mlw_quizmaster2.php:484 mlw_quizmaster2.php:705
+msgid "Edit Quiz"
+msgstr "Editar cuestionario"
+
+#: mlw_quizmaster2.php:485 php/admin/quiz-options-page.php:125
+msgid "View Quiz"
+msgstr "Ver cuestionario"
+
+#: mlw_quizmaster2.php:478 mlw_quizmaster2.php:479 mlw_quizmaster2.php:480
+#: php/admin/options-page-email-tab.php:206
+#: php/admin/options-page-results-page-tab.php:231
+#: php/classes/class-qsm-install.php:52
+msgid "Quiz"
+msgstr "Cuestionario"
+
+#: mlw_quizmaster2.php:487
+msgid "Search Quizzes"
+msgstr "Buscar cuestionarios"
+
+#: mlw_quizmaster2.php:453 mlw_quizmaster2.php:486
+#: php/admin/quizzes-page.php:304 php/admin/settings-page.php:341
+#: php/classes/class-qsm-install.php:2132
+msgid "Quizzes & Surveys"
+msgstr "Cuestionarios y encuestas"
+
+#: php/admin/settings-page.php:81
+msgid "Post Type Plural Name (Shown in various places such as on archive pages)"
+msgstr "Nombre plural del tipo de publicación (se muestra en varios lugares, como en las páginas de archivo)"
+
+#: php/admin/settings-page.php:75
+msgid "Disable collecting and storing IP addresses?"
+msgstr "¿Desactivar la recogida y almacenamiento de las direcciones IP?"
+
+#: mlw_quizmaster2.php:489
+msgid "No Quiz Found"
+msgstr "No se ha encontrado ningún cuestionario"
+
+#: mlw_quizmaster2.php:490
+msgid "No Quiz Found In Trash"
+msgstr "No se ha encontrado ningún cuestionario en la papelera"
+
+#: mlw_quizmaster2.php:488
+msgid "Parent Quiz:"
+msgstr "Cuestionario padre:"
+
+#: mlw_quizmaster2.php:483
+msgid "New Quiz"
+msgstr "Nuevo cuestionario"
+
+#: mlw_quizmaster2.php:482
+msgid "Add New Quiz"
+msgstr "Añadir nuevo cuestionario"
+
+#: php/admin/admin-results-page.php:330 php/admin/admin-results-page.php:532
+#: php/gdpr.php:186
+msgid "IP Address"
+msgstr "Dirección IP"
+
+#: php/classes/class-qsm-tracking.php:197
+msgid "Click here to learn more about why we need this data and what we collect"
+msgstr "Pulsa aquí para saber más porque necesitamos estos datos y que datos recopilamos"
+
+#: php/classes/class-qsm-tracking.php:195
+msgid "Allow Quiz And Survey Master to track this plugin's usage and help us make this plugin better?"
+msgstr "¿Permitir a Quiz And Survey Master a monitorizar el uso de este plugin y ayudarnos a hacer este plugin mejor?"
+
+#: php/admin/admin-results-page.php:104
+#: php/classes/class-qmn-quiz-creator.php:334
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+#. translators: %s: error
+#: php/admin/admin-results-page.php:107
+msgid "There was an error when deleting this result. Error from WordPress: %s"
+msgstr "Hubo un error eliminando este resultado. Error de WordPress: %s"
+
+#: php/classes/class-qsm-tracking.php:196
+msgid "No sensitive data is tracked. Only feature usage and data about quizzes, surveys, and questions are collected. No questions or user responses is ever collected."
+msgstr "No se rastrean datos confidenciales. Solo se recopilan datos y uso de funciones sobre cuestionarios, encuestas y preguntas. No se recopilan preguntas ni respuestas de los usuarios."
+
+#: php/admin/options-page-questions-tab.php:335
+#: php/admin/options-page-questions-tab.php:1180
+msgid "Correct"
+msgstr "Correcto"
+
+#: php/classes/class-qsm-fields.php:82
+msgid "There was an error when updating the settings. Please try again."
+msgstr "Hubo un error al actualizar guardar tus ajustes. Por favor, inténtalo de nuevo."
+
+#: php/admin/admin-results-page.php:283
+msgid "Correct Percent"
+msgstr "Porcentaje Correcto"
+
+#: php/admin/admin-results-page.php:275 php/admin/admin-results-page.php:285
+msgid "Search Results"
+msgstr "Resultados de la busqueda"
+
+#: php/admin/admin-results-page.php:279
+msgid "Default (Time)"
+msgstr "Por defecto (Hora)"
+
+#: php/admin/admin-results-page.php:277
+msgid "Order By"
+msgstr "Ordenado Por"
+
+#: php/admin/admin-results-page.php:281
+msgid "User Name"
+msgstr "Nombre de usuario"
+
+#: php/admin/options-page-contact-tab.php:49
+msgid "Add New Field"
+msgstr "Añadir un nuevo campo"
+
+#: php/admin/quizzes-page.php:98
+msgid "Click here"
+msgstr "Haz clic aquí"
+
+#: php/classes/class-qmn-quiz-creator.php:524
+msgid "Your quiz or survey has been duplicated successfully."
+msgstr "Tu cuestionario o encuesta ha sido duplicado correctamente"
+
+#: php/classes/class-qmn-quiz-creator.php:329
+msgid "The name of your quiz or survey has been updated successfully."
+msgstr "Tu cuestionario o encuesta ha sido actualizado correctamente"
+
+#: php/classes/class-qmn-quiz-creator.php:289
+msgid "Your quiz or survey has been deleted successfully."
+msgstr "Tu cuestionario o encuesta ha sido borrado correctamente"
+
+#: php/classes/class-qmn-quiz-creator.php:204
+msgid "Your new quiz or survey has been created successfully. To begin editing, click the Edit link."
+msgstr "Tu nuevo cuestionario o encuesta ha sido creado correctamente. Para empezar a editarlo, pulsa en el enlace Editar"
+
+#: php/admin/stats-page.php:61
+msgid "Quiz And Survey Submissions"
+msgstr "Envíos de cuestionarios y encuestas"
+
+#: php/admin/stats-page.php:27
+msgid "Quiz/Survey Statistics"
+msgstr "Estadísticas de cuestionarios / encuestas"
+
+#: php/admin/functions.php:831 php/admin/functions.php:833
+#: php/classes/class-qmn-plugin-helper.php:571
+#: php/classes/class-qmn-quiz-creator.php:115
+#: php/classes/class-qsm-settings.php:350
+msgid "Next"
+msgstr "Siguiente"
+
+#: php/admin/options-page-style-tab.php:402
+#: php/classes/class-qsm-fields.php:275
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: php/admin/options-page-contact-tab.php:15
+msgid "Contact"
+msgstr "Contacto"
+
+#: php/admin/settings-page.php:535
+msgid "Global Settings"
+msgstr "Ajustes globales"
+
+#: php/admin/settings-page.php:485
+msgid "Allow Quiz And Survey Master to anonymously track this plugin's usage and help us make this plugin better."
+msgstr "Permita que Quiz And Survey Master realice un seguimiento anónimo del uso de este plugin y ayúdenos a mejorarlo."
+
+#: php/admin/settings-page.php:546
+msgid " Settings have been updated!"
+msgstr "Los ajustes han sido actualizados."
+
+#: php/admin/settings-page.php:73 php/admin/settings-page.php:538
+msgid "Main Settings"
+msgstr "Ajustes globales"
+
+#: php/admin/settings-page.php:225
+msgid "These settings are applied to the entire plugin and all quizzes."
+msgstr "Esta configuración se aplica a todo el plugin y a todos los cuestionarios/encuestas."
+
+#: php/admin/settings-page.php:87
+msgid "Template For Admin Results Details"
+msgstr "Plantilla del Admin para los detalles de resultados"
+
+#: php/question-types.php:255
+msgid "Text/HTML Section"
+msgstr "Sección de HTML/Texto"
+
+#: php/classes/class-qsm-install.php:2145
+msgid "Documentation"
+msgstr "Documentación"
+
+#: php/admin/functions.php:275 php/admin/options-page-questions-tab.php:509
+#: php/classes/class-qsm-install.php:2145
+msgid "View Documentation"
+msgstr "Ver documentación"
+
+#: php/classes/class-qsm-install.php:2146
+msgid "Create Support Ticket"
+msgstr "Crear ticket de soporte"
+
+#: php/admin/settings-page.php:1259 php/classes/class-qsm-install.php:329
+msgid "Random Answers"
+msgstr "Respuestas Aleatorias"
+
+#: php/classes/class-qsm-tracking.php:198
+msgid "Allow"
+msgstr "Permitir"
+
+#: php/classes/class-qsm-tracking.php:199
+msgid "Do not allow"
+msgstr "No permitir"
+
+#. Author URI of the plugin
+msgid "https://quizandsurveymaster.com/"
+msgstr "https://quizandsurveymaster.com/"
+
+#. Description of the plugin
+msgid "Easily and quickly add quizzes and surveys to your website."
+msgstr "Agregue de forma fácil y rápida cuestionarios y encuestas a su sitio web."
+
+#. Plugin Name of the plugin
+msgid "Quiz And Survey Master"
+msgstr "Quiz And Survey Master"
+
+#: php/question-types.php:53
+msgid "Multiple Choice"
+msgstr "Opción Múltiple"
+
+#: php/question-types.php:105
+msgid "Drop Down"
+msgstr "Desplegable"
+
+#: php/question-types.php:66
+msgid "Multiple Response"
+msgstr "Respuesta Múltiple"
+
+#: php/admin/options-page-contact-tab.php:147 php/question-types.php:169
+msgid "Number"
+msgstr "Número"
+
+#: php/question-types.php:276
+msgid "Captcha"
+msgstr ""
+"Source text:\n"
+"Captcha"
+
+#: php/admin/settings-page.php:176 php/admin/settings-page.php:1251
+#: php/classes/class-qsm-install.php:317 php/classes/class-qsm-install.php:321
+msgid "Random Questions"
+msgstr "Preguntas aleatorias"
+
+#: php/admin/settings-page.php:1255 php/classes/class-qsm-install.php:325
+msgid "Random Questions And Answers"
+msgstr "Preguntas y respuestas aleatorias"
+
+#: php/classes/class-qsm-install.php:969 php/classes/class-qsm-install.php:994
+#: php/classes/class-qsm-install.php:1018
+#: php/classes/class-qsm-install.php:1042
+msgid "Require"
+msgstr "Obligatorio"
+
+#: php/admin/options-page-style-tab.php:24
+msgid "Style"
+msgstr "Estilo"
+
+#: php/admin/options-page-style-tab.php:47
+msgid "The style has been saved successfully."
+msgstr "El estilo ha sido guardado correctamente."
+
+#: php/admin/options-page-style-tab.php:195
+msgid "Quiz Styles"
+msgstr "Estilos de Cuestionario."
+
+#: php/admin/options-page-style-tab.php:196
+msgid "Choose your style:"
+msgstr "Elija su estilo:"
+
+#: php/admin/options-page-style-tab.php:216
+msgid "Custom"
+msgstr "Personalizado"
+
+#: php/admin/options-page-style-tab.php:222
+#: php/admin/options-page-style-tab.php:239
+msgid "Save Quiz Style"
+msgstr "Guardar Estilo de Cuestionario"
+
+#: php/admin/options-page-style-tab.php:226
+msgid "Custom Style CSS"
+msgstr "Personalizar Estilo CSS"
+
+#: php/classes/class-qmn-plugin-helper.php:573
+#: php/classes/class-qsm-install.php:1301
+msgid "Not a valid e-mail address!"
+msgstr "E-mail no válido!!"
+
+#: php/classes/class-qmn-plugin-helper.php:574
+#: php/classes/class-qsm-install.php:1311
+msgid "This field must be a number!"
+msgstr "Este campo debe ser númerico!"
+
+#: php/classes/class-qmn-plugin-helper.php:575
+#: php/classes/class-qsm-install.php:1353
+msgid "The entered text is not correct!"
+msgstr "El texto introducido no es correcto!"
+
+#: php/classes/class-qmn-plugin-helper.php:572
+#: php/classes/class-qsm-install.php:1291
+msgid "Please complete all required fields!"
+msgstr "Por favor, complete todas los campos obligatorios!"
+
+#: php/admin/options-page-questions-tab.php:411
+#: php/classes/class-qmn-plugin-helper.php:580
+#: php/classes/class-qsm-install.php:1373
+msgid "Hint"
+msgstr "Indicación"
+
+#: php/classes/class-qmn-plugin-helper.php:570
+#: php/classes/class-qsm-settings.php:349
+msgid "Previous"
+msgstr "Anterior"
+
+#: php/admin/admin-results-details-page.php:25
+#: php/admin/admin-results-page.php:21 php/admin/admin-results-page.php:27
+#: php/admin/admin-results-page.php:70
+msgid "Quiz Results"
+msgstr "Resultados de la encuesta."
+
+#: php/admin/quizzes-page.php:265
+msgid "The stats has been reset successfully."
+msgstr "Las estadísticas han sido reseteadas correctamente."
+
+#: php/admin/quizzes-page.php:351
+msgid "Are you sure you want to reset the stats to 0? All views and taken stats for this quiz will be reset. This is permanent and cannot be undone."
+msgstr "¿Está seguro que desea resetear las estadísticas a 0? Todas las vistas y estadísticas guardadas para este cuestionario serán eliminadas. Esto es permanente y no se puede deshacer."
+
+#: php/admin/quizzes-page.php:360
+msgid "Reset All Stats For Quiz"
+msgstr "Resetear todas las estadísticas para de un Cuestionario"
+
+#: php/admin/options-page-contact-tab.php:144
+#: php/admin/options-page-text-tab.php:14
+msgid "Text"
+msgstr "Texto"
+
+#: php/admin/options-page-text-tab.php:144
+#: php/classes/class-qsm-install.php:1152
+msgid "%QUESTIONS_ANSWERS% Text"
+msgstr "%QUESTIONS_ANSWERS% Texto"
+
+#: php/classes/class-qsm-install.php:1190
+msgid "Twitter Sharing Text"
+msgstr "Texto para compartir en Twitter"
+
+#: php/classes/class-qsm-install.php:1211
+msgid "Facebook Sharing Text"
+msgstr "Texto para compartir en Facebook"
+
+#: php/admin/admin-results-page.php:324 php/admin/quiz-options-page.php:255
+#: php/classes/class-qmn-plugin-helper.php:584
+#: php/classes/class-qmn-quiz-creator.php:87
+msgid "Name"
+msgstr "Nombre"
+
+#: php/admin/options-page-contact-tab.php:146
+msgid "URL"
+msgstr "URL"
+
+#: php/admin/quizzes-page.php:82
+msgid "Last Modified"
+msgstr "Última Modificación"
+
+#: php/admin/quiz-options-page.php:250
+msgid "Edit Name"
+msgstr "Editar Nombre"
+
+#: php/admin/quizzes-page.php:182
+msgid "Edit"
+msgstr "Editar"
+
+#: php/admin/options-page-contact-tab.php:163 php/admin/quizzes-page.php:183
+#: php/admin/quizzes-page.php:374 php/admin/quizzes-page.php:390
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: php/admin/admin-results-page.php:280 php/admin/admin-results-page.php:456
+#: php/admin/functions.php:655 php/admin/tools-page.php:194
+msgid "Quiz Name"
+msgstr "Nombre del Cuestionario"
+
+#: php/admin/options-page-results-page-tab.php:19
+msgid "Results Pages"
+msgstr "Página de Resultados"
+
+#: php/admin/options-page-results-page-tab.php:43
+#: php/admin/options-page-results-page-tab.php:49
+msgid "Save Results Pages"
+msgstr "Guardar Página de Resultados"
+
+#: php/admin/options-page-results-page-tab.php:44
+#: php/admin/options-page-results-page-tab.php:50
+msgid "Add New Results Page"
+msgstr "Añadir Nueva Página de Resultados"
+
+#: mlw_quizmaster2.php:368 php/admin/quiz-options-page.php:274
+msgid "Are you sure?"
+msgstr "¿Está seguro?"
+
+#: php/admin/quizzes-page.php:186
+msgid "Preview"
+msgstr "Presentación"
+
+#: php/admin/quiz-options-page.php:237
+msgid "Please go to the quizzes page and click on the Edit link from the quiz you wish to edit."
+msgstr "Por favor vaya a la página de cuestionarios y haga click sobre el botón Editar en el cuestionario que desee editar."
+
+#: php/admin/options-page-questions-tab.php:21
+msgid "Questions"
+msgstr "Preguntas"
+
+#: php/admin/options-page-questions-tab.php:90
+msgid "Answer"
+msgstr "Respuesta"
+
+#: mlw_quizmaster2.php:390 php/admin/options-page-questions-tab.php:1108
+#: php/admin/options-page-questions-tab.php:1114
+#: php/admin/options-page-questions-tab.php:1148
+msgid "Add Question"
+msgstr "Añadir pregunta"
+
+#: php/admin/options-page-questions-tab.php:507
+msgid "Question Type"
+msgstr "Tipo de pregunta"
+
+#: php/admin/options-page-questions-tab.php:340
+msgid "Add New Answer!"
+msgstr "Añada nueva respuesta!"
+
+#: php/admin/options-page-questions-tab.php:378
+msgid "Correct Answer Info"
+msgstr "Información acerca de la respuesta correcta"
+
+#: php/admin/options-page-questions-tab.php:403
+msgid "Small Text Field"
+msgstr "Campo de texto corto"
+
+#: php/admin/options-page-questions-tab.php:404
+msgid "Large Text Field"
+msgstr "Campo de texto largo"
+
+#: php/admin/options-page-questions-tab.php:405
+msgid "None"
+msgstr "Ninguna"
+
+#: php/admin/options-page-contact-tab.php:173
+#: php/admin/options-page-questions-tab.php:575
+msgid "Required?"
+msgstr "¿Obligatorio?"
+
+#: php/admin/tools-page.php:67
+msgid "There has been an error! Please try again."
+msgstr "Ha habido un error! Por favor, inténtelo de nuevo."
+
+#: php/admin/tools-page.php:91
+msgid "Quiz Has Been Restored!"
+msgstr "El cuestionario ha sido restaurado!"
+
+#: php/admin/tools-page.php:97
+msgid "Choose a quiz in the drop down and then click the button to restore a deleted quiz."
+msgstr "Escoja un cuestionario en la lista desplegable y después haga click en el botón para restaurar una encuesta eliminada."
+
+#: php/admin/tools-page.php:109
+msgid "Restore Quiz"
+msgstr "Restaurar la encuesta"
+
+#. translators: %s: table limit
+#: php/admin/tools-page.php:151 php/admin/tools-page.php:182
+msgid "Previous %s Audits"
+msgstr ""
+"Auditoria \n"
+"%s Anterior"
+
+#. translators: %s: table limit
+#: php/admin/tools-page.php:160 php/admin/tools-page.php:171
+msgid "Next %s Audits"
+msgstr "Próxima %s Auditoria"
+
+#: php/admin/admin-results-page.php:328 php/admin/tools-page.php:192
+msgid "User"
+msgstr "Usuario"
+
+#: php/admin/tools-page.php:193
+msgid "Action"
+msgstr "Acción"
+
+#: php/admin/tools-page.php:195
+msgid "Time"
+msgstr "Tiempo"
+
+#: php/admin/admin-results-page.php:110
+msgid "Your results has been deleted successfully."
+msgstr "Sus resultados han sido eliminados correctamente."
+
+#: php/admin/admin-results-page.php:322
+msgid "Score"
+msgstr "Puntuación"
+
+#: php/admin/admin-results-page.php:323
+msgid "Time To Complete"
+msgstr "Tiempo para completar"
+
+#: php/admin/admin-results-page.php:325 php/admin/admin-results-page.php:524
+#: php/classes/class-qmn-plugin-helper.php:585
+#: php/classes/class-qmn-quiz-creator.php:88
+msgid "Business"
+msgstr "Asunto"
+
+#: php/admin/admin-results-page.php:327 php/admin/admin-results-page.php:528
+msgid "Phone"
+msgstr "Teléfono"
+
+#: php/admin/admin-results-details-page.php:192
+#: php/admin/admin-results-page.php:329
+msgid "Time Taken"
+msgstr "Tiempo empleado"
+
+#: php/admin/admin-results-page.php:495
+msgid "Are you sure you want to delete these results?"
+msgstr "¿Está seguro de que desea eliminar estos resultados?"
+
+#: php/admin/admin-results-page.php:500
+msgid "Delete Results"
+msgstr "Eliminar resultados"
+
+#: php/admin/quizzes-page.php:80
+msgid "Views"
+msgstr "Visitas"
+
+#: php/admin/functions.php:876
+msgid "Displays button to share on Facebook."
+msgstr "Muestra el botón para compartir en Facebook."
+
+#: php/admin/functions.php:877
+msgid "Displays button to share on Twitter."
+msgstr "Muestra el botón para compartir en Twitter."
+
+#: php/classes/class-qmn-quiz-manager.php:396
+#: php/classes/class-qmn-quiz-manager.php:416
+msgid "It appears that this quiz is not set up correctly"
+msgstr "Parece que la encuesta no ha sido configurada correctamente"
+
+#: php/admin/options-page-style-tab.php:227
+msgid "For help and guidance along with a list of different classes used in this plugin, please visit the following link:"
+msgstr "Para una ayuda detallada y guía acerca de las diferentes clases usadas en este plugin, visita el siguiente enlace:"
+
+#: php/admin/admin-results-page.php:326
+#: php/admin/options-page-contact-tab.php:145
+#: php/classes/class-qmn-plugin-helper.php:586
+#: php/classes/class-qmn-quiz-creator.php:89
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: php/admin/admin-results-page.php:474
+#: php/admin/options-page-contact-tab.php:164
+#: php/admin/options-page-questions-tab.php:714
+#: php/admin/options-page-questions-tab.php:723 php/admin/quizzes-page.php:184
+#: php/admin/quizzes-page.php:400 php/admin/quizzes-page.php:421
+#: php/admin/quizzes-page.php:450
+msgid "Delete"
+msgstr "Borrar"
+
+#: php/admin/quizzes-page.php:405
+msgid "Are you sure you want to delete this quiz or survey?"
+msgstr "¿Seguro que quieres borrar este cuestionario o encuesta?"
+
+#: php/admin/quizzes-page.php:379
+msgid "Duplicate questions also?"
+msgstr "¿Duplicar también las preguntas?"
+
+#: php/admin/functions.php:594
+msgid "Create New Quiz Or Survey"
+msgstr "Crear nueva encuesta o cuestionario"
+
+#: php/admin/quizzes-page.php:78 php/admin/quizzes-page.php:478
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: php/question-types.php:221
+msgid "Fill In The Blank"
+msgstr "Complete el espacio en blanco"
+
+#: php/question-types.php:217
+msgid "For fill in the blank types, use %BLANK% to represent where to put the text box in your text."
+msgstr "Para completar los tipos en blanco, use %BLANK% para representar dónde colocar el cuadro de texto en su texto."
+
+#: mlw_quizmaster2.php:481 php/admin/quizzes-page.php:305
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: php/admin/admin-results-details-page.php:167
+msgid "Name:"
+msgstr "Nombre:"
+
+#: php/classes/class-qsm-install.php:351
+msgid "Start Date"
+msgstr "Fecha de inicio"
+
+#: php/admin/admin-results-details-page.php:182
+msgid "Correct Answers:"
+msgstr "Respuestas correctas:"
+
+#: php/admin/options-page-questions-tab.php:1127
+msgid "Category:"
+msgstr "Categoría:"
+
+#: mlw_quizmaster2.php:597 mlw_quizmaster2.php:600 php/admin/addons-page.php:99
+#: php/admin/options-page-contact-tab.php:162
+#: php/admin/options-page-contact-tab.php:171
+#: php/admin/quiz-options-page.php:128 php/admin/tools-page.php:246
+msgid "Settings"
+msgstr "Configuración"
+
+#: mlw_quizmaster2.php:598
+msgid "Results"
+msgstr "Resultados"
+
+#: mlw_quizmaster2.php:601 php/admin/tools-page.php:25
+msgid "Tools"
+msgstr "Herramientas"
+
+#: mlw_quizmaster2.php:602
+msgid "Stats"
+msgstr "Estadísticas"
+
+#: mlw_quizmaster2.php:603
+msgid "Addon Settings"
+msgstr "Configuración de Addon"
+
+#: php/admin/quiz-options-page.php:131
+msgid "Help"
+msgstr "Ayuda"
+
+#: php/admin/functions.php:817
+msgid "Browse All Addons"
+msgstr "ver todos los complementos (addons)"
+
+#: php/admin/addons-page.php:18 php/admin/addons-page.php:201
+msgid "Featured Addons"
+msgstr "Complementos (addons) destacados"
+
+#: php/admin/options-page-contact-tab.php:176
+#: php/admin/options-page-option-tab.php:14
+msgid "Options"
+msgstr "Opciones"
+
+#: php/classes/class-qsm-install.php:76
+msgid "Correct/Incorrect"
+msgstr "Correcto/Incorrecto"
+
+#: mlw_quizmaster2.php:413 php/admin/admin-results-page.php:282
+#: php/admin/admin-results-page.php:387 php/admin/admin-results-page.php:389
+#: php/classes/class-qsm-install.php:80
+msgid "Points"
+msgstr "Puntos"
+
+#: php/admin/admin-dashboard.php:425 php/admin/admin-results-page.php:382
+#: php/admin/admin-results-page.php:391 php/rest-api.php:305
+msgid "Not Graded"
+msgstr "No clasificada"
+
+#: php/admin/functions.php:691 php/admin/options-page-questions-tab.php:424
+#: php/admin/options-page-questions-tab.php:436
+#: php/admin/options-page-questions-tab.php:579
+#: php/admin/options-page-questions-tab.php:683 php/admin/settings-page.php:429
+#: php/classes/class-qsm-install.php:152 php/classes/class-qsm-install.php:172
+#: php/classes/class-qsm-install.php:218 php/classes/class-qsm-install.php:237
+#: php/classes/class-qsm-install.php:414 php/classes/class-qsm-install.php:436
+#: php/classes/class-qsm-install.php:457 php/classes/class-qsm-install.php:477
+#: php/classes/class-qsm-install.php:497 php/classes/class-qsm-install.php:551
+#: php/classes/class-qsm-install.php:573 php/classes/class-qsm-install.php:595
+#: php/classes/class-qsm-install.php:614 php/classes/class-qsm-install.php:634
+#: php/classes/class-qsm-install.php:654 php/classes/class-qsm-install.php:675
+#: php/classes/class-qsm-install.php:695 php/classes/class-qsm-install.php:741
+#: php/classes/class-qsm-install.php:762 php/classes/class-qsm-install.php:782
+#: php/classes/class-qsm-install.php:802 php/classes/class-qsm-install.php:823
+#: php/classes/class-qsm-install.php:842 php/classes/class-qsm-install.php:863
+#: php/classes/class-qsm-install.php:883 php/classes/class-qsm-install.php:939
+#: php/classes/class-qsm-install.php:965 php/classes/class-qsm-install.php:990
+#: php/classes/class-qsm-install.php:1014
+#: php/classes/class-qsm-install.php:1038
+msgid "Yes"
+msgstr "sí"
+
+#: php/admin/options-page-email-tab.php:71
+#: php/admin/options-page-results-page-tab.php:60
+msgid "Template Variables"
+msgstr "Variables de la plantilla"
+
+#: php/admin/functions.php:864
+msgid "The name of the quiz"
+msgstr "El nombre de la encuesta"
+
+#: php/classes/class-qsm-fields.php:424
+msgid "Allowed Variables:"
+msgstr "Variables permitidas:"
+
+#: php/admin/options-page-email-tab.php:20
+msgid "Emails"
+msgstr "Emails"
+
+#: php/admin/functions.php:850
+msgid "Score for the quiz when using points"
+msgstr "Puntuación de la encuesta cuando se usan puntos"
+
+#: php/admin/functions.php:853
+msgid "The average amount of points user had per question"
+msgstr "Media de puntos por usuario por pregunta"
+
+#: php/admin/functions.php:854
+msgid "The number of correct answers the user had"
+msgstr "Número de respuestas correctas que obtuvo el usuario"
+
+#: php/admin/functions.php:695 php/admin/options-page-questions-tab.php:682
+#: php/admin/settings-page.php:434 php/classes/class-qsm-install.php:156
+#: php/classes/class-qsm-install.php:176 php/classes/class-qsm-install.php:222
+#: php/classes/class-qsm-install.php:241 php/classes/class-qsm-install.php:418
+#: php/classes/class-qsm-install.php:440 php/classes/class-qsm-install.php:461
+#: php/classes/class-qsm-install.php:481 php/classes/class-qsm-install.php:501
+#: php/classes/class-qsm-install.php:555 php/classes/class-qsm-install.php:577
+#: php/classes/class-qsm-install.php:599 php/classes/class-qsm-install.php:618
+#: php/classes/class-qsm-install.php:638 php/classes/class-qsm-install.php:658
+#: php/classes/class-qsm-install.php:679 php/classes/class-qsm-install.php:699
+#: php/classes/class-qsm-install.php:724 php/classes/class-qsm-install.php:745
+#: php/classes/class-qsm-install.php:766 php/classes/class-qsm-install.php:786
+#: php/classes/class-qsm-install.php:806 php/classes/class-qsm-install.php:827
+#: php/classes/class-qsm-install.php:846 php/classes/class-qsm-install.php:867
+#: php/classes/class-qsm-install.php:887 php/classes/class-qsm-install.php:943
+#: php/classes/class-qsm-install.php:961 php/classes/class-qsm-install.php:986
+#: php/classes/class-qsm-install.php:1010
+#: php/classes/class-qsm-install.php:1034
+msgid "No"
+msgstr "No"
+
+#: php/admin/functions.php:857
+msgid "The total number of questions in the quiz"
+msgstr "Número de preguntas totales en la encuesta"
+
+#: php/admin/functions.php:858
+msgid "Score for the quiz when using correct answers"
+msgstr "Puntuación de la encuesta basada en las respuestas correctas"
+
+#: php/admin/functions.php:859
+msgid "The name the user entered before the quiz"
+msgstr "Nombre que el usuario introdujo antes de la encuesta"
+
+#: php/admin/functions.php:861
+msgid "The business the user entered before the quiz"
+msgstr "El asunto que el usuario introdujo antes de la encuesta."
+
+#: php/admin/functions.php:862
+msgid "The phone number the user entered before the quiz"
+msgstr "El número de teléfono que el usuario introdujo antes de la encuesta"
+
+#: php/admin/functions.php:863
+msgid "The email the user entered before the quiz"
+msgstr "El email que el usuario introdujo antes de la encuesta"
+
+#: php/admin/functions.php:866
+msgid "Shows the question, the answer the user provided, and the correct answer"
+msgstr "Muestra la pregunta, la respuesta del usuario y la respuesta correcta"
+
+#: php/admin/functions.php:867
+msgid "The comments the user entered into comment box if enabled"
+msgstr "Los comentarios que el usuario introdujo en la caja de comentarios si esta está habilitada"
+
+#: php/admin/functions.php:873
+msgid "The average points from all categories."
+msgstr "La media de puntos contando todas las categorías."
+
+#: php/admin/functions.php:874
+msgid "The average score from all categories."
+msgstr "La puntuación media contando todas las categorías."
+
+#: php/admin/dashboard-widgets.php:168
+msgid "quizzes taken today"
+msgstr "encuestas completadas hoy"
+
+#: php/admin/dashboard-widgets.php:184
+msgid "quizzes taken last 7 days"
+msgstr "encuestas completadas los últimos 7 días"
+
+#: php/admin/dashboard-widgets.php:232
+msgid "total active quizzes"
+msgstr "total encuestas activas"
+
+#: php/admin/dashboard-widgets.php:238
+msgid "total active questions"
+msgstr "total preguntas activas"
+
+#: php/admin/dashboard-widgets.php:250
+msgid "most popular quiz"
+msgstr "encuesta más popular"
+
+#: php/admin/dashboard-widgets.php:262
+msgid "least popular quiz"
+msgstr "encuesta menos popular"
+
+#: php/classes/class-qmn-alert-manager.php:36
+msgid "Success!"
+msgstr "Hecho!"
+
+#: php/admin/about-page.php:37
+msgid "Need Help?"
+msgstr "¿Necesita ayuda?"
+
+#: php/admin/about-page.php:38
+msgid "System Info"
+msgstr "Información de sistema"
+
+#: php/admin/about-page.php:43
+msgid "Help Page"
+msgstr "Página de ayuda"
+
+#: php/admin/about-page.php:135
+msgid "Need help with the plugin? Try any of the following:"
+msgstr "¿Necesita ayuda con el plugin? Pruebe algo de lo siguiente:"
+
+#: php/admin/functions.php:868
+msgid "The amount of time user spent on quiz in seconds"
+msgstr "La cantidad de tiempo que el usuario empleó en la encuesta, en segundos"
+
+#: php/classes/class-qsm-fields.php:72
+msgid "The settings has been updated successfully."
+msgstr "Los ajustes han sido actualizados correctamente."
+
+#: php/classes/class-qsm-install.php:2146
+msgid "Support"
+msgstr "Soporte"
+
+#: php/admin/dashboard-widgets.php:216
+msgid "quizzes taken last 120 days"
+msgstr "cuestionarios realizados los últimos 120 días"
+
+#: php/admin/dashboard-widgets.php:200
+msgid "quizzes taken last 30 days"
+msgstr "cuestionarios realizados los últimos 30 días"
+
+#: php/admin/about-page.php:52
+msgid "Welcome To Quiz And Survey Master (Formerly Quiz Master Next)"
+msgstr "Bienvenido a Quiz And Survey Master (anteriormente Quiz Master Next)"
+
+#: php/admin/quiz-options-page.php:236
+#: php/classes/class-qmn-alert-manager.php:39
+msgid "Error!"
+msgstr "¡Error!"
+
+#: php/admin/dashboard-widgets.php:16
+msgid "Quiz And Survey Master Snapshot"
+msgstr "Instantánea de Quiz And Survey Master"
+
+#: mlw_quizmaster2.php:599
+msgid "Result Details"
+msgstr "Detalles del resultado"
+
+#: php/classes/class-qmn-review-message.php:95
+msgid "No, this plugin is not good enough"
+msgstr "No, este complemento no es lo suficientemente bueno"
+
+#: php/admin/admin-dashboard.php:553 php/admin/admin-dashboard.php:557
+msgid "Changelog"
+msgstr "Registro de cambios"

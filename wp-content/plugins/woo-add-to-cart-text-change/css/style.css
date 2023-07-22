@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'WooCommerce';
+  src: url("../../woocommerce/assets/fonts/WooCommerce.eot");
+  src: url("../../woocommerce/assets/fonts/WooCommerce.eot?#iefix") format("embedded-opentype"), 
+      url("../../woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("../../../woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), 
+      url("../../woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+

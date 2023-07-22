@@ -1,0 +1,26 @@
+.shortcut-button-mini-cart {
+  padding-left: 10px;
+  padding-right: 10px; }
+  .shortcut-button-mini-cart:before {
+    content: "";
+    width: 50%;
+    height: 1px;
+    background-color: #b2b2b2;
+    display: table;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25%; }
+  .shortcut-button-mini-cart > .paypal-buttons-context-iframe {
+    min-width: auto !important; }
+
+.shortcut-button:before {
+  content: "";
+  width: 50%;
+  height: 1px;
+  background-color: #b2b2b2;
+  display: table;
+  margin-bottom: 20px;
+  margin-left: 25%; }
+
+
+/*# sourceMappingURL=frontend-shortcut.css.map*/

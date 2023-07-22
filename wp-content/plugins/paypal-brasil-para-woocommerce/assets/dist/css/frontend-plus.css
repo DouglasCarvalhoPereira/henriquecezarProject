@@ -1,0 +1,215 @@
+@media (min-width: 768px) {
+  #order_review.woocommerce-checkout-review-order.payment-fixed {
+    max-height: calc(100% - 30px);
+    overflow: auto; } }
+
+#wc-ppb-brasil-wrappers {
+  position: relative;
+  min-height: 250px; }
+  #wc-ppb-brasil-wrappers iframe {
+    width: 100% !important; }
+
+#wc-ppp-brasil-container-dummy.hidden {
+  display: none; }
+
+#wc-ppb-brasil-container-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  padding: 30px;
+  justify-content: center;
+  box-sizing: border-box; }
+  #wc-ppb-brasil-container-overlay.hidden {
+    display: none; }
+  #wc-ppb-brasil-container-overlay .icon-lock {
+    display: block;
+    margin: 0 auto 15px auto;
+    background-image: url(../images/icon-lock.png);
+    width: 90px;
+    height: 90px;
+    background-repeat: no-repeat;
+    background-size: 100%; }
+  #wc-ppb-brasil-container-overlay .text {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em; }
+    #wc-ppb-brasil-container-overlay .text p {
+      margin-bottom: 15px; }
+  #wc-ppb-brasil-container-overlay div.missing-items {
+    color: red;
+    margin: 5px 0 10px 0;
+    font-style: italic;
+    font-size: 0.9em;
+    text-align: center; }
+
+#wc-ppp-brasil-container-loading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  #wc-ppp-brasil-container-loading.hidden {
+    display: none; }
+  #wc-ppp-brasil-container-loading .paypal-loading {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 60px auto;
+    font-size: 10px;
+    position: relative;
+    text-indent: -9999em;
+    border: 8px solid rgba(0, 0, 0, 0.2);
+    border-top-color: #2180c0;
+    animation: paypal-loading 0.7s infinite linear; }
+
+@keyframes paypal-loading {
+  100% {
+    transform: rotate(360deg); } }
+
+#ppp-dummy {
+  padding: 15px;
+  max-width: 780px;
+  margin: 0 auto; }
+  #ppp-dummy * {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px; }
+  #ppp-dummy .ppp-dummy-logo {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 6px; }
+    #ppp-dummy .ppp-dummy-logo img {
+      float: none !important;
+      height: 18px;
+      border-radius: 0; }
+  #ppp-dummy .ppp-container {
+    display: flex; }
+  #ppp-dummy .ppp-dummy-card-list {
+    margin-bottom: 8px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #f5f5f5;
+    color: #8B8F90;
+    display: flex; }
+    #ppp-dummy .ppp-dummy-card-list .ccard {
+      background: transparent url(../images/payment-icons-sprite.png) no-repeat;
+      width: 40px;
+      height: 30px;
+      display: block; }
+      #ppp-dummy .ppp-dummy-card-list .ccard.visa {
+        background-position: 0px -13px; }
+      #ppp-dummy .ppp-dummy-card-list .ccard.mcard {
+        background-position: 0px -42px; }
+      #ppp-dummy .ppp-dummy-card-list .ccard.amex {
+        background-position: 0px -100px; }
+      #ppp-dummy .ppp-dummy-card-list .ccard.hipercard {
+        background-position: -288px -42px; }
+      #ppp-dummy .ppp-dummy-card-list .ccard.hiper {
+        background-position: -288px -71px; }
+      #ppp-dummy .ppp-dummy-card-list .ccard.elo {
+        background-position: -288px -13px; }
+      #ppp-dummy .ppp-dummy-card-list .ccard.disc {
+        background-position: 0px -72px; }
+  #ppp-dummy .ppp-dummy-card-input {
+    margin: 0 0 10px 0; }
+  #ppp-dummy .ppp-dummy-input-credit-card {
+    position: relative; }
+    #ppp-dummy .ppp-dummy-input-credit-card input {
+      display: block;
+      width: 100%;
+      height: 34px;
+      padding: 6px 12px;
+      font-size: 14px;
+      line-height: 1.42857143;
+      color: #555;
+      background-color: #fff;
+      background-image: none;
+      border-radius: 4px;
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+      transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+      border: 1px solid #ccc; }
+    #ppp-dummy .ppp-dummy-input-credit-card .ppp-dummy-card-input-icon {
+      background: transparent url(../images/sprite-logos-wallet.png) no-repeat;
+      padding: 3px 1px 25px 45px;
+      display: inline-block;
+      position: absolute;
+      top: 5px;
+      right: 0;
+      width: 45px;
+      height: 27px; }
+    #ppp-dummy .ppp-dummy-input-credit-card.ppp-dummy-input-credit-card-generic .ppp-dummy-card-input-icon {
+      background-position: 0 -500px; }
+    #ppp-dummy .ppp-dummy-input-credit-card.ppp-dummy-input-credit-card-ccv .ppp-dummy-card-input-icon {
+      background-position: 0 -700px; }
+  #ppp-dummy .ppp-dummy-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 0 10px; }
+    #ppp-dummy .ppp-dummy-row .ppp-dummy-half {
+      width: calc(50% - 15px); }
+    #ppp-dummy .ppp-dummy-row .ppp-dummy-half:first-child {
+      margin-right: 30px; }
+  #ppp-dummy .ppp-dummy-flex {
+    display: flex; }
+  #ppp-dummy .ppp-dummy-input-dropdown input {
+    width: 100%;
+    color: #333;
+    background: #ffffff url(../images/sprite-forms.png) no-repeat 100% -1186px;
+    box-shadow: none;
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+            user-select: none;
+    border-radius: 4px; }
+  #ppp-dummy .ppp-dummy-label {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #333; }
+  #ppp-dummy .ppp-dummy-politice {
+    margin-top: 10px;
+    background-color: #FFF;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px #ccc;
+    margin-bottom: 10px; }
+  #ppp-dummy .ppp-dummy-newsletter {
+    font-weight: bold;
+    color: #333;
+    position: relative;
+    padding-left: 20px; }
+    #ppp-dummy .ppp-dummy-newsletter .fake-checkbox {
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      border: 1px solid #ccc;
+      box-shadow: inset 0 1px 1px #CCC;
+      border-radius: 3px;
+      position: absolute;
+      left: 0;
+      top: 3px; }
+
+.ppp-brasil-banner {
+  margin-top: 20px; }
+
+
+/*# sourceMappingURL=frontend-plus.css.map*/

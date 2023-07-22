@@ -1,0 +1,23 @@
+{
+  "phpsab.snifferEnable": false,
+  "phpsab.autoRulesetSearch": false,
+  // "phpsab.executablePathCBF": "C:\\Users\\hsein\\AppData\\Roaming\\Composer\\vendor\\squizlabs\\php_codesniffer\\bin\\phpcbf.bat",
+  // "phpsab.executablePathCS": "C:\\Users\\hsein\\AppData\\Roaming\\Composer\\vendor\\squizlabs\\php_codesniffer\\bin\\phpcs.bat",
+  "phpsab.executablePathCBF": "./vendor/bin/phpcbf.bat",
+  "phpsab.executablePathCS": "./vendor/bin/phpcs.bat",
+  "[php]": {
+    "editor.defaultFormatter": "valeryanm.vscode-phpsab"
+  },
+  "extensions.ignoreRecommendations": false,
+  "phpsab.snifferShowSources": true,
+  "phpsab.standard": "WordPress",
+  "phpsab.allowedAutoRulesets": [
+    ".phpcs.xml",
+    ".phpcs.xml.dist",
+    "phpcs.xml",
+    "phpcs.xml.dist",
+    "phpcs.ruleset.xml",
+    "ruleset.xml"
+  ],
+  "beautify.config": ""
+}

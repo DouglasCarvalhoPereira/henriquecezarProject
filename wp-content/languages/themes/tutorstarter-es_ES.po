@@ -1,0 +1,1580 @@
+# Translation of Themes - TutorStarter in Spanish (Spain)
+# This file is distributed under the same license as the Themes - TutorStarter package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-02 10:12:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Themes - TutorStarter\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Tutor Starter is a free WordPress LMS theme powered by Tutor LMS, the popular eLearning plugin for WordPress. It is designed to let Tutor LMS take center stage while also letting you pick what feels right. Tutor Starter is created with the same Unified Design System from Tutor LMS making it the perfect companion eLearning theme for Tutor LMS. Tutor Starter is also highly specialized for speed and efficiency, with all of its components optimized to give your eLearning website a great score on Google's PageSpeed. Tutor Starter pages are also schema ready and SEO optimized to make ranking on search engines as easy as pie! It also boasts an impressive blog single page for perfect readability. With full support for both Elementor and Gutenberg, Tutor Starter hopes to cater to the largest audience of both classic page builders and modern Gutenberg based builders. It comes with customizer settings for headers, footers, and everything in between. With several header and footer variations, advanced typography settings, and contextual page settings, create the eLearning website of your dreams with this free LMS theme. Tutor Starter features 3 modern and pre-built home layouts with fully functioning inner pages for both Elementor and Gutenberg to let you get started in no time. Tutor Starter also features a clean and light one-click demo importer to import all these pre-built home layouts for Gutenberg and Elementor. This, along with deep ties with Tutor LMS makes it a no-brainer WordPress LMS theme. Please Check theme demo here https://preview.tutorlms.com/"
+msgstr "Tutor Starter es un tema gratuito de WordPress LMS impulsado por Tutor LMS, el popular plugin de eLearning para WordPress. Está diseñado para permitir que Tutor LMS tome el centro del escenario, mientras que también le permite elegir lo que se siente bien. Tutor Starter se ha creado con el mismo Sistema de Diseño Unificado de Tutor LMS, lo que lo convierte en el tema de eLearning perfecto para Tutor LMS. Tutor Starter también está altamente especializado en velocidad y eficiencia, con todos sus componentes optimizados para dar a tu web de aprendizaje en línea una gran puntuación en PageSpeed de Google. Las páginas de Tutor Starter también están preparadas para schema y optimizadas para SEO para que el posicionamiento en los motores de búsqueda sea de lo más sencillo. También cuenta con un impresionante blog de una sola página para una perfecta legibilidad. Con soporte completo para Elementor y Gutenberg, Tutor Starter espera atender a la mayor audiencia de ambos constructores de página clásicos y modernos constructores basados en Gutenberg. Viene con ajustes de personalización para encabezados, pies de página y todo lo demás. Con varias variaciones de encabezado y pie de página, configuraciones avanzadas de tipografía y configuraciones contextuales de página, crea el sitio web de eLearning de tus sueños con este tema LMS gratuito. Tutor Starter cuenta con 3 diseños de inicio modernos y preconstruidos con páginas interiores totalmente funcionales tanto para Elementor como para Gutenberg para que puedas empezar en un abrir y cerrar de ojos. Tutor Starter también cuenta con un importador de demostraciones limpio y ligero de un solo clic para importar todos estos diseños de inicio pre-construidos para Gutenberg y Elementor. Esto, junto con profundos lazos con Tutor LMS lo convierte en un tema de WordPress LMS obvio. Consulta la demo del tema aquí https://preview.tutorlms.com/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "TutorStarter"
+msgstr "TutorStarter"
+
+#: inc/Api/Customizer/Header/Header.php:472
+#: inc/Api/Customizer/Header/Header.php:483
+msgid "Display cart button when product added?"
+msgstr "¿Mostrar el botón del carrito cuando se añade el producto?"
+
+#: woocommerce/checkout/form-coupon.php:31
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+#: woocommerce/checkout/form-coupon.php:24
+msgid "If you have a coupon code, please apply it below."
+msgstr "Si tienes un código de cupón, por favor, aplícalo abajo."
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr "Haz clic aquí para introducir tu código"
+
+#: woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr "¿Tienes un cupón?"
+
+#: inc/Api/Customizer/General/Colors.php:76
+#: inc/Api/Customizer/General/Colors.php:87
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: views/partials/header/header_default.php:63
+#: views/partials/header/header_transparent.php:87
+msgid "Instant Login"
+msgstr "Acceso instantáneo"
+
+#: views/partials/header/header_default.php:62
+#: views/partials/header/header_transparent.php:86
+msgid "Want to Explore!"
+msgstr "¡Quiero explorar!"
+
+#: inc/Traits/Header_Components.php:294
+msgid "Quiz Attempts"
+msgstr "Intentos del cuestionario"
+
+#: inc/Traits/Header_Components.php:289
+msgid "Withdrawals"
+msgstr "Retiradas"
+
+#: inc/Traits/Header_Components.php:284
+msgid "Announcements"
+msgstr "Anuncios"
+
+#: inc/Traits/Header_Components.php:279
+msgid "My Courses"
+msgstr "Mis cursos"
+
+#: inc/Traits/Header_Components.php:274
+msgid "Create Course"
+msgstr "Crear curso"
+
+#: inc/Traits/Header_Components.php:257
+msgid "Question & Answer"
+msgstr "Pregunta y respuesta"
+
+#: inc/Traits/Header_Components.php:253
+msgid "Order History"
+msgstr "Historial de pedidos"
+
+#: inc/Traits/Header_Components.php:249
+msgid "My Quiz Attempts"
+msgstr "Mis intentos de cuestionarios"
+
+#: inc/Traits/Header_Components.php:245
+msgid "Reviews"
+msgstr "Valoraciones"
+
+#: inc/Traits/Header_Components.php:241
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+#: inc/Traits/Header_Components.php:237
+msgid "Enrolled  Courses"
+msgstr "Cursos inscritos"
+
+#: inc/Traits/Header_Components.php:233
+msgid "My Profile"
+msgstr "Mi Perfil"
+
+#: inc/Traits/Header_Components.php:229
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: inc/Traits/Header_Components.php:177
+msgid "Logout"
+msgstr "Salir"
+
+#: inc/Traits/Header_Components.php:173
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/Traits/Header_Components.php:102 inc/Traits/Header_Components.php:269
+msgid "Instructor"
+msgstr "Instructor"
+
+#: inc/Traits/Header_Components.php:102
+msgctxt "Login as an instructor text"
+msgid "Login as an "
+msgstr "Acceder como "
+
+#: inc/Traits/Header_Components.php:90
+msgid "Explore courses that will<br />unlock your potential."
+msgstr "Explora cursos que<br />liberarán tu potencial."
+
+#: inc/Traits/Header_Components.php:89
+msgid "Let's Start<br />Learning"
+msgstr "Empecemos<br /> a aprender"
+
+#: inc/Traits/Header_Components.php:75
+msgid "Student"
+msgstr "Estudiante"
+
+#: inc/Traits/Header_Components.php:75
+msgctxt "Login as a student text"
+msgid "Login as a "
+msgstr "Acceder como "
+
+#: inc/Traits/Header_Components.php:63
+msgid "Get started with topics,<br />lessons and more"
+msgstr "Empieza con temas,<br />lecciones y más"
+
+#: inc/Traits/Header_Components.php:62
+msgid "Create a<br />New Course"
+msgstr "Crear un<br />nuevo curso"
+
+#: inc/Traits/Header_Components.php:47
+msgid "Hello"
+msgstr "Hola"
+
+#: inc/Api/Customizer/Header/Header.php:169
+msgid "Header Fullwidth Center"
+msgstr "Cabecera ancho completo centro"
+
+#: inc/Api/Customizer/Footer/Footer.php:214
+msgid "Type 6"
+msgstr "Tipo 6"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/Custom/class-tgm-plugin-activation.php:3522
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando plugin %1$s (%2$d/%3$d)"
+
+#: inc/Custom/class-tgm-plugin-activation.php:3520
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:3519
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/Custom/class-tgm-plugin-activation.php:3517
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/Custom/class-tgm-plugin-activation.php:3514
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/Custom/class-tgm-plugin-activation.php:3512
+msgid "All installations and activations have been completed."
+msgstr "Han terminado todas las instalaciones y activaciones."
+
+#. translators: 1: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:3511
+#: inc/Custom/class-tgm-plugin-activation.php:3519
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:3511
+#: inc/Custom/class-tgm-plugin-activation.php:3519
+msgid "Show Details"
+msgstr "Ver detalles"
+
+#. translators: 1: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:3511
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/Custom/class-tgm-plugin-activation.php:3509
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:3505
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/Custom/class-tgm-plugin-activation.php:3503
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/Custom/class-tgm-plugin-activation.php:3500
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: inc/Custom/class-tgm-plugin-activation.php:3160
+msgid "Plugin activation failed."
+msgstr "Fallo en la activación del plugin."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2936
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para activar en este momento."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2910
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se realizará ninguna acción."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2804
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para actualizar en este momento."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para instalar en este momento."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2761
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se realizará ninguna acción."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2728
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2725
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2719
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2686
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/Custom/class-tgm-plugin-activation.php:2616
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/Custom/class-tgm-plugin-activation.php:2610
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/Custom/class-tgm-plugin-activation.php:2605
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2556
+msgid "Status"
+msgstr "Estado"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2555
+msgid "Version"
+msgstr "Versión"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2551
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2550
+msgid "Source"
+msgstr "Origen"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2549
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2535
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: inc/Custom/class-tgm-plugin-activation.php:2512
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2500
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2492
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2484
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/Custom/class-tgm-plugin-activation.php:2402
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/Custom/class-tgm-plugin-activation.php:2398
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualización disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/Custom/class-tgm-plugin-activation.php:2394
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "A instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "A instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/Custom/class-tgm-plugin-activation.php:2390
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/Custom/class-tgm-plugin-activation.php:2344
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2335
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2332
+msgid "Requires Update"
+msgstr "Requiere actualización"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2329
+msgid "Required Update not Available"
+msgstr "Actualización requerida no disponible"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2323
+msgid "Active"
+msgstr "Activo"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2321
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2317
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2300
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2297
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2294
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2278
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/Custom/class-tgm-plugin-activation.php:2275
+msgid "Required"
+msgstr "Obligatorio"
+
+#. translators: %s: version number
+#: inc/Custom/class-tgm-plugin-activation.php:1984
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/Custom/class-tgm-plugin-activation.php:1123
+#: inc/Custom/class-tgm-plugin-activation.php:2950
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/Custom/class-tgm-plugin-activation.php:939
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/Custom/class-tgm-plugin-activation.php:936
+#: inc/Custom/class-tgm-plugin-activation.php:939
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: inc/Custom/class-tgm-plugin-activation.php:936
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: inc/Custom/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr "Actualización requerida"
+
+#: inc/Custom/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/Custom/class-tgm-plugin-activation.php:399
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#: inc/Custom/class-tgm-plugin-activation.php:398
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: inc/Custom/class-tgm-plugin-activation.php:397
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/Custom/class-tgm-plugin-activation.php:396
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:394
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:392
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se realizó ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/Custom/class-tgm-plugin-activation.php:390
+#: inc/Custom/class-tgm-plugin-activation.php:2954
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/Custom/class-tgm-plugin-activation.php:389
+#: inc/Custom/class-tgm-plugin-activation.php:3161
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/Custom/class-tgm-plugin-activation.php:388
+#: inc/Custom/class-tgm-plugin-activation.php:829
+#: inc/Custom/class-tgm-plugin-activation.php:2535
+#: inc/Custom/class-tgm-plugin-activation.php:3582
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/Custom/class-tgm-plugin-activation.php:387
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/Custom/class-tgm-plugin-activation.php:382
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/Custom/class-tgm-plugin-activation.php:377
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/Custom/class-tgm-plugin-activation.php:372
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/Custom/class-tgm-plugin-activation.php:366
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/Custom/class-tgm-plugin-activation.php:360
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/Custom/class-tgm-plugin-activation.php:354
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/Custom/class-tgm-plugin-activation.php:348
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin debe actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Los siguientes plugins necesitan actualizarse a la versión más reciente para asegurar la máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/Custom/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el plugin: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/Custom/class-tgm-plugin-activation.php:336
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/Custom/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:334
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/Custom/class-tgm-plugin-activation.php:332
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: inc/Custom/class-tgm-plugin-activation.php:330
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/Custom/class-tgm-plugin-activation.php:329
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: woocommerce/checkout/thankyou.php:62
+msgid "Payment method:"
+msgstr "Método de pago:"
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Total:"
+msgstr "Total:"
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr "Fecha:"
+
+#: woocommerce/checkout/thankyou.php:39
+msgid "Order number:"
+msgstr "Número del pedido:"
+
+#: woocommerce/checkout/thankyou.php:34 woocommerce/checkout/thankyou.php:76
+msgid "Thank you. Your order has been received."
+msgstr "Gracias. Tu pedido ha sido recibido."
+
+#: woocommerce/checkout/thankyou.php:28
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: woocommerce/checkout/thankyou.php:26
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/checkout/thankyou.php:23
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "Desafortunadamente, tu pedido no se puede procesar; el banco/comercio ha rechazado tu transacción. Por favor, intenta realizar la compra de nuevo."
+
+#: woocommerce/checkout/review-order.php:15
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Debido a que tu navegador no es compatible con JavaScript o lo tiene desactivado, por favor, asegúrate de hacer clic en el botón %1$sActualizar totales%2$s antes de realizar tu pedido. De no hacerlo, se te podría cobrar más de la cantidad indicada arriba."
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Por favor, introduce tus datos arriba para ver los métodos de pago disponibles."
+
+#: woocommerce/checkout/payment.php:33
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Lo siento, parece que no hay métodos de pago disponibles para tu provincia. Por favor, ponte en contacto con nosotros si necesitas ayuda."
+
+#: woocommerce/checkout/form-checkout.php:35
+msgid "Order Details"
+msgstr "Detalles del pedido"
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Debes iniciar sesión para realizar el pago"
+
+#: woocommerce/cart/cart.php:134
+msgid "Apply"
+msgstr "Aplicar"
+
+#: woocommerce/cart/cart.php:134
+msgid "Enter coupon"
+msgstr "Introducir cupón"
+
+#: woocommerce/cart/cart.php:111 woocommerce/checkout/form-checkout.php:94
+msgid "Summary"
+msgstr "Resumen"
+
+#: woocommerce/cart/cart.php:89
+msgid "Remove"
+msgstr "Eliminar"
+
+#: woocommerce/cart/cart.php:86
+msgid "Remove this item"
+msgstr "Borrar este artículo"
+
+#: woocommerce/cart/cart.php:63 woocommerce/checkout/form-checkout.php:73
+msgid "Available on backorder"
+msgstr "Disponible para reserva"
+
+#: woocommerce/cart/cart-totals.php:101 woocommerce/cart/cart-totals.php:102
+#: woocommerce/checkout/review-order.php:97
+msgid "Total"
+msgstr "Total"
+
+#. translators: %s location.
+#: woocommerce/cart/cart-totals.php:74
+msgid "(estimated for %s)"
+msgstr "(estimado para %s)"
+
+#: woocommerce/cart/cart-totals.php:50 woocommerce/cart/cart-totals.php:51
+msgid "Shipping"
+msgstr "Envío"
+
+#: woocommerce/cart/cart-totals.php:24 woocommerce/cart/cart-totals.php:25
+#: woocommerce/checkout/review-order.php:16
+#: woocommerce/checkout/review-order.php:50
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: views/partials/header/header_default.php:19
+#: views/partials/header/header_transparent.php:15
+msgid "Search..."
+msgstr "Buscar..."
+
+#. translators: %s: Name of current post.
+#: views/content-search.php:31
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: views/content-page.php:30 views/content-search.php:44
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: views/content-none.php:51
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: views/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con algunas palabras diferentes."
+
+#. translators: 1: link.
+#: views/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: views/content-none.php:15
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: views/blog/blog-grid.php:40 views/blog/blog-list.php:40 views/content.php:60
+msgid "Continue Reading &rarr;"
+msgstr "Seguir leyendo &rarr;"
+
+#. translators: %s: Search Term.
+#: search.php:28
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: page-templates/tpl-signup.php:66
+msgid "Already have an account?"
+msgstr "¿Ya tienes una cuenta?"
+
+#: page-templates/tpl-signup.php:58
+msgid "Privacy Policy"
+msgstr "Politica de privacidad"
+
+#: page-templates/tpl-signup.php:58
+msgid "and the"
+msgstr "y a la"
+
+#: page-templates/tpl-signup.php:58
+msgid "Terms and Conditions"
+msgstr "Términos y condiciones"
+
+#: page-templates/tpl-signup.php:58
+msgid "By signing up you agree to the"
+msgstr "Al registrarte, aceptas la"
+
+#: page-templates/tpl-signup.php:55
+msgid "Confirm your password"
+msgstr "Confirma tu contraseña"
+
+#: page-templates/tpl-signup.php:54
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+#: page-templates/tpl-signup.php:43
+msgid "John Doe"
+msgstr "Juan Nadie"
+
+#: page-templates/tpl-signup.php:42
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#. Template Name of the theme
+msgid "Sign Up"
+msgstr "Registro"
+
+#: page-templates/tpl-signin.php:61 page-templates/tpl-signup.php:35
+#: page-templates/tpl-signup.php:61
+msgid "Sign up"
+msgstr "Regístrate"
+
+#: page-templates/tpl-signin.php:61
+msgid "Don't have an account?"
+msgstr "¿No tienes una cuenta?"
+
+#: page-templates/tpl-signin.php:55 page-templates/tpl-signup.php:66
+msgid "Log in"
+msgstr "Acceder"
+
+#: page-templates/tpl-signin.php:52 page-templates/tpl-signup.php:51
+msgid "Type your password"
+msgstr "Escribe tu contraseña"
+
+#: page-templates/tpl-signin.php:49
+msgid "Forgot password?"
+msgstr "¿Has olvidado tu contraseña?"
+
+#: page-templates/tpl-signin.php:46 page-templates/tpl-signup.php:50
+msgid "Password"
+msgstr "Contraseña"
+
+#: page-templates/tpl-signin.php:42 page-templates/tpl-signup.php:47
+msgid "name@example.com"
+msgstr "nombre@example.com"
+
+#: page-templates/tpl-signin.php:41 page-templates/tpl-signup.php:46
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: page-templates/tpl-signin.php:34
+msgid "Sign in"
+msgstr "Acceder"
+
+#. Template Name of the theme
+msgid "Sign In"
+msgstr "Acceder"
+
+#: page-templates/tpl-getting-started.php:58
+msgid "tutor ™ 2021"
+msgstr "tutor ™ 2021"
+
+#: page-templates/tpl-getting-started.php:50
+msgid "I’m a student"
+msgstr "Soy un estudiante"
+
+#: page-templates/tpl-getting-started.php:47
+msgid "Student Registration"
+msgstr "Registro de estudiante"
+
+#: page-templates/tpl-getting-started.php:40
+msgid "Sign up as an instructor"
+msgstr "Registrarse como un instructor"
+
+#: page-templates/tpl-getting-started.php:37
+msgid "Instructor Registration"
+msgstr "Registro de instructor"
+
+#. Template Name of the theme
+#: page-templates/tpl-getting-started.php:29
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Plantilla de ancho completo"
+
+#. Template Name of the theme
+msgid "Canvas"
+msgstr "Lienzo"
+
+#: inc/Setup/Setup.php:114
+msgid "Huge"
+msgstr "Enorme"
+
+#: inc/Setup/Setup.php:109
+msgid "Big"
+msgstr "Grande"
+
+#: inc/Setup/Setup.php:104
+msgid "Medium+"
+msgstr "Mediano+"
+
+#: inc/Setup/Setup.php:99
+msgid "Medium"
+msgstr "Mediano"
+
+#: inc/Setup/Setup.php:94
+msgid "Normal+"
+msgstr "Normal+"
+
+#: inc/Setup/Setup.php:89
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/Setup/Setup.php:74
+msgid "Light grey"
+msgstr "Gris claro"
+
+#: inc/Setup/Setup.php:69
+msgid "Bluish Dark grey"
+msgstr "Gris oscuro azulado"
+
+#: inc/Setup/Setup.php:64
+msgid "Off White"
+msgstr "Blanco roto"
+
+#: inc/Setup/Setup.php:59
+msgid "Deep Navyblue"
+msgstr "Azul marino oscuro"
+
+#: inc/Setup/Setup.php:54
+msgid "Medium Blue"
+msgstr "Azul medio"
+
+#: inc/Setup/Menus.php:32
+msgid "CatMenu"
+msgstr "CatMenu"
+
+#: inc/Setup/Menus.php:31
+msgid "Primary"
+msgstr "Principal"
+
+#: inc/Setup/Dashboard.php:37
+msgid "General"
+msgstr "General"
+
+#: inc/Setup/Dashboard.php:30
+msgid "Tutor Starter"
+msgstr "Tutor Starter"
+
+#: inc/Setup/Dashboard.php:29
+msgid "Tutor Starter Options"
+msgstr "Opciones de Tutor Starter"
+
+#: inc/Helpers.php:549 inc/Helpers.php:570
+#: views/partials/header/header_default.php:73
+#: views/partials/header/header_transparent.php:97
+msgid "%s"
+msgstr "%s"
+
+#: inc/Helpers.php:494 woocommerce/checkout/form-checkout.php:13
+msgid "Complete Payment"
+msgstr "Completar el pago"
+
+#: inc/Helpers.php:457 inc/Helpers.php:475
+msgid "View your shopping cart"
+msgstr "Ver tu carrito de la compra"
+
+#: inc/Helpers.php:433
+msgid "Signin successful, redirecting..."
+msgstr "Acceso correcto, redirigiendo..."
+
+#: inc/Helpers.php:430
+msgid "Invalid login details"
+msgstr "Datos de acceso no válidos"
+
+#: inc/Helpers.php:419
+msgid "Password field is empty."
+msgstr "El campo contraseña está vacío."
+
+#: inc/Helpers.php:416
+msgid "Email is not valid."
+msgstr "El correo electrónico no es válido."
+
+#: inc/Helpers.php:395
+msgid "Incorrect username or password."
+msgstr "Nombre de usuario o contraseña incorrectos."
+
+#: inc/Helpers.php:391
+msgid "Registration successful, redirecting..."
+msgstr "Registro correcto, redirigiendo..."
+
+#: inc/Helpers.php:388
+msgid "Something went wrong! Please try again later."
+msgstr "Algo ha ido mal. Por favor, inténtalo de nuevo más tarde."
+
+#: inc/Helpers.php:368
+msgid "Password does not match."
+msgstr "La contraseña no coincide"
+
+#: inc/Helpers.php:365
+msgid "Password must be 7 characters or more."
+msgstr "A contraseña debe tener 7 caracteres o más."
+
+#: inc/Helpers.php:362
+msgid "This Email already exists."
+msgstr "Este correo electrónico ya existe."
+
+#: inc/Helpers.php:359
+msgid "Email address is not valid."
+msgstr "La dirección de correo electrónico no es válida."
+
+#: inc/Helpers.php:356
+msgid "Username already exists."
+msgstr "El nombre de usuario ya existe."
+
+#: inc/Helpers.php:352
+msgid "Please confirm the password."
+msgstr "Por favor, confirma la contraseña."
+
+#: inc/Helpers.php:349
+msgid "Please provide a strong password."
+msgstr "Por favor, proporciona una contraseña segura."
+
+#: inc/Helpers.php:346
+msgid "A valid email is required."
+msgstr "Es necesaria una dirección de correo electrónico válida."
+
+#: inc/Helpers.php:343
+msgid "Please provide a username."
+msgstr "Por favor, proporciona un nombre de usuario."
+
+#: inc/Helpers.php:334 inc/Helpers.php:409
+msgid "Cheating huh?"
+msgstr "¿Haciendo trampa?"
+
+#: inc/Helpers.php:321
+msgid ">"
+msgstr ">"
+
+#: inc/Helpers.php:320
+msgid "<"
+msgstr "<"
+
+#: inc/Custom/Schema/Custom_Metabox.php:29
+msgid "Tutor Starter Schema"
+msgstr "Schema de Tutor Starter"
+
+#. Translators: translatable string for post tags.
+#: inc/Core/Tags.php:114
+msgid "%1$s"
+msgstr "%1$s"
+
+#. Translators: %s: Name of current post.
+#: inc/Core/Tags.php:94 inc/Core/Tags.php:120
+msgid " Edit %s"
+msgstr " Editar %s"
+
+#. Translators: %s: post title.
+#: inc/Core/Tags.php:88
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. Translators: translatable string for post tags.
+#: inc/Core/Tags.php:82
+msgid " Tagged %1$s"
+msgstr " Etiquetado %1$s"
+
+#. Translators: translatable string for post categories.
+#: inc/Core/Tags.php:76
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/Core/Tags.php:73 inc/Core/Tags.php:79
+msgid ", "
+msgstr ", "
+
+#. Translators: translatable string for post author.
+#: inc/Core/Tags.php:57
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. Translators: translatable string for post date.
+#: inc/Core/Tags.php:52
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#. Translators: translatable string for post categories.
+#: inc/Core/Tags.php:46
+msgctxt "post categories"
+msgid " %1$s"
+msgstr " %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/Core/Tags.php:43 inc/Core/Tags.php:111
+msgid " "
+msgstr " "
+
+#: inc/Core/Sidebar.php:98
+msgid "Footer Social Media Area"
+msgstr "Área de redes sociales del pie de página"
+
+#: inc/Core/Sidebar.php:96
+msgid "Footer Social Media"
+msgstr "Medios sociales de pie de página"
+
+#: inc/Core/Sidebar.php:87
+msgid "Footer Four Widget Area"
+msgstr "Área de widgets cuatro del pie de página"
+
+#: inc/Core/Sidebar.php:85
+msgid "Footer Widget 4"
+msgstr "Widget 4 de pie de página"
+
+#: inc/Core/Sidebar.php:76
+msgid "Footer Three Widget Area"
+msgstr "Área de widgets tres del pie de página"
+
+#: inc/Core/Sidebar.php:74
+msgid "Footer Widget 3"
+msgstr "Widget 3 de pie de página"
+
+#: inc/Core/Sidebar.php:65
+msgid "Footer Two Widget Area"
+msgstr "Área de widgets dos del pie de página"
+
+#: inc/Core/Sidebar.php:63
+msgid "Footer Widget 2"
+msgstr "Widget 2 de pie de página"
+
+#: inc/Core/Sidebar.php:54
+msgid "Footer One Widget Area"
+msgstr "Área de widgets uno del pie de página"
+
+#: inc/Core/Sidebar.php:52
+msgid "Footer Widget 1"
+msgstr "Widget 1 de pie de página"
+
+#: inc/Core/Sidebar.php:43
+msgid "Page sidebar to add page specific widgets."
+msgstr "Barra lateral de página con widgets específicos de página."
+
+#: inc/Core/Sidebar.php:41
+msgid "Page Sidebar"
+msgstr "Barra lateral de página"
+
+#: inc/Core/Sidebar.php:32
+msgid "Default sidebar to add all your widgets."
+msgstr "Barra latera predeterminada para mostrar todos tus widgets."
+
+#: inc/Core/Sidebar.php:30
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/Api/Customizer/Header/Header.php:723
+#: inc/Api/Customizer/Header/Header.php:747
+msgid "Button Typography"
+msgstr "Tipografía del botón"
+
+#: inc/Api/Customizer/Header/Header.php:702
+#: inc/Api/Customizer/Header/Header.php:713
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/Api/Customizer/Header/Header.php:681
+#: inc/Api/Customizer/Header/Header.php:692
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: inc/Api/Customizer/Header/Header.php:661
+#: inc/Api/Customizer/Header/Header.php:672
+msgid "Transparent Button Text Color"
+msgstr "Color de texto de botón transparente"
+
+#: inc/Api/Customizer/Header/Header.php:641
+#: inc/Api/Customizer/Header/Header.php:652
+msgid "Button Text Color"
+msgstr "Color de texto del botón"
+
+#: inc/Api/Customizer/Header/Header.php:620
+#: inc/Api/Customizer/Header/Header.php:631
+msgid "Border Radius"
+msgstr "Radio de borde"
+
+#: inc/Api/Customizer/Header/Header.php:599
+#: inc/Api/Customizer/Header/Header.php:610
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+#: inc/Api/Customizer/Header/Header.php:579
+#: inc/Api/Customizer/Header/Header.php:590
+msgid "Transparent Border Color"
+msgstr "Color de borde transparente"
+
+#: inc/Api/Customizer/Header/Header.php:559
+#: inc/Api/Customizer/Header/Header.php:570
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: inc/Api/Customizer/Header/Header.php:532
+#: inc/Api/Customizer/Header/Header.php:550
+msgid "Transparent Btn BG Color"
+msgstr "Color de fondo de botón transparente"
+
+#: inc/Api/Customizer/Header/Header.php:512
+#: inc/Api/Customizer/Header/Header.php:523
+msgid "Button BG Color"
+msgstr "Color de fondo de botón"
+
+#: inc/Api/Customizer/Header/Header.php:492
+#: inc/Api/Customizer/Header/Header.php:503
+msgid "Show Starter Button?"
+msgstr "¿Mostrar botón de inicio?"
+
+#: inc/Api/Customizer/Header/Header.php:452
+#: inc/Api/Customizer/Header/Header.php:463
+msgid "Transparent Cart Color"
+msgstr "Color de carrito transparente"
+
+#: inc/Api/Customizer/Header/Header.php:432
+#: inc/Api/Customizer/Header/Header.php:443
+msgid "Cart Color"
+msgstr "Color del carrito"
+
+#: inc/Api/Customizer/Header/Header.php:405
+#: inc/Api/Customizer/Header/Header.php:423
+msgid "Sticky Header BG Color"
+msgstr "Color de fondo de cabecera fija"
+
+#: inc/Api/Customizer/Header/Header.php:378
+#: inc/Api/Customizer/Header/Header.php:396
+msgid "Make Header Sticky?"
+msgstr "¿Fijar la cabecera?"
+
+#: inc/Api/Customizer/Header/Header.php:358
+#: inc/Api/Customizer/Header/Header.php:369
+msgid "Show Search Icon?"
+msgstr "¿Mostrar icono de búsqueda?"
+
+#: inc/Api/Customizer/Header/Header.php:300
+#: inc/Api/Customizer/Header/Header.php:324
+msgid "Menu Typography"
+msgstr "Tipografía de menú"
+
+#: inc/Api/Customizer/Header/Header.php:273
+#: inc/Api/Customizer/Header/Header.php:291
+msgid "Transparent Link Active and Hover Color"
+msgstr "Color activo y al pasar por encima de enlace transparente"
+
+#: inc/Api/Customizer/Header/Header.php:246
+#: inc/Api/Customizer/Header/Header.php:264
+msgid "Menu Link Active and Hover Color"
+msgstr "Color activo y al pasar por encima de enlace de menú"
+
+#: inc/Api/Customizer/Header/Header.php:226
+#: inc/Api/Customizer/Header/Header.php:237
+msgid "Transparent Menu Link Color"
+msgstr "Color de enlace de menú transparente"
+
+#: inc/Api/Customizer/Header/Header.php:206
+#: inc/Api/Customizer/Header/Header.php:217
+msgid "Menu Link Color"
+msgstr "Color de menú de enlace"
+
+#: inc/Api/Customizer/Header/Header.php:186
+#: inc/Api/Customizer/Header/Header.php:197
+msgid "Header BG Color"
+msgstr "Color de fondo de cabecera"
+
+#: inc/Api/Customizer/Header/Header.php:165
+msgid "Header Fullwidth"
+msgstr "Cabecera de ancho completo"
+
+#: inc/Api/Customizer/Header/Header.php:161
+msgid "Header with Search Bar"
+msgstr "Cabecera con barra de búsqueda"
+
+#: inc/Api/Customizer/Header/Header.php:157
+msgid "Header Transparent"
+msgstr "Cabecera transparente"
+
+#: inc/Api/Customizer/Header/Header.php:153
+msgid "Header Default"
+msgstr "Cabecera por defecto"
+
+#: inc/Api/Customizer/Header/Header.php:138
+#: inc/Api/Customizer/Header/Header.php:149
+msgid "Select Header Type"
+msgstr "Selecciona el tipo de cabecera"
+
+#: inc/Api/Customizer/Header/Header.php:112
+#: inc/Api/Customizer/Header/Header.php:129
+msgid "Transparent Retina Logo"
+msgstr "Logo retina transparente"
+
+#: inc/Api/Customizer/Header/Header.php:86
+#: inc/Api/Customizer/Header/Header.php:103
+msgid "Retina Logo"
+msgstr "Logo retina"
+
+#: inc/Api/Customizer/Header/Header.php:60
+#: inc/Api/Customizer/Header/Header.php:77
+msgid "Transparent Logo"
+msgstr "Logo transparente"
+
+#: inc/Api/Customizer/Header/Header.php:37
+msgid "Customize the header"
+msgstr "Personalizar la cabecera"
+
+#: inc/Api/Customizer/Header/Header.php:36
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/Api/Customizer/General/Typography.php:442
+#: inc/Api/Customizer/General/Typography.php:466
+msgid "H6 Typography"
+msgstr "Tipografía H6"
+
+#: inc/Api/Customizer/General/Typography.php:384
+#: inc/Api/Customizer/General/Typography.php:408
+msgid "H5 Typography"
+msgstr "Tipografía H5"
+
+#: inc/Api/Customizer/General/Typography.php:326
+#: inc/Api/Customizer/General/Typography.php:350
+msgid "H4 Typography"
+msgstr "Tipografía H4"
+
+#: inc/Api/Customizer/General/Typography.php:268
+#: inc/Api/Customizer/General/Typography.php:292
+msgid "H3 Typography"
+msgstr "Tipografía H3"
+
+#: inc/Api/Customizer/General/Typography.php:210
+#: inc/Api/Customizer/General/Typography.php:234
+msgid "H2 Typography"
+msgstr "Tipografía H2"
+
+#: inc/Api/Customizer/General/Typography.php:152
+#: inc/Api/Customizer/General/Typography.php:176
+msgid "H1 Typography"
+msgstr "Tipografía H1"
+
+#: inc/Api/Customizer/General/Typography.php:125
+#: inc/Api/Customizer/General/Typography.php:144
+msgid "H1 - H6 Font Family"
+msgstr "Familia de fuentes H1 - H6"
+
+#: inc/Api/Customizer/General/Typography.php:65
+#: inc/Api/Customizer/General/Typography.php:89
+msgid "Body Typography"
+msgstr "Tipografía del cuerpo"
+
+#: inc/Api/Customizer/General/Typography.php:37
+#: inc/Api/Customizer/General/Typography.php:56
+msgid "Body Font"
+msgstr "Fuente del cuerpo"
+
+#: inc/Api/Customizer/General/Typography.php:29
+msgid "Typography Settings"
+msgstr "Ajustes de tipografía"
+
+#: inc/Api/Customizer/General/Typography.php:28
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/Api/Customizer/General/Layout.php:38
+#: inc/Api/Customizer/General/Layout.php:49
+msgid "Content Width (px)"
+msgstr "Ancho del contenido (px)"
+
+#: inc/Api/Customizer/General/Layout.php:31
+msgid "Layout Settings"
+msgstr "Ajustes de diseño"
+
+#: inc/Api/Customizer/General/Layout.php:30
+msgid "Layout"
+msgstr "Estructura"
+
+#: inc/Api/Customizer/General/Colors.php:57
+#: inc/Api/Customizer/General/Colors.php:68
+msgid "Body Text Color"
+msgstr "Color del texto del cuerpo"
+
+#: inc/Api/Customizer/General/Colors.php:38
+#: inc/Api/Customizer/General/Colors.php:49
+msgid "Body Background Color"
+msgstr "Color de fondo del cuerpo"
+
+#: inc/Api/Customizer/General/Colors.php:31
+msgid "Colors Settings"
+msgstr "Ajustes de colores"
+
+#: inc/Api/Customizer/General/Colors.php:30
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/Api/Customizer/Footer/Footer.php:432
+#: inc/Api/Customizer/Footer/Footer.php:443
+msgid "Footer Bottom Text"
+msgstr "Texto inferior del pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:412
+#: inc/Api/Customizer/Footer/Footer.php:423
+msgid "Footer Bottom Text Color"
+msgstr "Color de texto inferior de pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:353
+#: inc/Api/Customizer/Footer/Footer.php:377
+msgid "Widget Text Typography"
+msgstr "Tipografía de texto del widget"
+
+#: inc/Api/Customizer/Footer/Footer.php:294
+#: inc/Api/Customizer/Footer/Footer.php:318
+msgid "Widget Title Typography"
+msgstr "Tipografía de título del widget"
+
+#: inc/Api/Customizer/Footer/Footer.php:274
+#: inc/Api/Customizer/Footer/Footer.php:285
+msgid "Widgets Text Color"
+msgstr "Colo de texto de widgets"
+
+#: inc/Api/Customizer/Footer/Footer.php:254
+#: inc/Api/Customizer/Footer/Footer.php:265
+msgid "Footer Bottom BG Color"
+msgstr "Color de fondo de pie de página inferior"
+
+#: inc/Api/Customizer/Footer/Footer.php:234
+#: inc/Api/Customizer/Footer/Footer.php:245
+msgid "Widgets Background Color"
+msgstr "Color de fondo de widgets"
+
+#: inc/Api/Customizer/Footer/Footer.php:210
+msgid "Type 5"
+msgstr "Tipo 5"
+
+#: inc/Api/Customizer/Footer/Footer.php:206
+msgid "Type 4"
+msgstr "Tipo 4"
+
+#: inc/Api/Customizer/Footer/Footer.php:202
+msgid "Type 3"
+msgstr "Tipo 3"
+
+#: inc/Api/Customizer/Footer/Footer.php:198
+msgid "Type 2"
+msgstr "Tipo 2"
+
+#: inc/Api/Customizer/Footer/Footer.php:194
+msgid "Type 1"
+msgstr "Tipo 1"
+
+#: inc/Api/Customizer/Footer/Footer.php:179
+#: inc/Api/Customizer/Footer/Footer.php:190
+msgid "Select Footer Type"
+msgstr "Selecciona el tipo de pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:150
+#: inc/Api/Customizer/Footer/Footer.php:170
+msgid "Footer Transparent Retina Logo"
+msgstr "Logo retina transparente de pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:121
+#: inc/Api/Customizer/Footer/Footer.php:141
+msgid "Footer Transparent Logo"
+msgstr "Logo transparente de pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:92
+#: inc/Api/Customizer/Footer/Footer.php:112
+msgid "Footer Retina Logo"
+msgstr "Logo retina de pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:63
+#: inc/Api/Customizer/Footer/Footer.php:83
+msgid "Footer Bottom Logo"
+msgstr "Logo inferior de pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:43
+#: inc/Api/Customizer/Footer/Footer.php:54
+msgid "Show Social Media Icons?"
+msgstr "¿Mostrar iconos de redes sociales?"
+
+#: inc/Api/Customizer/Footer/Footer.php:36
+msgid "Customize the footer"
+msgstr "Personalizar el pie de página"
+
+#: inc/Api/Customizer/Footer/Footer.php:35 inc/Setup/Menus.php:33
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/Api/Customizer/Customizer.php:77
+msgid "Tutor Starter Options Panel"
+msgstr "Panel de opciones de Tutor Starter"
+
+#: inc/Api/Customizer/Blog/Sidebar.php:79
+#: inc/Api/Customizer/Blog/Sidebar.php:98
+msgid "Single Sidebar Type"
+msgstr "Tipo de barra lateral de single"
+
+#: inc/Api/Customizer/Blog/Sidebar.php:69
+#: inc/Api/Customizer/Blog/Sidebar.php:110
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/Api/Customizer/Blog/Sidebar.php:65
+#: inc/Api/Customizer/Blog/Sidebar.php:106
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/Api/Customizer/Blog/Sidebar.php:61
+#: inc/Api/Customizer/Blog/Sidebar.php:102
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/Api/Customizer/Blog/Sidebar.php:38
+#: inc/Api/Customizer/Blog/Sidebar.php:57
+msgid "Blog Sidebar Type"
+msgstr "Tipo de barra lateral de blog"
+
+#: inc/Api/Customizer/Blog/Sidebar.php:31
+msgid "Customize blog"
+msgstr "Personalizar blog"
+
+#: inc/Api/Customizer/Blog/Sidebar.php:30
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/Api/Customizer/Blog/Meta.php:172 inc/Api/Customizer/Blog/Meta.php:191
+msgid "Custom Excerpt Length"
+msgstr "Longitud personalizada del extracto"
+
+#: inc/Api/Customizer/Blog/Meta.php:153 inc/Api/Customizer/Blog/Meta.php:164
+msgid "Show Read More Button in Blog Listing?"
+msgstr "¿Mostrar botón de leer más en en el listado de blog?"
+
+#: inc/Api/Customizer/Blog/Meta.php:134 inc/Api/Customizer/Blog/Meta.php:145
+msgid "Show Post Excerpt in Blog Listing?"
+msgstr "¿Mostrar extracto de entradas en en el listado de blog?"
+
+#: inc/Api/Customizer/Blog/Meta.php:115 inc/Api/Customizer/Blog/Meta.php:126
+msgid "Show Post Title?"
+msgstr "¿Mostrar título de entrada?"
+
+#: inc/Api/Customizer/Blog/Meta.php:96 inc/Api/Customizer/Blog/Meta.php:107
+msgid "Show Featured Image?"
+msgstr "¿Mostrar la imagen destacada?"
+
+#: inc/Api/Customizer/Blog/Meta.php:76 inc/Api/Customizer/Blog/Meta.php:87
+msgid "Show Author?"
+msgstr "¿Mostrar el autor?"
+
+#: inc/Api/Customizer/Blog/Meta.php:56 inc/Api/Customizer/Blog/Meta.php:67
+msgid "Show Post Categories?"
+msgstr "¿Mostrar categorías de la entrada?"
+
+#: inc/Api/Customizer/Blog/Meta.php:29 inc/Api/Customizer/Blog/Meta.php:48
+msgid "Show Post Meta?"
+msgstr "¿Mostrar metadatos de las entradas?"
+
+#: inc/Api/Customizer/Blog/Blog_Layout.php:95
+msgid "2 Columns"
+msgstr "2 columnas"
+
+#: inc/Api/Customizer/Blog/Blog_Layout.php:94
+msgid "3 Columns"
+msgstr "3 columnas"
+
+#: inc/Api/Customizer/Blog/Blog_Layout.php:71
+#: inc/Api/Customizer/Blog/Blog_Layout.php:90
+msgid "Grid Columns"
+msgstr "Columnas en cuadrícula"
+
+#: inc/Api/Customizer/Blog/Blog_Layout.php:61
+msgid "Grid View"
+msgstr "Vista de cuadrícula"
+
+#: inc/Api/Customizer/Blog/Blog_Layout.php:57
+msgid "List View"
+msgstr "Vista de lista"
+
+#: inc/Api/Customizer/Blog/Blog_Layout.php:53
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/Api/Customizer/Blog/Blog_Layout.php:30
+#: inc/Api/Customizer/Blog/Blog_Layout.php:49
+msgid "Blog Layout"
+msgstr "Disposición del blog"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:49 comments.php:76
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:48 comments.php:75
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:45 comments.php:72
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: Comments count.
+#: comments.php:35
+msgid "%d Comment."
+msgid_plural "%d Comments."
+msgstr[0] "%d comentario."
+msgstr[1] "%d comentarios."
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themeum.com"
+msgstr "https://www.themeum.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Themeum"
+msgstr "Themeum"

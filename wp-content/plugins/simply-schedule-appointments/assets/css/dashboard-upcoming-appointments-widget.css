@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+#ssa-dashboard-upcoming-appointments-widget div.inside {
+	margin: 0px;
+	padding: 0px;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointments {
+	margin: 0px;
+	padding: 0px;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointment {
+	display: flex;
+	padding: 10px 0px;
+	margin: 0px;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointment:not(:last-child) {
+	border-bottom: 1px solid #ccc;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointment h4 {
+	font-size: 16px;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointment i {
+	padding: 0px 10px;
+	font-size: 48px;
+	color: #8BC34A;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointment .md-list-text-container>* {
+	margin: 0px;
+	gap: 0px;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointment .md-list-text-container p {
+	margin-right: 10px;
+}
+
+#ssa-dashboard-upcoming-appointments-widget .ssa-upcoming-appointment-links a:not(:first-child) {
+	border-left: 2px solid lightgray;
+	padding-left: 4px;
+}
+#ssa-dashboard-upcoming-appointments-widget a .md-list-text-container:last-of-type {
+	margin: auto;
+}
+
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-red {
+	color: #f44336 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-pink {
+	color: #E91E63 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-purple {
+	color: #9C27B0 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-deep-purple {
+	color: #673AB7 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-indigo {
+	color: #3f51b5 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-blue {
+	color: #2196f3 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-light-blue {
+	color: #03a9f4 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-cyan {
+	color: #00bcd4 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-teal {
+	color: #009688 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-green {
+	color: #4caf50 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-light-green {
+	color: #8bc34a ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-lime {
+	color: #cddc39 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-yellow {
+	color: #ffeb3b ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-amber {
+	color: #ffc107 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-orange {
+	color: #ff9800 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-deep-orange {
+	color: #ff5722 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-brown {
+	color: #795548 ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-grey {
+	color: #9e9e9e ;
+}
+
+#ssa-dashboard-upcoming-appointments-widget i.md-theme-blue-grey {
+	color: #607d8b ;
+}

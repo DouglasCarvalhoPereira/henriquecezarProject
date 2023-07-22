@@ -1,0 +1,57 @@
+.admin-options-container .banner {
+  width: 100%;
+  max-width: 720px; }
+
+.admin-options-container .preview-container {
+  width: 100%;
+  background-color: #fff;
+  max-width: 400px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px; }
+  .admin-options-container .preview-container img.preview {
+    max-width: 260px;
+    width: 100%; }
+
+.admin-options-container .state-success {
+  color: #00bb00; }
+
+.admin-options-container .state-error {
+  color: #de0000; }
+
+.admin-options-container .state-loading {
+  color: #0085ba; }
+  .admin-options-container .state-loading .dashicons {
+    animation-name: spin;
+    animation-duration: 750ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear; }
+
+.admin-options-container .reference-options-label {
+  display: block;
+  margin-bottom: 10px; }
+  .admin-options-container .reference-options-label:last-child {
+    margin-bottom: 0; }
+  .admin-options-container .reference-options-label.reference-options-label-wrong {
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 3px; }
+
+.admin-options-container .reference-options.reference-options-true {
+  color: green; }
+
+.admin-options-container .reference-options.reference-options-false {
+  color: red; }
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+
+
+/*# sourceMappingURL=admin-options-spb.css.map*/

@@ -1,0 +1,139 @@
+@import '../node_modules/@jcubic/tagger/tagger.css';
+@import 'editor';
+@import 'type-badges';
+
+/**
+ * Custom styling for the single snippet admin page
+ */
+
+.form-table th {
+	width: auto;
+}
+
+.notice.error blockquote {
+	margin-bottom: 0;
+}
+
+h2 {
+	/* Provide some decent space between the fields and titles. */
+	margin: 25px 0 15px 0;
+
+	&:first-of-type {
+		margin-top: 20px;
+	}
+
+	label {
+		cursor: auto;
+	}
+}
+
+.saved-snippet {
+	&.inactive-snippet, &.active-snippet {
+		#title {
+			border-right-width: 4px;
+		}
+	}
+
+	&.active-snippet #title {
+		border-right-color: #46b450;
+	}
+
+	&.inactive-snippet #title {
+		border-right-color: #bbb;
+	}
+
+	&.erroneous-snippet #title {
+		border-right-color: #dc3232;
+	}
+}
+
+#snippet-form {
+	margin-top: 10px;
+
+	#snippet-tags, textarea {
+		width: 100%;
+		font-family: monospace;
+	}
+}
+
+/* Position the description heading on the same level as the editor buttons */
+label[for='snippet_description'] h3 div {
+	position: absolute;
+}
+
+/* Add spacing in between the action buttons */
+.button + .button {
+	margin-left: .5em;
+}
+
+.submit, .submit-inline {
+	display: flex;
+}
+
+.submit-inline {
+	float: right;
+}
+
+p.snippet-scope, .snippet-scope p {
+	margin-top: 15px;
+}
+
+.snippet-description-container {
+	margin-top: 25px;
+
+	> h2 {
+		float: left;
+		margin: 0;
+	}
+
+	.wp-editor-tools {
+		padding-top: 5px;
+	}
+}
+
+.snippet-scope label,
+.html-shortcode-options strong {
+	display: inline-block;
+	margin-right: 1.5em;
+}
+
+.below-snippet-editor {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	padding-top: 1px;
+}
+
+.snippet-priority {
+	label {
+		font-weight: bold;
+		cursor: help;
+		font-size: 1.1em;
+		padding-right: 0.5em;
+	}
+
+	input {
+		width: 4em;
+	}
+}
+
+.snippet-editor {
+	position: relative;
+}
+
+.CodeMirror {
+	width: 100%;
+}
+
+.wrap h2.nav-tab-wrapper {
+	border-bottom: none;
+}
+
+.code-snippets-copy-text {
+	color: inherit;
+}
+
+@import 'edit/tooltips';
+@import 'edit/types';
+@import 'edit/tags';
+@import 'edit/upgrade-dialog';

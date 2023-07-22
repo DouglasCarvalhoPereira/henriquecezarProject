@@ -1,0 +1,1 @@
+let test = document.querySelector('.tutor-quiz-answer-single').style.width = '100%'

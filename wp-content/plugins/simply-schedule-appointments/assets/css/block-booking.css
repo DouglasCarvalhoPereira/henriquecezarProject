@@ -1,0 +1,29 @@
+.wp-block[data-type="ssa/booking"] .ssa-block-container {
+	position: relative;
+}
+
+.wp-block[data-type="ssa/booking"] .ssa-block-handler {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 2;
+}
+
+.ssa-checkboxes-input-container {
+	display: flex;
+}
+
+.ssa-checkboxes-input-container .components-base-control {
+	margin-bottom: calc(8px);
+}
+
+.ssa-checkboxes-input-container [type="button"].ssa-block-booking-uncheck-all {
+	box-shadow: none;
+	padding: 4px 9px;
+	margin: 5px 0 auto auto;
+	height: 100%;
+
+}
+
